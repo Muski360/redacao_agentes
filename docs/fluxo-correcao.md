@@ -8,11 +8,14 @@ recusa tema/texto vazios e imprime o caminho da execução. Opcionalmente,
 sem substituir o original. Cada execução tem diretório novo com `redacao.md`,
 `entrada.json`, `avaliacoes/` e `execucao-agentes.json`. Não sobrescreva uma execução.
 
-O programa só reconhece as seções do modelo. Metadados ficam fora do texto avaliado.
+O programa reconhece as seções do modelo e aceita `Texto` como alternativa a
+`Texto integral`. Metadados ficam fora do texto avaliado.
 Parágrafos são separados por linhas em branco; quebras dentro de um parágrafo são
 preservadas. Números de parágrafo são referências digitais, não linhas físicas.
 O campo de linhas aceita inteiro ou `desconhecida`. Não estime um valor ausente.
-Informe `manuscrito`, `braille` ou `desconhecido` no sistema de escrita.
+Informe `manuscrito`, `braille`, `digital` ou `desconhecido` no sistema de escrita.
+`digital` registra a produção no computador; não autoriza converter as linhas
+do editor em linhas físicas nem aplicar o mínimo de manuscrito/Braille ao arquivo.
 
 ## Delegação independente
 

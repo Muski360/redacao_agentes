@@ -1,0 +1,361 @@
+{
+  "corretor": "A",
+  "entrada_sha256": "476034dd29e9054b6fc006100cd2e34e5d9c74b20cc43f9a75c5c93403134521",
+  "situacao": {
+    "codigo": "normal",
+    "justificativa": "O texto apresenta tese, desenvolvimento de dois argumentos e intervenção, em português e com relação direta com o tema. Não há evidência textual de motivo de anulação. A extensão física não foi informada e não foi estimada.",
+    "evidencias": [
+      {
+        "paragrafo": 1,
+        "trecho": "Nesse cenário, a inércia do Poder Público e a busca predatória pelo lucro agravam a problemática, exigindo a análise de suas causas.",
+        "analise": "Formula um ponto de vista e anuncia os eixos desenvolvidos nos parágrafos seguintes, caracterizando o funcionamento dissertativo-argumentativo."
+      },
+      {
+        "paragrafo": 4,
+        "trecho": "Portanto, medidas são urgentes para combater a injustiça ambiental no Brasil.",
+        "analise": "A conclusão retoma o problema temático e introduz uma proposta de enfrentamento."
+      }
+    ]
+  },
+  "tema": {
+    "atendimento": "integral",
+    "justificativa": "O texto discute desafios à garantia da justiça ambiental no Brasil por meio da omissão estatal e da exploração econômica, relacionando-os à exposição de populações periféricas e vulneráveis à degradação e a riscos à saúde. Assim, contempla os obstáculos, a dimensão desigual dos danos ambientais e o recorte brasileiro, sem se limitar à preservação ambiental em geral.",
+    "evidencias": [
+      {
+        "paragrafo": 2,
+        "trecho": "o Governo falha em fiscalizar crimes ambientais e proteger populações periféricas dos impactos poluidores.",
+        "analise": "Vincula um obstáculo institucional à proteção desigual de grupos sociais contra danos ambientais."
+      },
+      {
+        "paragrafo": 2,
+        "trecho": "Consequentemente, famílias vulneráveis enfrentam a degradação de seus territórios e sérios riscos à saúde, evidenciando a fragilidade desse direito.",
+        "analise": "Explicita o recorte de justiça ambiental ao identificar quem sofre os danos e quais direitos são atingidos."
+      },
+      {
+        "paragrafo": 4,
+        "trecho": "combater a injustiça ambiental no Brasil.",
+        "analise": "Reafirma o problema e o recorte nacional na proposta conclusiva."
+      }
+    ]
+  },
+  "competencias": {
+    "C1": {
+      "nota": 200,
+      "justificativa": "O conjunto demonstra excelente domínio da escrita formal: períodos completos, subordinação controlada, concordância, regência, crase e pontuação adequadas, inclusive na intervenção extensa. A formulação inicial sobre a garantia da justiça ambiental apresenta uma imprecisão lexical localizada, explicitada nos problemas, mas não constitui recorrência nem compromete o domínio sintático global. O nível máximo admite excepcionalidade; não se aplica desconto automático por uma ocorrência isolada.",
+      "evidencias": [
+        {
+          "paragrafo": 2,
+          "trecho": "a Política Nacional do Meio Ambiente (Lei nº 6.938/81), embora assegurada no papel, mostra-se frágil na prática, uma vez que o Governo falha em fiscalizar crimes ambientais e proteger populações periféricas dos impactos poluidores.",
+          "analise": "Articula concessão e causa com delimitação adequada da oração intercalada e preserva o paralelismo dos infinitivos fiscalizar e proteger."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "empresas priorizam o retorno financeiro imediato em detrimento da sustentabilidade e do bem-estar social das comunidades locais.",
+          "analise": "Apresenta regência e paralelismo nominal adequados, com registro formal e sentido legível."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "da aplicação de sanções financeiras severas às empresas poluidoras, a fim de proteger a população atingida e resguardar os territórios vulneráveis.",
+          "analise": "Emprega corretamente a crase em às empresas e coordena os infinitivos que expressam a finalidade da medida."
+        },
+        {
+          "paragrafo": 1,
+          "trecho": "Contudo, a garantia da justiça ambiental evidencia a ineficácia dessa garantia no Brasil.",
+          "analise": "Há uma imprecisão lexical excepcional: a garantia é apresentada como evidência de sua própria ineficácia, quando o contraste com o dever estatal exige explicitar a insuficiência de sua efetivação. Não se observou reincidência dessa inadequação nos demais períodos."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Consolidar a revisão semântica dos enunciados de contraste, corrigindo a ocorrência localizada sem alterar a boa construção sintática do conjunto."
+    },
+    "C2": {
+      "nota": 200,
+      "justificativa": "Desenvolve integralmente o tema e apresenta excelente domínio da estrutura dissertativo-argumentativa, com tese, argumentos relacionados e conclusão propositiva. Há repertório sociocultural produtivo: a distância entre direito formal e realidade, associada a Dimenstein, é aplicada à política ambiental e à proteção insuficiente de populações periféricas. Locke organiza o contraste entre dever estatal e realidade e é retomado no desfecho. A referência a Han é articulada à prioridade do retorno financeiro sobre o bem-estar das comunidades; sua exatidão externa não foi verificada. A produtividade demonstrada no segundo parágrafo sustenta o nível máximo sem depender da quantidade ou da notoriedade das referências.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "Segundo o contrato social de John Locke, cabe ao Estado assegurar os direitos fundamentais dos cidadãos.",
+          "analise": "Fornece o parâmetro de responsabilidade estatal que a tese e o primeiro desenvolvimento problematizam."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "o jornalista Gilberto Dimenstein, em Cidadãos de Papel, critica a distância entre as garantias legais e a realidade social do país.",
+          "analise": "O conhecimento é mobilizado para explicar a diferença entre norma e efetivação, e não apenas mencionado como autoridade."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "a Política Nacional do Meio Ambiente (Lei nº 6.938/81), embora assegurada no papel, mostra-se frágil na prática, uma vez que o Governo falha em fiscalizar crimes ambientais e proteger populações periféricas dos impactos poluidores.",
+          "analise": "Aplica a ideia anterior ao campo ambiental e às populações atingidas, tornando o repertório pertinente e produtivo."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Consolidar a aplicação explícita do repertório ao problema, como ocorre na relação entre garantias legais e fiscalização ambiental."
+    },
+    "C3": {
+      "nota": 160,
+      "justificativa": "O projeto de texto é organizado e defende uma posição reconhecível: os dois eixos anunciados são desenvolvidos e retomados por uma intervenção pertinente. O primeiro argumento articula a distância entre legislação e prática à fiscalização insuficiente e às consequências para famílias vulneráveis. O limite para 200 está sobretudo no segundo desenvolvimento: a exploração predatória das áreas periféricas é explicada pela prioridade do lucro, mas a formulação não explicita como essa prioridade se converte em transferência dos custos ambientais para aquelas comunidades. O fechamento da vida como custo operacional reforça a avaliação crítica, sem preencher esse mecanismo. Há indícios de autoria na seleção e na articulação, mas o desenvolvimento desigual dos dois eixos impede caracterizar consistência plena no conjunto. Não se exige exemplo obrigatório nem aumento da extensão.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "a inércia do Poder Público e a busca predatória pelo lucro agravam a problemática",
+          "analise": "Anuncia os dois eixos efetivamente seguidos no desenvolvimento."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "Consequentemente, famílias vulneráveis enfrentam a degradação de seus territórios e sérios riscos à saúde, evidenciando a fragilidade desse direito.",
+          "analise": "Apresenta efeitos da proteção insuficiente e os relaciona ao direito discutido, fazendo o primeiro argumento avançar além da enunciação de omissão estatal."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "a exploração predatória de áreas periféricas por grandes corporações reflete essa lógica, visto que empresas priorizam o retorno financeiro imediato em detrimento da sustentabilidade e do bem-estar social das comunidades locais.",
+          "analise": "Identifica o incentivo econômico e o grupo atingido, mas deixa implícita a prática pela qual a redução de custos ou a elevação dos ganhos expõe essas comunidades aos danos ambientais. A priorização do lucro explica a motivação, com menor desenvolvimento de seu funcionamento."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Assim, a vida dessas pessoas é reduzida a um mero custo operacional descartável, o que corrobora a gravidade do impasse.",
+          "analise": "A síntese reforça a reprovação ética já estabelecida, mas não acrescenta o elo entre a operação empresarial e a distribuição dos danos ambientais."
+        }
+      ],
+      "proximo_nivel": "Substituir parte da generalização do terceiro parágrafo pela explicação de uma prática que gere lucro ao deslocar danos para as comunidades locais. Por exemplo, caso o autor opte por esse argumento, explicar como economizar no tratamento de rejeitos transfere à população custos de saúde e degradação territorial. Essa possibilidade é sugestão de conteúdo, não fato já apresentado no texto."
+    },
+    "C4": {
+      "nota": 200,
+      "justificativa": "As partes são bem articuladas por recursos variados e funcionais de oposição, ordenação, adição, causa, consequência, analogia e conclusão. Há também retomadas referenciais que mantêm os eixos e os grupos sociais identificáveis. A repetição de termos como garantia e problemática não cria, por si, uma falha coesiva. A imprecisão lexical da introdução foi examinada em C1; os conectores do conjunto não apresentam relações incompatíveis que justifiquem uma penalização adicional em C4.",
+      "evidencias": [
+        {
+          "paragrafo": 2,
+          "trecho": "Em primeiro plano, destaca-se a omissão estatal como vetor dessa problemática.",
+          "analise": "Ordena o primeiro argumento e retoma o problema anunciado na introdução."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "embora assegurada no papel, mostra-se frágil na prática, uma vez que o Governo falha em fiscalizar crimes ambientais",
+          "analise": "Expressa concessão e causa de modo compatível com a diferença entre garantia formal e implementação."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Além disso, a mercantilização da natureza em favor do lucro impulsiona a permanência desse cenário.",
+          "analise": "Acrescenta o segundo eixo e retoma a situação problemática sem ruptura temática."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Assim, a vida dessas pessoas é reduzida a um mero custo operacional descartável",
+          "analise": "O demonstrativo retoma os moradores das comunidades locais e o operador introduz a conclusão crítica do argumento."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "Dessa maneira, o país reduzirá os obstáculos identificados, aproximando a realidade nacional do contrato social de John Locke.",
+          "analise": "Liga a medida ao efeito esperado e fecha a cadeia referencial com o repertório da introdução."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Consolidar a revisão das relações expressas pelos conectores e das retomadas, preservando a variedade funcional já demonstrada."
+    },
+    "C5": {
+      "nota": 200,
+      "justificativa": "A proposta é explícita, detalhada, relacionada ao tema e articulada aos dois eixos: intensificar o combate aos crimes enfrenta a omissão fiscalizatória, e sancionar empresas poluidoras atua sobre a conduta econômica criticada. Identifica agente governamental com parceria, ação, modo de execução, finalidade e detalhamento do agente. Os elementos pertencem à mesma iniciativa e protegem a população vulnerável. A identificação do agente é suficiente para o âmbito governamental proposto, sem necessidade de exigir a enumeração dos órgãos executores ou um orçamento. Não há violação de direitos humanos.",
+      "evidencias": [
+        {
+          "paragrafo": 4,
+          "trecho": "o Ministério do Meio Ambiente e Mudança do Clima (MMA) — órgão responsável pela formulação das políticas de preservação no país —, em parceria com o Ministério da Justiça, deve intensificar o combate aos crimes ecológicos",
+          "analise": "Apresenta agente, parceria, detalhamento da função institucional e ação propositiva voltada ao problema desenvolvido."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "por meio do aumento do rigor nas fiscalizações e da aplicação de sanções financeiras severas às empresas poluidoras",
+          "analise": "Define a forma de execução e o alvo da responsabilização, conectando atuação estatal e exploração empresarial."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "a fim de proteger a população atingida e resguardar os territórios vulneráveis.",
+          "analise": "A finalidade preserva o recorte de justiça ambiental e indica os beneficiários."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Consolidar a elaboração de intervenções nas quais os elementos se mantenham vinculados entre si e aos mecanismos discutidos."
+    }
+  },
+  "parecer": "A redação atende integralmente ao tema e demonstra forte domínio da escrita formal, do gênero e da articulação linguística. Os repertórios são relacionados à discussão, com aplicação particularmente clara da distância entre direito formal e realidade à proteção ambiental. A proposta conclusiva é detalhada e recupera os eixos anunciados. O principal limite está na explicação do segundo argumento: identifica a busca de lucro e a exploração das periferias, mas explica pouco a prática que converte o ganho empresarial em custo ambiental suportado pelas comunidades. Há também uma imprecisão lexical isolada na segunda frase da introdução, corrigível por substituição, sem descaracterizar o excelente domínio global de C1.",
+  "acertos": [
+    "No parágrafo 1, a tese anuncia omissão estatal e busca de lucro; os parágrafos 2 e 3 seguem essa organização.",
+    "No parágrafo 2, a referência às garantias legais é aplicada à política ambiental e aos riscos enfrentados por famílias vulneráveis.",
+    "Nos parágrafos 2 e 3, os períodos preservam subordinação, paralelismo e registro formal com leitura clara.",
+    "Nos parágrafos 2 a 4, conectores e retomadas expressam relações reconhecíveis de causa, consequência, adição e conclusão.",
+    "No parágrafo 4, a intervenção reúne elementos explícitos e protege a população e os territórios vulneráveis."
+  ],
+  "paragrafos": [
+    {
+      "paragrafo": 1,
+      "funcao": "Contextualização do dever estatal, apresentação do problema e anúncio dos dois eixos argumentativos.",
+      "parecer": "Introduz uma referência pertinente e organiza com clareza o projeto de texto. A segunda frase precisa explicitar a insuficiência da garantia para que o contraste semântico seja preciso; o contexto permite compreender a crítica, mas a escolha do núcleo nominal produz uma formulação inadequada.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "Contudo, a garantia da justiça ambiental evidencia a ineficácia dessa garantia no Brasil.",
+          "analise": "A garantia é formulada como evidência da própria ineficácia, sem um termo que indique sua insuficiência ou não efetivação."
+        },
+        {
+          "paragrafo": 1,
+          "trecho": "a inércia do Poder Público e a busca predatória pelo lucro agravam a problemática",
+          "analise": "Estabelece os eixos que serão desenvolvidos e permite reconhecer o posicionamento defendido."
+        }
+      ]
+    },
+    {
+      "paragrafo": 2,
+      "funcao": "Desenvolvimento da omissão estatal como obstáculo à efetivação da justiça ambiental.",
+      "parecer": "Relaciona repertório, legislação, falha de fiscalização e danos a populações vulneráveis. A progressão é legível e a aplicação do conhecimento é produtiva: a contraposição entre papel e prática se concretiza na proteção insuficiente das comunidades.",
+      "evidencias": [
+        {
+          "paragrafo": 2,
+          "trecho": "critica a distância entre as garantias legais e a realidade social do país.",
+          "analise": "Introduz a ideia usada para interpretar a falta de efetivação da política ambiental."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "Consequentemente, famílias vulneráveis enfrentam a degradação de seus territórios e sérios riscos à saúde",
+          "analise": "Mostra quem é atingido e os efeitos da insuficiência de proteção, mantendo o foco na justiça ambiental."
+        }
+      ]
+    },
+    {
+      "paragrafo": 3,
+      "funcao": "Desenvolvimento do incentivo econômico à exploração ambiental e de seu efeito sobre comunidades periféricas.",
+      "parecer": "Mantém o segundo eixo e articula a referência teórica à prioridade do rendimento. O limite está na passagem do interesse econômico à exposição concreta das comunidades: a exploração é nomeada e criticada, mas sua operação como transferência de custos ambientais fica pouco explicitada. A última frase intensifica a avaliação ética sem preencher esse elo.",
+      "evidencias": [
+        {
+          "paragrafo": 3,
+          "trecho": "empresas priorizam o retorno financeiro imediato em detrimento da sustentabilidade e do bem-estar social das comunidades locais.",
+          "analise": "Define a prioridade empresarial, mas não especifica a prática que transforma essa prioridade em exposição ambiental das comunidades."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "a vida dessas pessoas é reduzida a um mero custo operacional descartável",
+          "analise": "Sintetiza criticamente a desvalorização das pessoas, sem acrescentar explicação do mecanismo ambiental mencionado."
+        }
+      ]
+    },
+    {
+      "paragrafo": 4,
+      "funcao": "Conclusão com intervenção e retomada do parâmetro de direitos apresentado na introdução.",
+      "parecer": "A proposta é completa e suficientemente detalhada: identifica responsáveis, fiscalização e sanções como execução, proteção de grupos vulneráveis como finalidade e função institucional como detalhamento. O desfecho retoma Locke e encerra o percurso argumentativo de modo coerente.",
+      "evidencias": [
+        {
+          "paragrafo": 4,
+          "trecho": "por meio do aumento do rigor nas fiscalizações e da aplicação de sanções financeiras severas às empresas poluidoras",
+          "analise": "Os meios enfrentam a omissão fiscalizatória e a atuação empresarial criticadas no desenvolvimento."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "aproximando a realidade nacional do contrato social de John Locke.",
+          "analise": "A retomada do repertório inicial reforça a relação entre intervenção e efetivação de direitos."
+        }
+      ]
+    }
+  ],
+  "problemas": [
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 1,
+      "trecho": "Contudo, a garantia da justiça ambiental evidencia a ineficácia dessa garantia no Brasil.",
+      "competencia": "C1",
+      "diagnostico": "Imprecisão lexical: a realização ou garantia do direito aparece como evidência de sua própria ineficácia. O contraste com o dever de assegurar direitos e com a inércia estatal anunciada em seguida pede a explicitação da insuficiência da efetivação, não da garantia tomada sem qualificação. É uma ocorrência localizada, sem reincidência, compatível com a excepcionalidade admitida no nível 200.",
+      "impacto": "O leitor precisa ajustar mentalmente o enunciado para recuperar o contraste entre dever estatal e realidade. O restante do parágrafo torna a crítica reconhecível, limitando o alcance do problema.",
+      "sugestao": "Substituir o enunciado por uma formulação que explicite a não efetivação do direito e elimine a repetição de garantia.",
+      "reformulacao": "Contudo, a insuficiente efetivação da justiça ambiental evidencia o descumprimento desse dever no Brasil."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "a exploração predatória de áreas periféricas por grandes corporações reflete essa lógica, visto que empresas priorizam o retorno financeiro imediato em detrimento da sustentabilidade e do bem-estar social das comunidades locais.",
+      "competencia": "C3",
+      "diagnostico": "O argumento relaciona lucro e exploração, mas desenvolve principalmente a motivação econômica. Não explicita a prática por meio da qual a prioridade do ganho desloca custos ou danos ambientais para as comunidades mencionadas. Essa ligação não é desenvolvida no restante do parágrafo, cuja conclusão apenas reforça a desvalorização da vida. O problema é o elo explicativo pouco desenvolvido, não a falta de citação, dado estatístico ou exemplo obrigatório.",
+      "impacto": "A concentração dos danos nas periferias permanece mais afirmada que explicada, tornando o segundo eixo menos consistente que o primeiro e limitando a C3 ao nível 160.",
+      "sugestao": "Substituir parte da afirmação geral por uma relação causal concreta. Uma possibilidade de conteúdo, a ser escolhida pelo autor, é mostrar como a economia com tratamento de rejeitos transfere custos ambientais e de saúde à comunidade.",
+      "reformulacao": "Ao reduzir gastos com o tratamento de rejeitos, empresas podem ampliar ganhos e transferir às comunidades locais os custos da contaminação de seus territórios."
+    }
+  ],
+  "repertorios": [
+    {
+      "paragrafo": 1,
+      "trecho": "Segundo o contrato social de John Locke, cabe ao Estado assegurar os direitos fundamentais dos cidadãos.",
+      "referencia": "Contrato social associado a John Locke e dever de proteção de direitos.",
+      "legitimidade": "Mobiliza conhecimento de filosofia política como parâmetro do dever estatal. Trata-se de uma paráfrase, não de citação literal comprovada; não foi realizada verificação externa.",
+      "pertinencia": "Relaciona-se ao dever de garantir direitos no contexto de injustiça ambiental.",
+      "produtividade": "Fornece o parâmetro confrontado pela omissão estatal do segundo parágrafo e retomado como objetivo no encerramento. A ligação não depende apenas da menção ao filósofo.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 2,
+      "trecho": "o jornalista Gilberto Dimenstein, em Cidadãos de Papel, critica a distância entre as garantias legais e a realidade social do país.",
+      "referencia": "Cidadãos de Papel, atribuído no texto a Gilberto Dimenstein.",
+      "legitimidade": "A referência a uma obra jornalística é apresentada como conhecimento sobre a não efetivação de direitos. A redação oferece uma interpretação geral, cuja exatidão bibliográfica e textual não foi verificada externamente.",
+      "pertinencia": "A diferença entre garantia legal e realidade é pertinente ao obstáculo institucional discutido.",
+      "produtividade": "O período seguinte aplica a ideia à política ambiental, à fiscalização insuficiente e à proteção de populações periféricas, sustentando o argumento em vez de deixar a obra como ornamento.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 2,
+      "trecho": "a Política Nacional do Meio Ambiente (Lei nº 6.938/81)",
+      "referencia": "Conhecimento jurídico sobre a Política Nacional do Meio Ambiente.",
+      "legitimidade": "Mobiliza uma referência normativa identificada por nome e número, sem que esta avaliação tenha consultado a legislação ou confirmado suas disposições específicas.",
+      "pertinencia": "Insere a discussão de garantias legais no contexto ambiental brasileiro.",
+      "produtividade": "Concretiza a oposição entre existência de norma e implementação insuficiente. O texto não se limita a citar o número da lei: associa a referência à fiscalização e à proteção das populações atingidas.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 3,
+      "trecho": "Byung-Chul Han, em A Sociedade do Cansaço, critica a busca cega pelo rendimento e pelo lucro, que subordina a dignidade humana à produtividade.",
+      "referencia": "A Sociedade do Cansaço, associada à crítica da centralidade do rendimento.",
+      "legitimidade": "Apresenta uma interpretação de obra filosófica. A extensão dessa interpretação à busca de lucro não foi conferida na obra; não se declara erro factual com base apenas na memória do avaliador.",
+      "pertinencia": "A prioridade do rendimento é relacionada à subordinação do bem-estar das comunidades ao retorno econômico.",
+      "produtividade": "Funciona como lente para a analogia entre desempenho e conduta empresarial. Há ligação textual explícita com o argumento, embora a operação concreta da exploração ambiental permaneça menos desenvolvida, limite examinado em C3.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    }
+  ],
+  "intervencao": {
+    "acao": {
+      "paragrafo": 4,
+      "trecho": "deve intensificar o combate aos crimes ecológicos",
+      "analise": "Propõe ampliar a atuação contra as infrações ambientais, enfrentando a omissão apresentada no desenvolvimento."
+    },
+    "agente": {
+      "paragrafo": 4,
+      "trecho": "o Ministério do Meio Ambiente e Mudança do Clima (MMA) — órgão responsável pela formulação das políticas de preservação no país —, em parceria com o Ministério da Justiça",
+      "analise": "Identifica o responsável governamental e uma parceria no campo de proteção ambiental e combate a crimes."
+    },
+    "meio": {
+      "paragrafo": 4,
+      "trecho": "por meio do aumento do rigor nas fiscalizações e da aplicação de sanções financeiras severas às empresas poluidoras",
+      "analise": "Explicita fiscalização e sanções como formas de executar a ação e responsabilizar os agentes econômicos mencionados."
+    },
+    "efeito": {
+      "paragrafo": 4,
+      "trecho": "a fim de proteger a população atingida e resguardar os territórios vulneráveis.",
+      "analise": "Estabelece a finalidade de proteção de pessoas e territórios, coerente com o recorte de justiça ambiental."
+    },
+    "detalhamento": {
+      "paragrafo": 4,
+      "trecho": "órgão responsável pela formulação das políticas de preservação no país",
+      "analise": "O aposto explica a função institucional do agente escolhido."
+    },
+    "direitos_humanos": "respeitados",
+    "justificativa": "Foi analisada a iniciativa única de intensificação do combate aos crimes ecológicos por fiscalização e sanções, com parceria governamental. Seus elementos estão expressos e pertencem à mesma proposta. A ação se articula à omissão estatal e à exploração econômica discutidas, tem finalidade protetiva e não defende punição extralegal ou violência. A sanção financeira, no contexto de combate a crimes, não constitui violação de direitos humanos."
+  },
+  "prioridades": [
+    {
+      "foco": "Explicitar o mecanismo causal do segundo argumento, no parágrafo 3.",
+      "exercicio": "Reescrever o período da exploração predatória substituindo uma afirmação geral por três ligações: prática empresarial, ganho econômico e dano transferido à comunidade. Usar apenas uma prática que o autor consiga explicar e sustentar.",
+      "criterio_sucesso": "O leitor consegue responder como a empresa ganha e como a comunidade assume o custo ambiental, sem que a reescrita apenas repita que o lucro é priorizado."
+    },
+    {
+      "foco": "Consolidar a precisão lexical dos contrastes, com revisão da segunda frase do parágrafo 1.",
+      "exercicio": "Identificar o dever mencionado antes de Contudo e reescrever a frase seguinte nomeando explicitamente a insuficiência de sua efetivação.",
+      "criterio_sucesso": "O contraste entre garantia esperada e realidade insuficiente é compreendido literalmente, sem depender de o leitor inserir uma negação ou limitação ausente."
+    }
+  ],
+  "limitacoes": [
+    "Linhas físicas desconhecidas. A entrada é digital e não permite aplicar contagem física da folha, estimar excesso de linhas ou avaliar caligrafia e translineação.",
+    "Textos motivadores ausentes. Não foi possível verificar cópia ou dependência em relação a eles, e nenhuma dessas condições foi presumida.",
+    "Referências filosóficas, bibliográficas e legais não verificadas externamente; a análise de pertinência e produtividade se baseou no uso que o próprio texto faz delas."
+  ]
+}

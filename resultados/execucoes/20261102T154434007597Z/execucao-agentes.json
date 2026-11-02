@@ -1,0 +1,47 @@
+{
+  "subagentes_reais": true,
+  "agentes": {
+    "A": {
+      "id": "/root/correcao_a_154434",
+      "modelo": "gpt-6.1-sol",
+      "esforco": "xhigh",
+      "contexto_novo": true,
+      "inicio": "2026-11-02T15:44:34+00:00",
+      "fim": "2026-11-02T15:49:31.139183+00:00",
+      "papel_carregado": "prompt",
+      "avaliacao": "avaliacoes/A.json",
+      "concluido": true
+    },
+    "B": {
+      "id": "/root/correcao_b_154434",
+      "modelo": "gpt-6.1-sol",
+      "esforco": "xhigh",
+      "contexto_novo": true,
+      "inicio": "2026-11-02T15:44:34+00:00",
+      "fim": "2026-11-02T15:49:31.139183+00:00",
+      "papel_carregado": "prompt",
+      "avaliacao": "avaliacoes/B.json",
+      "concluido": true
+    }
+  },
+  "observacoes": "Papéis TOML carregados pelo prompt; criação genérica com fork_turns=none. Início registrado imediatamente antes do lote A/B; fim será registrado ao observar a conclusão real. Independência de contexto e protocolo, sem isolamento do filesystem.",
+  "verificacoes": {
+    "sha256_original": "476034dd29e9054b6fc006100cd2e34e5d9c74b20cc43f9a75c5c93403134521",
+    "paragrafos": 4,
+    "linhas_fisicas": null,
+    "sistema_escrita": "digital",
+    "original_preservado_na_preparacao": true,
+    "original_preservado_ao_publicar": true
+  },
+  "criterios_sha256": {
+    "docs/politica-correcao.md": "89204ff6b6cd34ba9a42cb008a610fcd7fa97af7adeb0eec8dd7c5cd455d8e78",
+    "docs/contrato-avaliacao.md": "93611a3bcdbf4f3d97929c3de2394528490dc7a536baca1aef843cf2effee780",
+    "docs/situacoes-avaliacao.md": "550c42b77e36dddf5025dfe8e92126f08ee011ea507a7079b1fec3505e1ffc03",
+    "docs/competencia-1.md": "6ed44a72f5e56e9c2b151b0fc32f1f2c7d73391eb3e668c96c7c51c980b4f86a",
+    "docs/competencia-2.md": "a0e6253793faf9dbc5e9aff5e70cb63770525c351627fd7b42567a3942fc661b",
+    "docs/competencia-3.md": "887009a881c33bd206f215a210a99002cb03c2128d23e49d384c9880e05bfd42",
+    "docs/competencia-4.md": "a054ddfaa919a387c42d0180f74ffc22acc98fd7958b6b5c7e1222c235e9bbf0",
+    "docs/competencia-5.md": "012ca85bf764d3172627fbb9db4cdb532f16a38afb07167e307fe35c93cbef20"
+  },
+  "consolidacao_pedagogica": "Prioridades equivalentes de A/B reunidas na secao H; terceira pratica consolida acerto explicito de C5, sem novo problema ou nota. Diferenca qualitativa de classificacao da introducao registrada em I. Notas, decisoes e avaliacoes originais preservadas."
+}

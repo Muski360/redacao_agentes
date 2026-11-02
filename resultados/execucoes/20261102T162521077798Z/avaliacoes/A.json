@@ -1,0 +1,297 @@
+{
+  "corretor": "A",
+  "entrada_sha256": "8a6c7005437e9f57605f0cc4cbf739ffecb208ab3bd6a0c45d91cee36df6aa3a",
+  "situacao": {
+    "codigo": "normal",
+    "justificativa": "O texto apresenta uma tese sobre os efeitos da publicidade excessiva, argumentos e uma conclusão propositiva. Não há evidência de fuga ao tema, predominância de outro tipo textual ou outra situação de zero global. As linhas físicas são desconhecidas e não foram estimadas.",
+    "evidencias": [
+      {"paragrafo": 1, "trecho": "o exagero da divulgação de publicidade no cotidiano da população brasileira é preocupante", "analise": "A afirmação explicita o problema temático e uma posição a ser defendida."},
+      {"paragrafo": 4, "trecho": "deve realizar campanhas educativas nas escolas", "analise": "A conclusão formula uma intervenção, em continuidade ao desenvolvimento argumentativo."}
+    ]
+  },
+  "tema": {
+    "atendimento": "integral",
+    "justificativa": "O conjunto contempla a publicidade, seu excesso no cotidiano e os efeitos sobre a população brasileira: ansiedade, pressão para consumir e gastos além das possibilidades. O recorte brasileiro está explícito na tese e se mantém na proposta dirigida ao MEC.",
+    "evidencias": [
+      {"paragrafo": 1, "trecho": "o exagero da divulgação de publicidade no cotidiano da população brasileira", "analise": "O trecho contempla diretamente os elementos do recorte temático."},
+      {"paragrafo": 2, "trecho": "podendo levar o indivíduo a gastar mais do que pode", "analise": "O impacto econômico é associado à exposição publicitária e à ansiedade."},
+      {"paragrafo": 3, "trecho": "os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido", "analise": "O texto desenvolve um impacto psicológico da pressão pelo consumo."}
+    ]
+  },
+  "competencias": {
+    "C1": {
+      "nota": 120,
+      "justificativa": "Há domínio mediano da escrita formal. O texto mantém registro adequado e constrói períodos com subordinação, mas apresenta desvios distribuídos pelos quatro parágrafos, com reincidência em relações sintáticas e regência. São demonstráveis a construção de convencer, o indicativo após concessão hipotética, a concordância e a ausência de sujeito coerente em uma retomada, a regência de acarretar, a coordenação truncada com gerúndio, a separação de sujeito e verbo, a falta de hífen em público-alvo e a construção desde da. A escolha negar ainda inverte a orientação semântica do início do segundo parágrafo. Esse conjunto supera desvios apenas pontuais, sem caracterizar desconhecimento ou comprometimento generalizado da compreensão.",
+      "evidencias": [
+        {"paragrafo": 1, "trecho": "pois convencem a compra do produto divulgado, mesmo que não há necessidade útil", "analise": "A construção não explicita adequadamente quem é convencido a comprar e emprega há onde a concessão introduzida por mesmo que requer haja."},
+        {"paragrafo": 1, "trecho": "as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação", "analise": "O segmento final não mantém concordância nem sujeito explícito compatível: propagandas é feminino plural e brasileiro está no singular."},
+        {"paragrafo": 2, "trecho": "é indispensável negar que os anúncios atualmente são inevitáveis", "analise": "Negar afirma a rejeição da inevitabilidade, mas a sequência apresenta o alto número de anúncios como suporte à exposição excessiva. A escolha lexical desorienta o sentido da afirmação."},
+        {"paragrafo": 2, "trecho": "esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode", "analise": "Acarretar pede o efeito como complemento, e a sequência e podendo não completa adequadamente a coordenação iniciada pelo verbo flexionado."},
+        {"paragrafo": 3, "trecho": "o termo popular inglês \"FOMO\" - medo de não fazer parte -, descreve", "analise": "A vírgula posterior à intercalação separa o sujeito de seu verbo."},
+        {"paragrafo": 4, "trecho": "desde da formação escolar", "analise": "A preposição desde não admite a junção de de expressa em da: cabe desde a formação escolar."}
+      ],
+      "proximo_nivel": "Para aproximar o conjunto do nível 160, revise a cadeia sujeito-verbo-complemento, regularize regências e modos verbais e elimine as rupturas de coordenação e pontuação. A revisão precisa alcançar todos os parágrafos; não se trata de subtrair ou recuperar pontos por erro isolado."
+    },
+    "C2": {
+      "nota": 200,
+      "justificativa": "O tema é desenvolvido integralmente em texto dissertativo-argumentativo, com tese, discussão dos efeitos psicológicos e econômicos e conclusão articulada. Há repertório sociocultural produtivo: a ambientação publicitária de O Show de Truman fundamenta a aproximação com o cotidiano, enquanto FOMO é aplicado ao desconforto de não possuir o bem anunciado, ajudando a explicar a pressão pelo consumo. A estatística atribuída a João Branco também é usada como suporte à frequência de exposição, sem que sua atribuição tenha sido verificada. A produtividade não depende da quantidade de referências. Os limites locais de consistência e de articulação são discriminados nas competências próprias, sem descaracterizar o atendimento temático, o tipo textual ou o emprego produtivo de repertório.",
+      "evidencias": [
+        {"paragrafo": 1, "trecho": "vivendo em meio de publicidades implícitas e constantes em sua rotina. Paralelamente, fora da ficção", "analise": "A descrição do filme é explicitamente aproximada da presença cotidiana da publicidade, servindo à apresentação do problema."},
+        {"paragrafo": 3, "trecho": "o termo popular inglês \"FOMO\" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo", "analise": "O repertório é mobilizado para interpretar um efeito psicológico da publicidade, e a oração seguinte explica o desconforto de não ter o produto."},
+        {"paragrafo": 4, "trecho": "a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas", "analise": "A conclusão mantém os efeitos e o ponto de vista desenvolvidos, confirmando o domínio do percurso dissertativo-argumentativo."}
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Como consolidação, mantenha o uso explicativo de FOMO e a ligação explícita entre repertório, problema e tese; a atribuição da estatística permanece não verificada."
+    },
+    "C3": {
+      "nota": 160,
+      "justificativa": "As informações são selecionadas e organizadas em defesa da tese de que o excesso de publicidade gera ansiedade e consumo prejudicial. O percurso exposição frequente, pressão de pertencimento e formação de autonomia apresenta indícios de autoria, e FOMO recebe uma explicação funcional. O nível máximo é limitado por problemas localizados de consistência: o início do segundo parágrafo nega a inevitabilidade dos anúncios e recebe como fundamento um dado que aponta exposição intensa; no terceiro, a proibição da publicidade enganosa e abusiva não é relacionada a uma prática ilícita ou a um limite concreto da proteção. A intenção de estimular consumo, por si só, não explica essa passagem da lei ao problema. Esses limites não eliminam a organização global nem autorizam presumir dependência dos motivadores ausentes.",
+      "evidencias": [
+        {"paragrafo": 1, "trecho": "tende a se tornar um fator ansiogênico para o público", "analise": "A tese delimita o impacto psicológico que será retomado nos argumentos e na proposta."},
+        {"paragrafo": 2, "trecho": "é indispensável negar que os anúncios atualmente são inevitáveis", "analise": "Em C3, o problema é a relação de sustentação: a negação inicial não é demonstrada pelo dado subsequente de exposição frequente, deixando o argumento localmente contraditório. Esse efeito difere do diagnóstico lexical de C1."},
+        {"paragrafo": 3, "trecho": "mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir", "analise": "O texto não explica por que essa intenção persuasiva configura insuficiência da proteção contra publicidade enganosa ou abusiva. A lacuna está na construção do raciocínio, não em uma falsidade jurídica atribuída ao texto."},
+        {"paragrafo": 3, "trecho": "os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido", "analise": "Há desenvolvimento conciso do mecanismo que liga a publicidade à pressão para adquirir um produto."},
+        {"paragrafo": 4, "trecho": "campanhas educativas nas escolas sobre o consumo consciente de publicidade", "analise": "A formação para o consumo responde ao problema de autonomia apresentado no desenvolvimento."}
+      ],
+      "proximo_nivel": "Para chegar ao desenvolvimento consistente do nível 200, alinhe a afirmação inicial do segundo parágrafo ao dado usado como apoio e reformule a passagem sobre a lei. Uma possibilidade de revisão é esclarecer que a exposição excessiva pode pressionar o consumidor mesmo quando os anúncios não são enganosos ou abusivos; essa explicitação seria um acréscimo argumentativo do revisor."
+    },
+    "C4": {
+      "nota": 160,
+      "justificativa": "O texto apresenta recursos coesivos diversificados e mantém o encadeamento global, com comparação, adição, retomadas e conclusão. Paralelamente liga a ficção ao cotidiano; esse excesso retoma a publicidade recorrente; Ademais acrescenta um argumento; Portanto introduz a proposta. Há poucas inadequações localizadas: Entretanto contrapõe a proibição de anúncios enganosos e abusivos à intenção geral de persuadir, que é compatível com essa proibição; Por conseguinte introduz a explicação por FOMO como se fosse uma consequência da afirmação anterior. Esses usos não desfazem a articulação do conjunto, mas impedem o nível máximo.",
+      "evidencias": [
+        {"paragrafo": 1, "trecho": "Paralelamente, fora da ficção", "analise": "O recurso conecta o exemplo cinematográfico ao problema brasileiro por comparação."},
+        {"paragrafo": 2, "trecho": "Nesse sentido, esse excesso de publicidade", "analise": "A expressão demonstrativa retoma a alta exposição citada e mantém o foco temático."},
+        {"paragrafo": 3, "trecho": "publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir", "analise": "A marca adversativa sinaliza oposição entre proposições que, como formuladas, são compatíveis: a proibição de práticas específicas e a intenção persuasiva geral."},
+        {"paragrafo": 3, "trecho": "Por conseguinte, o termo popular inglês \"FOMO\"", "analise": "A expressão marca consequência, mas a função do conceito no trecho é explicar a pressão de consumo, e não decorrer da existência de regulamentos ou da finalidade da publicidade."},
+        {"paragrafo": 4, "trecho": "Portanto, o MEC - Ministério da Educação - deve realizar campanhas educativas nas escolas", "analise": "O conector conclusivo introduz uma resposta coerente ao problema desenvolvido."}
+      ],
+      "proximo_nivel": "Para atingir 200, faça as marcas de relação corresponderem às relações efetivamente construídas: explicite o alcance da lei antes de usar uma oposição e introduza FOMO como explicação. Preserve as retomadas e os conectores que já funcionam."
+    },
+    "C5": {
+      "nota": 200,
+      "justificativa": "A proposta é muito bem elaborada, relacionada ao tema e articulada à discussão sobre ansiedade e autonomia. Uma única iniciativa reúne agente identificável e pertinente ao âmbito educacional, ação, meios, finalidades e detalhamento do conteúdo das campanhas. O texto especifica o espaço escolar, os temas de consumo consciente e reação ao FOMO, palestras e atividades interativas, além dos efeitos desejados. O detalhamento é o conteúdo da ação, e não a simples expansão da sigla MEC. A estratégia educativa respeita os direitos humanos e não precisa resolver todas as modalidades de publicidade para atender ao descritor máximo.",
+      "evidencias": [
+        {"paragrafo": 4, "trecho": "o MEC - Ministério da Educação - deve realizar campanhas educativas nas escolas", "analise": "A proposta define quem deverá promover a iniciativa e qual será a ação em âmbito escolar."},
+        {"paragrafo": 4, "trecho": "sobre o consumo consciente de publicidade e de como reagir corretamente durante uma \"FOMO\"", "analise": "Os conteúdos particularizam a campanha e a ligam ao mecanismo psicológico discutido."},
+        {"paragrafo": 4, "trecho": "por meio de palestras diversificadas e atividades interativas", "analise": "Há meios expressos para executar a ação educativa."},
+        {"paragrafo": 4, "trecho": "a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas", "analise": "As finalidades retomam os efeitos negativos e a autonomia discutidos no desenvolvimento."}
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Como melhoria facultativa, uma das atividades interativas poderia ser exemplificada, sem que isso constitua elemento obrigatório ausente."
+    }
+  },
+  "parecer": "A redação atende integralmente ao tema e sustenta uma posição reconhecível sobre ansiedade e pressão pelo consumo. O emprego de FOMO explica um mecanismo do problema, e a intervenção educacional é detalhada e vinculada à discussão. A maior prioridade é revisar a formulação linguística, pois há desvios sintáticos e de regência distribuídos pelo texto. No raciocínio, a negação da inevitabilidade dos anúncios e a passagem da proteção legal à intenção de persuadir precisam de ajuste para que os fundamentos sustentem com precisão as afirmações. A coesão global funciona, com inadequações localizadas de relação lógica.",
+  "acertos": [
+    "No parágrafo 1, a tese explicita publicidade excessiva, cotidiano brasileiro e ansiedade: \"o exagero da divulgação de publicidade no cotidiano da população brasileira é preocupante\".",
+    "No parágrafo 2, o impacto econômico é localizado em \"gastar mais do que pode\", ampliando a discussão para além do incômodo publicitário.",
+    "No parágrafo 3, \"os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido\" explica a pressão de consumo associada ao FOMO.",
+    "No parágrafo 4, \"por meio de palestras diversificadas e atividades interativas\" define meios de execução, e as finalidades retomam ansiedade e autonomia.",
+    "Nos parágrafos 1 e 4, a referência a \"O Show de Truman\" abre e encerra a discussão, contribuindo para a unidade temática."
+  ],
+  "paragrafos": [
+    {
+      "paragrafo": 1,
+      "funcao": "Contextualização por analogia com um filme e apresentação da tese sobre ansiedade causada pela publicidade excessiva.",
+      "parecer": "A comparação conduz ao recorte brasileiro e estabelece a posição do texto. A formulação da tese é compreensível, mas construções de convencer, modo verbal e retomada do sujeito prejudicam sua precisão formal.",
+      "evidencias": [
+        {"paragrafo": 1, "trecho": "Paralelamente, fora da ficção, o exagero da divulgação de publicidade no cotidiano da população brasileira é preocupante", "analise": "A transição liga a contextualização à tese temática."},
+        {"paragrafo": 1, "trecho": "mesmo que não há necessidade útil", "analise": "A concessão apresenta desvio de modo verbal."},
+        {"paragrafo": 1, "trecho": "e que são afetados negativamente por essa exacerbação", "analise": "A leitura precisa reconstruir um sujeito humano plural que a formulação não apresenta adequadamente."}
+      ]
+    },
+    {
+      "paragrafo": 2,
+      "funcao": "Desenvolvimento da exposição frequente a anúncios e de sua ligação com ansiedade, consumismo e gastos excessivos.",
+      "parecer": "O dado numérico tem função de dimensionar a exposição, e o gasto excessivo é uma consequência pertinente. A palavra negar orienta a afirmação em sentido contrário ao suporte oferecido; a última frase também precisa regularizar regência e coordenação. A atribuição da estatística não foi verificada.",
+      "evidencias": [
+        {"paragrafo": 2, "trecho": "é indispensável negar que os anúncios atualmente são inevitáveis", "analise": "A afirmação nega uma característica que o dado subsequente não refuta."},
+        {"paragrafo": 2, "trecho": "uma pessoa vê, estimavelmente, 3,5 propagandas por minuto", "analise": "A informação é usada como dimensão da recorrência publicitária, sem comprovação externa nesta avaliação."},
+        {"paragrafo": 2, "trecho": "e consequentemente, podendo levar o indivíduo a gastar mais do que pode", "analise": "A consequência econômica é pertinente, mas sua ligação sintática com a oração anterior é truncada."}
+      ]
+    },
+    {
+      "paragrafo": 3,
+      "funcao": "Discussão da pressão para consumir, com menção à proteção legal, explicação por FOMO e encaminhamento para a necessidade de intervenção.",
+      "parecer": "A explicação do desconforto por não possuir o produto desenvolve a tese. A passagem pela legislação não distingue intenção persuasiva de publicidade enganosa ou abusiva; as marcas Entretanto e Por conseguinte não representam com precisão as relações formuladas. Há ainda pontuação indevida entre o sujeito FOMO e o verbo descreve.",
+      "evidencias": [
+        {"paragrafo": 3, "trecho": "publicidades enganosas e as publicidades abusivas são proibidas por lei", "analise": "O conhecimento jurídico é pertinente à proteção do consumidor, mas sua função no argumento seguinte precisa ser explicitada."},
+        {"paragrafo": 3, "trecho": "os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido", "analise": "O texto vai além de nomear FOMO e explicita uma pressão psicológica."},
+        {"paragrafo": 3, "trecho": "aumentar a autonomia da audiência e diminuir a ansiedade do consumo", "analise": "O fechamento do desenvolvimento prepara as finalidades da proposta."}
+      ]
+    },
+    {
+      "paragrafo": 4,
+      "funcao": "Conclusão com proposta de educação para o consumo e retomada do filme de abertura.",
+      "parecer": "A proposta reúne elementos suficientes e detalhamento ligado ao conteúdo das campanhas. As finalidades respondem ao desenvolvimento. Os ajustes de paralelismo e de desde da são formais e não invalidam a intervenção.",
+      "evidencias": [
+        {"paragrafo": 4, "trecho": "deve realizar campanhas educativas nas escolas", "analise": "Há ação explícita e espaço de realização."},
+        {"paragrafo": 4, "trecho": "por meio de palestras diversificadas e atividades interativas", "analise": "O modo de execução é identificável."},
+        {"paragrafo": 4, "trecho": "a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas", "analise": "A proposta mantém o foco nos impactos psicológicos e na autonomia."}
+      ]
+    }
+  ],
+  "problemas": [
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 1, "trecho": "pois convencem a compra do produto divulgado", "competencia": "C1",
+      "diagnostico": "A construção de convencer não identifica adequadamente o destinatário da persuasão e apresenta a compra como complemento direto. Para o sentido defendido, cabe convencer o público a comprar. Além disso, o plural do verbo não retoma de maneira regular o núcleo singular exagero ou publicidade da oração anterior.",
+      "impacto": "A relação entre quem persuade, quem é persuadido e o ato de comprar precisa ser reconstruída pelo leitor.",
+      "sugestao": "Explicite publicidade como agente e público como destinatário, regularizando a construção verbal.",
+      "reformulacao": "pois a publicidade convence o público a comprar o produto divulgado"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 1, "trecho": "mesmo que não há necessidade útil", "competencia": "C1",
+      "diagnostico": "A concessão introduzida por mesmo que requer o subjuntivo no contexto, em lugar do presente do indicativo há.",
+      "impacto": "O modo verbal não corresponde à relação concessiva formulada.",
+      "sugestao": "Substitua há por haja.",
+      "reformulacao": "mesmo que não haja necessidade útil"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 1, "trecho": "as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação", "competencia": "C1",
+      "diagnostico": "O segundo segmento não apresenta sujeito compatível com afetados: propagandas é feminino plural e brasileiro é singular. A população afetada precisa ser expressa em uma construção concordante.",
+      "impacto": "A formulação mistura o enunciado sobre a presença das propagandas com o enunciado sobre quem sofre seus efeitos.",
+      "sugestao": "Explicite os brasileiros como sujeito da segunda afirmação.",
+      "reformulacao": "as propagandas fazem parte da rotina do brasileiro há décadas e que os brasileiros são afetados negativamente por essa exacerbação"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 2, "trecho": "é indispensável negar que os anúncios atualmente são inevitáveis", "competencia": "C1",
+      "diagnostico": "Negar rejeita a inevitabilidade dos anúncios, enquanto o contexto apresenta sua frequência como sustentação da exposição intensa. A escolha lexical inverte a orientação semântica do tópico, sem evidência de que se trate de erro de transcrição.",
+      "impacto": "A leitura hesita entre uma defesa da possibilidade de evitar anúncios e a tese de sua presença constante. O diagnóstico de C1 incide sobre a palavra escolhida; o efeito de sustentação argumentativa é explicitado em C3.",
+      "sugestao": "Se a intenção for manter a tese de exposição recorrente que aparece no conjunto, substitua negar por reconhecer.",
+      "reformulacao": "é indispensável reconhecer que os anúncios atualmente são inevitáveis"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 2, "trecho": "público alvo", "competencia": "C1",
+      "diagnostico": "O composto público-alvo é grafado com hífen.",
+      "impacto": "Há um desvio de convenção da escrita, sem prejuízo relevante de compreensão.",
+      "sugestao": "Inclua o hífen no composto.",
+      "reformulacao": "público-alvo"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 2, "trecho": "esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode", "competencia": "C1",
+      "diagnostico": "Acarretar deve receber o resultado como complemento, não a construção acarretar as pessoas a serem. A coordenação com e podendo também deixa a consequência sem uma construção sintática paralela à primeira oração.",
+      "impacto": "Embora a relação publicidade-ansiedade-consumo seja recuperável, a formulação torna truncada a passagem para a consequência econômica.",
+      "sugestao": "Empregue um verbo compatível com pessoa mais infinitivo e ligue a consequência por oração completa.",
+      "reformulacao": "esse excesso de publicidade leva as pessoas ao consumismo por conta da ansiedade envolvida, o que, consequentemente, pode levá-las a gastar mais do que podem"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 3, "trecho": "o termo popular inglês \"FOMO\" - medo de não fazer parte -, descreve", "competencia": "C1",
+      "diagnostico": "A vírgula após a intercalação separa o sujeito o termo popular inglês FOMO do predicado iniciado por descreve.",
+      "impacto": "A pontuação interrompe indevidamente a relação sintática principal.",
+      "sugestao": "Mantenha a explicação intercalada e retire a vírgula antes de descreve.",
+      "reformulacao": "o termo popular inglês \"FOMO\" — medo de não fazer parte — descreve"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 4, "trecho": "sobre o consumo consciente de publicidade e de como reagir corretamente", "competencia": "C1",
+      "diagnostico": "Os dois conteúdos da campanha não são coordenados com a mesma regência: a construção iniciada por sobre muda para de como.",
+      "impacto": "O paralelismo dos complementos da ação educativa fica irregular.",
+      "sugestao": "Retome sobre antes de como, mantendo os dois conteúdos propostos.",
+      "reformulacao": "sobre o consumo consciente de publicidade e sobre como reagir corretamente"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 4, "trecho": "desde da formação escolar", "competencia": "C1",
+      "diagnostico": "Há acréscimo indevido de de depois da preposição desde.",
+      "impacto": "A expressão temporal apresenta um desvio de regência, embora o marco inicial seja compreensível.",
+      "sugestao": "Use desde a.",
+      "reformulacao": "desde a formação escolar"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 2, "trecho": "é indispensável negar que os anúncios atualmente são inevitáveis", "competencia": "C3",
+      "diagnostico": "A afirmação de abertura nega a inevitabilidade, mas o dado de 3,5 propagandas por minuto oferece suporte à exposição frequente, sem demonstrar que ela possa ser evitada. O problema argumentativo é a incompatibilidade entre afirmação e fundamento; não se trata de outro desconto automático pela mesma palavra analisada em C1.",
+      "impacto": "O primeiro argumento começa com uma posição que não é sustentada pelo restante do parágrafo, diminuindo a consistência local do projeto.",
+      "sugestao": "Alinhe o tópico ao dado efetivamente apresentado. Uma revisão possível é formular a presença recorrente dos anúncios, preservando a discussão do excesso.",
+      "reformulacao": "é indispensável reconhecer a presença recorrente dos anúncios no cotidiano"
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 3, "trecho": "mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir", "competencia": "C3",
+      "diagnostico": "Depois de mencionar a proibição de publicidade enganosa e abusiva, o texto apresenta a finalidade geral de estimular consumo, sem explicar a insuficiência da proteção ou distinguir persuasão legal de práticas proibidas. A lacuna foi constatada no parágrafo e no conjunto, sem afirmar que a informação jurídica seja falsa.",
+      "impacto": "O argumento sobre a lei não contribui com precisão para explicar por que a pressão de consumo persiste.",
+      "sugestao": "Uma possibilidade de acréscimo argumentativo do revisor é distinguir proteção contra práticas ilícitas de pressão causada pela repetição de anúncios permitidos, substituindo a generalização atual.",
+      "reformulacao": "Mesmo quando não são enganosos ou abusivos, anúncios repetidos podem intensificar a pressão para consumir."
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 3, "trecho": "publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir", "competencia": "C4",
+      "diagnostico": "Entretanto marca uma oposição entre proibir duas modalidades de anúncio e a intenção persuasiva da publicidade em geral. As duas proposições formuladas são compatíveis. Em C4, a inadequação é o valor relacional do conector; em C3, é a explicação ausente sobre o alcance da proteção.",
+      "impacto": "O leitor recebe uma oposição que o conteúdo dos segmentos não estabelece.",
+      "sugestao": "Reformule a segunda oração para explicitar o limite da proteção antes de manter uma oposição; se a ideia continuar sendo apenas a finalidade da publicidade, retire a adversativa.",
+      "reformulacao": "Entretanto, essa proteção não elimina a pressão decorrente da exposição repetida a anúncios."
+    },
+    {
+      "tipo": "erro_avaliavel", "paragrafo": 3, "trecho": "Por conseguinte, o termo popular inglês \"FOMO\"", "competencia": "C4",
+      "diagnostico": "Por conseguinte sinaliza uma consequência do período anterior, mas a introdução de FOMO funciona como explicação do mecanismo de pressão para consumir.",
+      "impacto": "A marca linguística atribui ao conceito uma relação conclusiva que o encadeamento não demonstra.",
+      "sugestao": "Apresente a referência como explicação, em vez de consequência.",
+      "reformulacao": "Essa pressão pode ser explicada pelo conceito de FOMO"
+    },
+    {
+      "tipo": "oportunidade_melhoria", "paragrafo": 4, "trecho": "palestras diversificadas e atividades interativas", "competencia": "C5",
+      "diagnostico": "Os meios são válidos e o conteúdo das campanhas já fornece detalhamento suficiente. Exemplificar uma atividade seria apenas um refinamento facultativo, sem fundamentar perda de nível.",
+      "impacto": "Um exemplo poderia tornar mais visualizável a execução da proposta, que já é compreensível.",
+      "sugestao": "Se houver interesse em concretizar o meio, substitua o adjetivo genérico por um exemplo breve. O exemplo sugerido é conteúdo acrescentado pelo revisor.",
+      "reformulacao": "palestras e atividades de comparação crítica de anúncios"
+    }
+  ],
+  "repertorios": [
+    {
+      "paragrafo": 1, "trecho": "No filme \"O Show de Truman\", o protagonista vive em um espetáculo midiático e é transmitido a todo momento, vivendo em meio de publicidades implícitas e constantes em sua rotina.",
+      "referencia": "Filme O Show de Truman.",
+      "legitimidade": "Referência cinematográfica identificada e apresentada como leitura de uma situação ficcional. A descrição não foi verificada externamente e não há fundamento para tratá-la como falsa.",
+      "pertinencia": "A presença constante de publicidade na rotina do protagonista é relacionada ao excesso de anúncios no cotidiano brasileiro.",
+      "produtividade": "A analogia prepara a tese por meio da presença cotidiana da publicidade e é retomada no encerramento; não funciona apenas como nome de obra isolado.",
+      "verificacao": "nao_verificado", "fonte_url": null
+    },
+    {
+      "paragrafo": 2, "trecho": "de acordo com o professor João Branco, em parceria com a revista Provokers, uma pessoa vê, estimavelmente, 3,5 propagandas por minuto",
+      "referencia": "Estatística atribuída a João Branco e à revista Provokers.",
+      "legitimidade": "O texto apresenta uma atribuição e um dado quantitativo, mas sua origem, metodologia e exatidão não foram verificadas. A ausência de consulta não permite afirmar falsidade.",
+      "pertinencia": "O dado trata diretamente da frequência de exposição a propagandas.",
+      "produtividade": "A estatística dimensiona o excesso mencionado, embora não demonstre, sozinha, a negação da inevitabilidade formulada no tópico nem uma causalidade clínica sobre ansiedade.",
+      "verificacao": "nao_verificado", "fonte_url": null
+    },
+    {
+      "paragrafo": 3, "trecho": "publicidades enganosas e as publicidades abusivas são proibidas por lei",
+      "referencia": "Conhecimento sobre proteção legal contra publicidade enganosa e abusiva.",
+      "legitimidade": "Conhecimento de natureza jurídica empregado sem identificação de dispositivo. Não foi realizada consulta legal, e não se presume imprecisão factual por essa ausência.",
+      "pertinencia": "O conhecimento se relaciona à proteção da população diante de práticas publicitárias.",
+      "produtividade": "Sua contribuição é limitada pela ausência de uma distinção entre a proibição de práticas específicas e a pressão gerada por publicidade voltada ao consumo em geral.",
+      "verificacao": "nao_verificado", "fonte_url": null
+    },
+    {
+      "paragrafo": 3, "trecho": "o termo popular inglês \"FOMO\" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo",
+      "referencia": "FOMO, empregado como medo de não fazer parte.",
+      "legitimidade": "O texto mobiliza um conceito de circulação social para interpretar comportamento de consumo. A atribuição conceitual não foi pesquisada externamente; sua formulação é examinada pelo uso efetivo na redação, sem exigir fonte acadêmica não prevista na matriz.",
+      "pertinencia": "O medo de exclusão é relacionado à pressão para possuir o item anunciado e à ansiedade de consumo.",
+      "produtividade": "O período explica o conceito pelo desconforto de não ter o produto, contribuindo efetivamente para a tese e para a proposta de autonomia do consumidor.",
+      "verificacao": "nao_verificado", "fonte_url": null
+    }
+  ],
+  "intervencao": {
+    "acao": {"paragrafo": 4, "trecho": "deve realizar campanhas educativas nas escolas", "analise": "Promover campanhas educativas é uma ação propositiva explícita e localizada no espaço escolar."},
+    "agente": {"paragrafo": 4, "trecho": "o MEC - Ministério da Educação -", "analise": "O ministério é executor identificável e pertinente à coordenação de uma iniciativa educacional. A expansão da sigla identifica o agente, sem ser tomada isoladamente como detalhamento."},
+    "meio": {"paragrafo": 4, "trecho": "por meio de palestras diversificadas e atividades interativas", "analise": "Palestras e atividades interativas especificam como as campanhas seriam executadas."},
+    "efeito": {"paragrafo": 4, "trecho": "a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas", "analise": "A redução da ansiedade e o fortalecimento da autonomia respondem aos impactos discutidos no texto."},
+    "detalhamento": {"paragrafo": 4, "trecho": "sobre o consumo consciente de publicidade e de como reagir corretamente durante uma \"FOMO\"", "analise": "O conteúdo das campanhas particulariza a ação educativa por dois focos: consumo consciente e reação à pressão psicológica nomeada no desenvolvimento."},
+    "direitos_humanos": "respeitados",
+    "justificativa": "A proposta escolar do quarto parágrafo foi avaliada como uma iniciativa única. Todos os elementos foram extraídos dessa mesma ação, com detalhamento de conteúdo e finalidades vinculadas ao desenvolvimento. Trata-se de educação e ampliação de autonomia, sem proposta de violência ou supressão de direitos. Os desvios formais não impedem compreender sua execução."
+  },
+  "prioridades": [
+    {
+      "foco": "Regularizar sujeito, verbo e complementos nos parágrafos 1, 2 e 4.",
+      "exercicio": "Em 15 minutos, sublinhe o sujeito de cada oração, circule o verbo e reescreva os trechos com convencem a compra, são afetados, acarreta as pessoas e desde da. Em seguida, confira o modo verbal depois de mesmo que.",
+      "criterio_sucesso": "Cada verbo tem sujeito identificável e concordante; convencer e acarretar recebem complementos compatíveis; a concessão usa haja e a expressão temporal usa desde a."
+    },
+    {
+      "foco": "Alinhar afirmação, fundamento e relação lógica nos parágrafos 2 e 3.",
+      "exercicio": "Em 12 minutos, escreva à margem a afirmação defendida e o que o dado de exposição comprova. Depois, substitua a passagem sobre a lei por uma frase que distinga publicidade ilícita de pressão por repetição e escolha um conector explicativo para FOMO.",
+      "criterio_sucesso": "O dado sustenta a afirmação formulada; a menção à lei tem função explícita; nenhum conector indica oposição ou consequência entre proposições que não expressem essa relação."
+    },
+    {
+      "foco": "Consolidar o emprego produtivo de repertório e a intervenção completa já demonstrados.",
+      "exercicio": "Em 8 minutos, identifique em uma frase como FOMO explica o impacto e marque, na conclusão existente, ação, agente, meio, efeito e conteúdo detalhado, sem acrescentar outra proposta.",
+      "criterio_sucesso": "A relação entre conceito, pressão pelo consumo e autonomia permanece explícita, e os elementos da intervenção continuam pertencendo à mesma iniciativa."
+    }
+  ],
+  "limitacoes": [
+    "Linhas físicas: desconhecido. O texto é digital, e não se estimou a quantidade de linhas da folha original.",
+    "Textos motivadores não fornecidos: não é possível verificar cópia ou dependência em relação a eles.",
+    "Não houve consulta externa: as referências ao filme, à estatística, à proteção legal e a FOMO foram registradas como não verificadas.",
+    "A avaliação considera a entrada congelada tal como fornecida; não há evidência para atribuir os desvios a artefatos de transcrição nem para examinar caligrafia."
+  ]
+}

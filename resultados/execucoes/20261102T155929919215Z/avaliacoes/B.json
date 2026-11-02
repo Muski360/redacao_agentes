@@ -1,0 +1,451 @@
+{
+  "corretor": "B",
+  "entrada_sha256": "46febb237e14bbce3949914b68e6d13348e7329950d362a05a4f16a5b37e0829",
+  "situacao": {
+    "codigo": "normal",
+    "justificativa": "Há texto dissertativo-argumentativo sobre o tema proposto, com tese, dois movimentos argumentativos e intervenção. A entrada informa 29 linhas manuscritas; não há evidência de situação de zero global. A ausência dos motivadores impede verificar cópia, sem autorizar sua presunção.",
+    "evidencias": [
+      {
+        "paragrafo": 1,
+        "trecho": "a hiperestimulação de conteúdos virtuais e a vulnerabilidade cognitiva dos mais jovens impedem a resolução dessa questão",
+        "analise": "Apresenta um ponto de vista sobre os obstáculos que serão discutidos, caracterizando a proposição argumentativa."
+      },
+      {
+        "paragrafo": 4,
+        "trecho": "deve estabelecer políticas públicas que garantem a alfabetização midiática e o limite de exposição digital na infância",
+        "analise": "Apresenta conclusão propositiva pertinente ao problema, sem elementos que caracterizem anulação."
+      }
+    ]
+  },
+  "tema": {
+    "atendimento": "integral",
+    "justificativa": "A redação aborda os desafios das telas e da inteligência artificial entre os mais jovens no Brasil. O segundo parágrafo discute exposição digital e saúde mental; o terceiro aborda algoritmos, desinformação e vulnerabilidade infantil. A juventude é contemplada também pela referência aos jovens, embora a infância receba maior desenvolvimento. Essa diferença de ênfase não configura tangenciamento.",
+    "evidencias": [
+      {
+        "paragrafo": 1,
+        "trecho": "os desafios do uso de inteligência artificial e telas na infância e juventude brasileira",
+        "analise": "Delimita expressamente o recorte temático completo."
+      },
+      {
+        "paragrafo": 2,
+        "trecho": "o excesso de telas no Brasil é associado ao aumento de sintomas de distúrbios comportamentais em crianças",
+        "analise": "Desenvolve uma dificuldade ligada às telas, à população infantil e ao contexto brasileiro."
+      },
+      {
+        "paragrafo": 3,
+        "trecho": "a manipulação de algoritmos só evidencia como a desinformação e o direcionamento de conteúdos podem criar narrativas equivocadas",
+        "analise": "Acrescenta ao debate os riscos associados ao direcionamento algorítmico, no parágrafo dedicado à inteligência artificial e ao público infantil."
+      }
+    ]
+  },
+  "competencias": {
+    "C1": {
+      "nota": 160,
+      "justificativa": "O conjunto demonstra bom domínio da escrita formal: predominam períodos compreensíveis, vocabulário adequado ao registro e encadeamento de orações subordinadas. Há poucos desvios demonstráveis, concentrados na concordância de dois particípios da abertura e na fragmentação de uma oração causal no terceiro parágrafo. As construções menos precisas são examinadas segundo seu efeito efetivo, sem transformar preferências estilísticas em erros. A reincidência na concordância e a falha sintática impedem o nível de excelência, mas não caracterizam domínio apenas mediano do conjunto.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "Na obra \"Black Mirror\", criado por Charles Brooker, é explorado de forma crítica a relação da humanidade com a tecnologia.",
+          "analise": "O particípio criado deve concordar com obra; explorado deve concordar com o sujeito posposto a relação. Há dois desvios de concordância na abertura."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Visto que a temática ainda é muito discutida hodiernamente, sendo uma ferramenta poderosa para influenciar hábitos precoces e ameaçar futuras gerações.",
+          "analise": "A locução causal inicia uma subordinada isolada por ponto, sem oração principal à qual se subordine dentro do período. A oração reduzida de gerúndio não supre essa falta."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "Faz-se necessário, portanto, que meios sejam criados para intervir nesse óbice.",
+          "analise": "A oração substantiva e a oração final são construídas de modo adequado, exemplificando o domínio sintático predominante."
+        }
+      ],
+      "proximo_nivel": "Revisar a concordância dos particípios com seus referentes e transformar a oração causal isolada em um período completo. O nível 200 exige que desvios sejam apenas excepcionais e sem reincidência; não decorre de uma soma de correções pontuais."
+    },
+    "C2": {
+      "nota": 120,
+      "justificativa": "O tema é atendido integralmente e há proposição, argumentação e conclusão. Entretanto, predomina argumentação previsível, com afirmações gerais sobre saúde mental, desinformação e proteção infantil. Black Mirror contextualiza a relação com a tecnologia sem fornecer um aspecto específico que fundamente a tese; a menção ao ECA não explica o contraste entre proteção integral e exposição digital; o percentual é apresentado sem delimitação do fenômeno medido. Esses usos não sustentam repertório produtivo, e a argumentação ainda não apresenta a consistência do nível 160. Não se presume cópia de motivadores ausentes.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "é explorado de forma crítica a relação da humanidade com a tecnologia",
+          "analise": "A obra cultural introduz o assunto tecnológico de maneira pertinente, porém genérica, sem uma relação específica com os obstáculos apresentados na tese."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "o Estatuto da Criança e do Adolescente (ECA) propõe como a garantia da proteção integral influencia as gerações",
+          "analise": "A referência jurídica é pertinente à proteção dos mais jovens, mas o texto não transforma o princípio citado em fundamento claro da discussão sobre as telas."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "a manipulação de algoritmos só evidencia como a desinformação e o direcionamento de conteúdos podem criar narrativas equivocadas",
+          "analise": "A ideia mantém o recorte temático, mas permanece em uma associação geral, sem explicitar o funcionamento desse risco para o público infantil."
+        }
+      ],
+      "proximo_nivel": "Converter pelo menos um conhecimento já mobilizado em fundamento efetivo: por exemplo, explicar como o princípio de proteção integral permite avaliar a exposição infantil aos mecanismos de recompensa e ao direcionamento de conteúdos. É necessário tornar a argumentação consistente, não acrescentar uma citação famosa."
+    },
+    "C3": {
+      "nota": 120,
+      "justificativa": "Existe um projeto reconhecível: a tese anuncia hiperestimulação e vulnerabilidade cognitiva, os desenvolvimentos se aproximam desses eixos e a intervenção retoma alfabetização midiática e exposição digital. A organização global constitui mérito. Internamente, porém, os argumentos ficam pouco organizados: o dado não delimita o que mede, a busca compulsória de estímulos aparece como conclusão sem explicação causal e o parágrafo sobre inteligência artificial acumula efeitos genéricos. O fecho também mantém o impasse sem justificar essa mudança em relação à finalidade das medidas. Esse conjunto sustenta desempenho mediano, apesar do planejamento externo. A eventual dependência dos motivadores não é avaliável e não fundamenta a nota.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "a hiperestimulação de conteúdos virtuais e a vulnerabilidade cognitiva dos mais jovens",
+          "analise": "Anuncia os dois eixos retomados pelos parágrafos seguintes, demonstrando planejamento."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "contendo cerca de 31,6% de jovens portando esse estado emocional. Assim, os mais novos se sentem obrigados a buscar estímulos virtuais.",
+          "analise": "O percentual não especifica população ou condição medida, e a passagem dos sintomas para a obrigação de buscar estímulos omite o mecanismo que sustentaria a conclusão."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "sendo uma ferramenta poderosa para influenciar hábitos precoces e ameaçar futuras gerações",
+          "analise": "Nomeia efeitos amplos sem demonstrar como o direcionamento de conteúdos atua sobre a vulnerabilidade infantil anunciada na tese."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "Dessarte, a crítica da obra \"Black Mirror\" permanecerá como um impasse.",
+          "analise": "O fecho anuncia permanência do impasse sem explicar sua relação com as medidas que acabaram de ser propostas para reduzir a vulnerabilidade."
+        }
+      ],
+      "proximo_nivel": "Preservar os dois eixos e substituir as formulações gerais por elos causais explícitos: como a recompensa mantém o uso e como a seleção algorítmica encontra um público com dificuldade para avaliar conteúdos. Encerrar com um resultado coerente com a intervenção ou justificar a persistência do problema."
+    },
+    "C4": {
+      "nota": 160,
+      "justificativa": "Há articulação entre introdução, dois desenvolvimentos e conclusão, com diversidade de recursos: expressões de perspectiva, adição, conclusão, retomadas nominais e demonstrativas. O repertório é diversificado e geralmente funcional. Algumas inadequações impedem 200: Assim apresenta como consequência uma busca de estímulos ainda não justificada e a sequência a temática/sendo uma ferramenta retoma o assunto como se ele próprio fosse a tecnologia. O problema sintático da oração causal é registrado em C1; aqui se avaliam especificamente a relação expressa pelo operador e a referência linguística.",
+      "evidencias": [
+        {
+          "paragrafo": 2,
+          "trecho": "Além disso, o excesso de telas no Brasil é associado ao aumento de sintomas de distúrbios comportamentais em crianças",
+          "analise": "O operador acrescenta uma informação à discussão dos prejuízos à saúde mental, exercendo função aditiva reconhecível."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "Assim, os mais novos se sentem obrigados a buscar estímulos virtuais.",
+          "analise": "O operador conclusivo apresenta a busca de estímulos como decorrência do enunciado anterior, mas o vínculo não é estabelecido naquela sequência."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Visto que a temática ainda é muito discutida hodiernamente, sendo uma ferramenta poderosa",
+          "analise": "A retomada a temática designa o assunto discutido, mas o gerúndio lhe atribui a condição de ferramenta, característica que caberia à inteligência artificial. Isso prejudica a cadeia referencial."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "Tais ações devem ser realizadas para capacitar a população e as famílias a orientar as crianças",
+          "analise": "Tais ações retoma as políticas e os programas da frase precedente; para introduz a finalidade, com boa continuidade referencial e semântica."
+        }
+      ],
+      "proximo_nivel": "Conferir se cada operador conclusivo introduz uma consequência sustentada e substituir a retomada a temática pelo nome explícito da tecnologia quando ela receber o predicado ferramenta. Preservar a diversidade de recursos que já funciona."
+    },
+    "C5": {
+      "nota": 200,
+      "justificativa": "A proposta é explícita, relacionada ao tema e articulada aos dois problemas discutidos: alfabetização midiática para enfrentar vulnerabilidade e manipulação, e limite de exposição digital para enfrentar o excesso de telas. Apresenta agente identificável, ação, meio de execução por verbas e programas educacionais, finalidade e detalhamento do alcance do agente, além do desdobramento dos efeitos pretendidos. Os elementos integram a mesma iniciativa e respeitam os direitos humanos. A frase final inadequada limita a coerência do fecho em C3, mas não apaga os componentes nem a articulação temática da intervenção efetivamente formulada.",
+      "evidencias": [
+        {
+          "paragrafo": 4,
+          "trecho": "o Governo Federal - órgão responsável pela administração federal em todo território nacional - deve estabelecer políticas públicas que garantem a alfabetização midiática e o limite de exposição digital na infância",
+          "analise": "Identifica executor, sua abrangência e a ação destinada aos problemas discutidos."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "por meio da utilização de verbas governamentais para a implementação de programas educacionais",
+          "analise": "Explicita recursos e instrumento de execução, compatíveis com a alfabetização midiática proposta."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "para capacitar a população e as famílias a orientar as crianças, combatendo assim a vulnerabilidade à manipulação digital na infância e promovendo um consumo consciente e crítico de conteúdos nas redes sociais",
+          "analise": "Expõe a finalidade educativa e seus efeitos esperados sobre a vulnerabilidade discutida no texto."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Como consolidação, manter a correspondência entre problema, ação e efeito ao formular novas propostas; especificar atividades dos programas seria uma possibilidade facultativa."
+    }
+  },
+  "parecer": "A redação atende ao tema e apresenta uma estrutura argumentativa reconhecível, com dois eixos e uma intervenção completa. O principal limite está na transformação das afirmações em argumentos: o dado numérico fica indefinido, a referência jurídica não é aplicada de modo claro e a influência algorítmica é descrita por efeitos gerais. A escrita e a coesão funcionam na maior parte do texto, com desvios localizados. A última frase precisa ser alinhada ao resultado da proposta ou fundamentar a permanência do impasse.",
+  "acertos": [
+    "No parágrafo 1, a tese anuncia os eixos em a hiperestimulação de conteúdos virtuais e a vulnerabilidade cognitiva dos mais jovens; os parágrafos 2 e 3 retomam essas frentes.",
+    "No parágrafo 2, os mecanismos de recompensa contínua dos jogos e aplicativos delimita um mecanismo pertinente à discussão sobre telas, em vez de mencionar apenas a tecnologia em geral.",
+    "No parágrafo 3, a desinformação e o direcionamento de conteúdos incorpora os riscos algorítmicos ao recorte sobre o público infantil.",
+    "No parágrafo 4, Tais ações retoma a iniciativa precedente e organiza sua finalidade, preservando continuidade entre as frases.",
+    "No parágrafo 4, a alfabetização midiática e o limite de exposição digital na infância responde aos dois eixos do problema com agente, meio e finalidade expressos."
+  ],
+  "paragrafos": [
+    {
+      "paragrafo": 1,
+      "funcao": "Contextualizar o tema por uma obra cultural e apresentar a tese com dois obstáculos.",
+      "parecer": "A introdução delimita o assunto e antecipa um projeto. A referência à obra permanece genérica e a abertura apresenta concordâncias inadequadas. A relação entre o debate e os desafios também poderia ser mais direta, sem que isso configure fuga temática.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "Na obra \"Black Mirror\", criado por Charles Brooker, é explorado de forma crítica a relação da humanidade com a tecnologia.",
+          "analise": "Contextualiza a discussão tecnológica, mas usa particípios sem concordância com obra e relação."
+        },
+        {
+          "paragrafo": 1,
+          "trecho": "a hiperestimulação de conteúdos virtuais e a vulnerabilidade cognitiva dos mais jovens impedem a resolução dessa questão",
+          "analise": "Formula uma tese delimitada em dois eixos que orientarão o desenvolvimento."
+        }
+      ]
+    },
+    {
+      "paragrafo": 2,
+      "funcao": "Argumentar sobre a relação entre mecanismos de recompensa, exposição às telas e saúde mental infantil.",
+      "parecer": "O tópico é pertinente e identifica mecanismos de recompensa. A passagem pelo ECA não explicita um fundamento jurídico aplicado ao problema; o percentual não esclarece sua medida e a conclusão sobre a busca de estímulos deixa um elo causal por construir. A melhoria prioritária é substituir essas formulações por uma explicação, sem aumentar automaticamente a extensão.",
+      "evidencias": [
+        {
+          "paragrafo": 2,
+          "trecho": "os mecanismos de recompensa contínua dos jogos e aplicativos comprometem a saúde mental infantil",
+          "analise": "Apresenta tópico argumentativo diretamente ligado ao primeiro eixo da tese."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "contendo cerca de 31,6% de jovens portando esse estado emocional",
+          "analise": "Não permite identificar com precisão a população do percentual nem a condição emocional ou comportamental contabilizada."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "Assim, os mais novos se sentem obrigados a buscar estímulos virtuais.",
+          "analise": "A conclusão introduz uma necessidade de busca de estímulos que as frases anteriores não explicam."
+        }
+      ]
+    },
+    {
+      "paragrafo": 3,
+      "funcao": "Desenvolver o eixo da vulnerabilidade infantil diante da inteligência artificial e do direcionamento algorítmico.",
+      "parecer": "Mantém pertinência temática e acrescenta o risco da desinformação, mas não explica por que esse processo atinge especialmente as crianças. A formulação inicial é semanticamente imprecisa, e o último período combina fragmentação sintática com uma retomada que apresenta o assunto como ferramenta.",
+      "evidencias": [
+        {
+          "paragrafo": 3,
+          "trecho": "a fragilidade à incompreensão dos impactos da inteligência artificial sobre o público infantil",
+          "analise": "Permite entrever o eixo da vulnerabilidade, embora a relação entre fragilidade e incompreensão admita leituras pouco definidas."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "a desinformação e o direcionamento de conteúdos podem criar narrativas equivocadas",
+          "analise": "Formula um risco relevante, ainda sem explicar como a seleção de conteúdos explora a vulnerabilidade anunciada."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Visto que a temática ainda é muito discutida hodiernamente, sendo uma ferramenta poderosa",
+          "analise": "Exemplifica o isolamento da oração causal e a atribuição de ferramenta ao referente temática."
+        }
+      ]
+    },
+    {
+      "paragrafo": 4,
+      "funcao": "Concluir com uma intervenção governamental e retomar a obra cultural da abertura.",
+      "parecer": "A intervenção articula educação midiática, controle da exposição e orientação familiar, com elementos expressos e compatíveis. A retomada final da obra produz um fechamento problemático: a permanência do impasse é enunciada sem explicar sua relação com os efeitos positivos pretendidos.",
+      "evidencias": [
+        {
+          "paragrafo": 4,
+          "trecho": "deve estabelecer políticas públicas que garantem a alfabetização midiática e o limite de exposição digital na infância",
+          "analise": "Apresenta uma ação governamental ligada aos eixos do texto."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "para capacitar a população e as famílias a orientar as crianças",
+          "analise": "Estabelece o efeito pretendido e identifica os destinatários da capacitação."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "Dessarte, a crítica da obra \"Black Mirror\" permanecerá como um impasse.",
+          "analise": "A retomada da abertura não explica por que o impasse persistiria como consequência da intervenção apresentada."
+        }
+      ]
+    }
+  ],
+  "problemas": [
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 1,
+      "trecho": "Na obra \"Black Mirror\", criado por Charles Brooker, é explorado de forma crítica a relação da humanidade com a tecnologia.",
+      "competencia": "C1",
+      "diagnostico": "Criado retoma obra, substantivo feminino, e explorado integra uma construção passiva cujo sujeito é a relação. Os dois particípios devem concordar no feminino singular com seus referentes.",
+      "impacto": "Produz reincidência de desvio de concordância logo na abertura, embora a ideia permaneça compreensível.",
+      "sugestao": "Ajustar criado para criada e explorado para explorada, preservando a construção e o conteúdo.",
+      "reformulacao": "Na obra \"Black Mirror\", criada por Charles Brooker, é explorada de forma crítica a relação da humanidade com a tecnologia."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "Visto que a temática ainda é muito discutida hodiernamente, sendo uma ferramenta poderosa para influenciar hábitos precoces e ameaçar futuras gerações.",
+      "competencia": "C1",
+      "diagnostico": "Visto que introduz uma oração subordinada causal que foi isolada por ponto sem receber oração principal no período. O segmento com sendo também é subordinado e não completa a estrutura.",
+      "impacto": "Interrompe a estrutura sintática do raciocínio e deixa sem oração principal a causa anunciada.",
+      "sugestao": "Transformar o trecho em uma afirmação independente, eliminando a locução causal caso não se explicite uma relação de causa. A alternativa também torna explícito o referente da ferramenta.",
+      "reformulacao": "A inteligência artificial é uma ferramenta poderosa para influenciar hábitos precoces e ameaçar futuras gerações."
+    },
+    {
+      "tipo": "ambiguidade",
+      "paragrafo": 3,
+      "trecho": "a fragilidade à incompreensão dos impactos da inteligência artificial sobre o público infantil",
+      "competencia": "C1",
+      "diagnostico": "A associação entre fragilidade e incompreensão deixa incerto se o obstáculo é a dificuldade infantil de compreender a tecnologia ou a vulnerabilidade decorrente dessa dificuldade. Não há informação suficiente para converter uma única interpretação em erro de regência indiscutível.",
+      "impacto": "Exige reconstrução do sentido da abertura do argumento. A incerteza não fundamenta, sozinha, o rebaixamento da competência.",
+      "sugestao": "Escolher qual relação se pretende defender. Se o foco for a dificuldade de compreensão, usá-la diretamente como núcleo do tópico.",
+      "reformulacao": "A incompreensão dos impactos da inteligência artificial sobre o público infantil é um fator importante desse imbróglio."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 2,
+      "trecho": "o Estatuto da Criança e do Adolescente (ECA) propõe como a garantia da proteção integral influencia as gerações, levando a sociedade a ponderar quando a exposição precoce gera uma sensação de inadequação e ansiedade",
+      "competencia": "C2",
+      "diagnostico": "A referência jurídica é pertinente, mas sua aplicação permanece genérica: a redação menciona proteção integral e passa à ponderação sobre ansiedade sem explicar como o princípio fundamenta a análise da exposição digital. A produtividade do repertório não se demonstra apenas por nomear o estatuto.",
+      "impacto": "O repertório contextualiza a proteção infantil, mas oferece pouco apoio efetivo à defesa da tese.",
+      "sugestao": "Substituir a formulação vaga por um vínculo explícito entre proteção integral e prevenção dos riscos discutidos. A reformulação é uma possibilidade argumentativa do revisor, sem alegar citação literal do estatuto.",
+      "reformulacao": "A proteção integral mencionada no Estatuto da Criança e do Adolescente permite questionar a exposição precoce a mecanismos digitais que prejudicam o bem-estar infantil."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 2,
+      "trecho": "contendo cerca de 31,6% de jovens portando esse estado emocional",
+      "competencia": "C3",
+      "diagnostico": "A informação não identifica o universo de referência do percentual nem define qual condição está sendo contada: o parágrafo menciona inadequação, ansiedade e distúrbios comportamentais. Não se afirma que o número seja falso; o problema é a insuficiente delimitação da informação utilizada como fundamento.",
+      "impacto": "O percentual transmite aparência de precisão sem permitir compreender o fenômeno medido ou sua relação exata com o argumento.",
+      "sugestao": "Se o dado puder ser recuperado, indicar população e condição efetivamente medidas; caso contrário, retirar a cifra e substituí-la por uma explicação do mecanismo já anunciado. Não inventar uma fonte para conservar o número.",
+      "reformulacao": null
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 2,
+      "trecho": "Assim, os mais novos se sentem obrigados a buscar estímulos virtuais.",
+      "competencia": "C3",
+      "diagnostico": "A apresentação de sintomas associados ao excesso de telas não explica, por si, por que os mais jovens passariam a buscar novos estímulos. Falta construir o elo entre recompensa contínua, permanência no uso e dificuldade de interrupção.",
+      "impacto": "A conclusão do parágrafo introduz uma relação causal decisiva sem fundamentá-la. Em C3, o problema é a organização do raciocínio, independentemente da palavra escolhida para conectá-lo.",
+      "sugestao": "Substituir o fecho por uma explicação breve desse elo. Como possibilidade do revisor, explicitar o papel das novas recompensas na continuidade do uso.",
+      "reformulacao": "A expectativa de novas recompensas pode prolongar o uso dos aplicativos e dificultar a interrupção da exposição às telas."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "a desinformação e o direcionamento de conteúdos podem criar narrativas equivocadas",
+      "competencia": "C3",
+      "diagnostico": "O trecho afirma um efeito possível, mas o conjunto do parágrafo não explica como o direcionamento se relaciona à vulnerabilidade cognitiva infantil anunciada. A menção a hábitos e gerações, no fecho, acrescenta consequências gerais sem preencher essa relação.",
+      "impacto": "O segundo eixo mantém pertinência temática, mas não constrói uma explicação suficiente de seu mecanismo.",
+      "sugestao": "Trocar uma das afirmações gerais por uma explicação que associe seleção de conteúdos e dificuldade de avaliação crítica. A alternativa é uma possibilidade argumentativa do revisor, não um dado empírico verificado.",
+      "reformulacao": "O direcionamento repetido de conteúdos pode fazer informações enganosas parecerem confiáveis a crianças que ainda têm dificuldade para avaliar sua procedência."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 4,
+      "trecho": "Dessarte, a crítica da obra \"Black Mirror\" permanecerá como um impasse.",
+      "competencia": "C3",
+      "diagnostico": "Depois de apresentar medidas destinadas a reduzir a vulnerabilidade, o fecho anuncia a permanência do impasse e atribui esse papel à crítica da obra, sem explicar a mudança. Não se presume que o autor pretendia escrever uma negação: o problema demonstrável é a falta de justificativa para a direção adotada no fechamento.",
+      "impacto": "A conclusão não consolida o efeito proposto e deixa a síntese do ponto de vista pouco consistente.",
+      "sugestao": "Encerrar com o efeito já defendido para a intervenção ou explicar por que o problema persistiria apesar dela. Se o objetivo for destacar a contribuição das medidas, uma alternativa é a reformulação indicada.",
+      "reformulacao": "Dessarte, essas medidas contribuirão para reduzir a vulnerabilidade infantil à manipulação digital."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 2,
+      "trecho": "Assim, os mais novos se sentem obrigados a buscar estímulos virtuais.",
+      "competencia": "C4",
+      "diagnostico": "Assim marca uma conclusão necessária ou esperada a partir do enunciado sobre sintomas, mas essa relação não foi expressa. Aqui se avalia a relação linguística afirmada pelo operador, enquanto C3 examina o elo explicativo ausente.",
+      "impacto": "O conector apresenta como encadeamento já estabelecido uma relação que o leitor precisa construir sem apoio suficiente.",
+      "sugestao": "Reescrever a frase para explicitar o vínculo causal antes de usar um marcador conclusivo; simplesmente trocar por outro sinônimo de conclusão não resolve a ligação.",
+      "reformulacao": null
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "Visto que a temática ainda é muito discutida hodiernamente, sendo uma ferramenta poderosa",
+      "competencia": "C4",
+      "diagnostico": "A temática retoma o assunto em discussão, mas sendo uma ferramenta atribui a esse antecedente uma propriedade da inteligência artificial. A cadeia de referência muda o objeto nomeado sem explicitação. Essa falha de referenciação é distinta da fragmentação sintática registrada em C1.",
+      "impacto": "O leitor precisa substituir mentalmente o assunto pela tecnologia para compreender a atribuição de ferramenta.",
+      "sugestao": "Nomear a inteligência artificial como sujeito do predicado que a caracteriza como ferramenta.",
+      "reformulacao": "A inteligência artificial é uma ferramenta poderosa para influenciar hábitos precoces e ameaçar futuras gerações."
+    },
+    {
+      "tipo": "oportunidade_melhoria",
+      "paragrafo": 4,
+      "trecho": "para a implementação de programas educacionais",
+      "competencia": "C5",
+      "diagnostico": "A proposta já apresenta meio e detalhamento suficientes para o nível máximo. Seria possível tornar a visualização da execução ainda mais concreta com uma atividade dos programas, sem transformar essa preferência em exigência da matriz.",
+      "impacto": "Uma especificação adicional pode facilitar a compreensão prática, mas sua ausência não invalida a intervenção nem justifica desconto.",
+      "sugestao": "Como exercício facultativo, substituir programas educacionais por programas educacionais de orientação sobre uso de telas e identificação de conteúdos enganosos, se couber no espaço disponível.",
+      "reformulacao": null
+    }
+  ],
+  "repertorios": [
+    {
+      "paragrafo": 1,
+      "trecho": "Na obra \"Black Mirror\", criado por Charles Brooker, é explorado de forma crítica a relação da humanidade com a tecnologia.",
+      "referencia": "Obra cultural Black Mirror, atribuída no texto a Charles Brooker.",
+      "legitimidade": "Constitui referência cultural identificável; não foi realizada consulta externa para confirmar descrição ou atribuição. A expressão enredo fílmico não é tratada como erro factual automático.",
+      "pertinencia": "A reflexão crítica sobre tecnologia é compatível com os desafios digitais discutidos.",
+      "produtividade": "A referência funciona como contextualização, mas não seleciona um aspecto da obra para explicar hiperestimulação, vulnerabilidade cognitiva ou um dos mecanismos discutidos.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 2,
+      "trecho": "o Estatuto da Criança e do Adolescente (ECA) propõe como a garantia da proteção integral influencia as gerações",
+      "referencia": "Estatuto da Criança e do Adolescente e princípio da proteção integral.",
+      "legitimidade": "Trata-se de referência jurídica identificável ligada à proteção de crianças e adolescentes. A paráfrase apresentada pelo candidato não foi conferida externamente e não é assumida como transcrição de um dispositivo legal.",
+      "pertinencia": "O princípio de proteção é diretamente pertinente ao público e aos riscos discutidos no parágrafo.",
+      "produtividade": "A aplicação fica incompleta: não explicita como a proteção integral fundamenta uma crítica à exposição digital ou aos mecanismos de recompensa. A menção não é descartada por sua frequência de uso.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 2,
+      "trecho": "contendo cerca de 31,6% de jovens portando esse estado emocional",
+      "referencia": "Dado estatístico sobre condição emocional ou comportamental de jovens, sem identificação precisa.",
+      "legitimidade": "A veracidade não pode ser determinada com a entrada disponível: faltam a identificação da população e a definição da condição medida. Não se afirma que o número foi inventado.",
+      "pertinencia": "Busca fundamentar o argumento sobre exposição digital e saúde mental juvenil.",
+      "produtividade": "A indefinição do objeto medido e do universo de referência limita seu valor explicativo. Não se exige referência bibliográfica formal, mas informação inteligível.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    }
+  ],
+  "intervencao": {
+    "acao": {
+      "paragrafo": 4,
+      "trecho": "deve estabelecer políticas públicas que garantem a alfabetização midiática e o limite de exposição digital na infância",
+      "analise": "Propõe políticas de formação midiática e limitação da exposição, em vez de apenas constatar a existência do problema."
+    },
+    "agente": {
+      "paragrafo": 4,
+      "trecho": "o Governo Federal",
+      "analise": "Executor governamental expressamente nomeado e compatível com a formulação de políticas públicas de abrangência nacional."
+    },
+    "meio": {
+      "paragrafo": 4,
+      "trecho": "por meio da utilização de verbas governamentais para a implementação de programas educacionais",
+      "analise": "Indica financiamento público e programas educacionais como instrumento de execução da mesma iniciativa."
+    },
+    "efeito": {
+      "paragrafo": 4,
+      "trecho": "para capacitar a população e as famílias a orientar as crianças",
+      "analise": "Finalidade explícita de preparar responsáveis e população para orientar o uso infantil da tecnologia."
+    },
+    "detalhamento": {
+      "paragrafo": 4,
+      "trecho": "órgão responsável pela administração federal em todo território nacional",
+      "analise": "Explicita a atribuição administrativa e o alcance nacional do agente. Além dessa qualificação, a frase seguinte desdobra a finalidade em combate à manipulação e promoção de consumo crítico. Não se exige detalhamento de todos os elementos."
+    },
+    "direitos_humanos": "respeitados",
+    "justificativa": "A mesma iniciativa reúne ação, agente, meio, finalidade e detalhamento explicitados. A alfabetização midiática se articula ao risco de manipulação discutido no terceiro parágrafo, e o limite de exposição enfrenta o excesso de telas do segundo. A proposta é educativa e protetiva, sem defesa de violência ou discriminação. O resultado geral do fecho é examinado em C3, sem tornar inexistentes os componentes da intervenção."
+  },
+  "prioridades": [
+    {
+      "foco": "Construir os elos causais dos desenvolvimentos, especialmente no fecho do parágrafo 2 e na influência algorítmica do parágrafo 3.",
+      "exercicio": "Em 12 minutos, reescrever uma frase de cada desenvolvimento usando a sequência mecanismo, efeito sobre os mais jovens e ligação à tese, substituindo formulações genéricas e sem acrescentar novos parágrafos.",
+      "criterio_sucesso": "O leitor consegue explicar por que a recompensa prolonga a exposição e por que o direcionamento de conteúdos encontra vulnerabilidade infantil, com apoio nas frases reescritas."
+    },
+    {
+      "foco": "Aplicar o repertório existente e alinhar o fechamento ao ponto de vista.",
+      "exercicio": "Em 8 minutos, substituir a frase do ECA por uma relação entre proteção integral e risco digital; depois, reescrever o último período com um efeito da intervenção ou uma justificativa explícita para a persistência do problema.",
+      "criterio_sucesso": "A menção jurídica participa do raciocínio, e a conclusão não muda de direção sem explicação. Nenhum dado ou dispositivo legal é inventado."
+    },
+    {
+      "foco": "Revisar concordância, completude sintática e referentes em trechos localizados.",
+      "exercicio": "Em 5 minutos, ligar cada particípio da abertura ao substantivo correspondente e transformar o último período do parágrafo 3 em uma oração independente com sujeito explícito.",
+      "criterio_sucesso": "Criada concorda com obra, explorada concorda com relação, e o trecho sobre inteligência artificial apresenta oração principal e referente compatível com ferramenta."
+    }
+  ],
+  "limitacoes": [
+    "Os textos motivadores não foram fornecidos; não foi possível verificar cópia ou dependência em relação a eles.",
+    "Obra cultural, paráfrase jurídica e percentual não foram verificados em fontes externas; não se presume falsidade de referência não conferida.",
+    "Foram informadas 29 linhas físicas manuscritas; a transcrição digitada não permite examinar caligrafia, translineação ou a disposição na folha original."
+  ]
+}

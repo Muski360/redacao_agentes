@@ -59,6 +59,8 @@ def interpretar_entrada(dados):
     secoes = {}
     for m in re.finditer(r"^## ([^\n]+)\n(.*?)(?=^## |\Z)", original, re.M | re.S):
         nome = m[1].strip()
+        if nome == "Texto":
+            nome = "Texto integral"
         exigir(nome not in secoes, f"Seção duplicada: {nome}.")
         secoes[nome] = m[2].strip()
     tema = secoes.get("Tema", "")
@@ -80,7 +82,7 @@ def interpretar_entrada(dados):
         linhas = int(linhas)
         exigir(linhas > 0, "Linhas físicas: número precisa ser positivo para um texto preenchido.")
     sistema = campos.get("Sistema de escrita", "desconhecido").casefold() or "desconhecido"
-    exigir(sistema in {"manuscrito", "braille", "desconhecido"}, "Sistema de escrita: manuscrito, braille ou desconhecido.")
+    exigir(sistema in {"manuscrito", "braille", "digital", "desconhecido"}, "Sistema de escrita: manuscrito, braille, digital ou desconhecido.")
     paragrafos = [p.strip() for p in re.split(r"\n[ \t]*\n", corpo) if p.strip()]
     return {
         "versao": 1,

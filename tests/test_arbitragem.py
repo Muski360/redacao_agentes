@@ -280,7 +280,22 @@ class ValidacaoTest(unittest.TestCase):
 class EntradaEFluxoTest(unittest.TestCase):
     def test_modelo_vazio_nao_vira_redacao_zero(self):
         with self.assertRaisesRegex(ValueError, "Tema ausente"):
-            banca.interpretar_entrada((RAIZ / "redacao.md").read_bytes())
+            banca.interpretar_entrada(b"## Tema\n\n## Texto integral\n\n")
+
+    def test_titulo_texto_com_espaco_preserva_redacao(self):
+        esperada = banca.interpretar_entrada(ENTRADA.encode())
+        recebida = banca.interpretar_entrada(ENTRADA.replace("## Texto integral", "## Texto ").encode())
+        self.assertEqual(recebida["texto"], esperada["texto"])
+        self.assertEqual(recebida["paragrafos"], esperada["paragrafos"])
+
+    def test_duas_secoes_de_texto_mesmo_com_alias_sao_recusadas(self):
+        with self.assertRaisesRegex(ValueError, "duplicada"):
+            banca.interpretar_entrada((ENTRADA + "\n## Texto\nOutro texto.\n").encode())
+
+    def test_sistema_digital_nao_inventa_linhas_fisicas(self):
+        entrada = banca.interpretar_entrada(ENTRADA.replace("Sistema de escrita: manuscrito", "Sistema de escrita: digital").encode())
+        self.assertEqual(entrada["sistema_escrita"], "digital")
+        self.assertIsNone(entrada["linhas_fisicas"])
 
     def test_tema_ausente_nao_e_inventado(self):
         with self.assertRaisesRegex(ValueError, "Tema ausente"):
