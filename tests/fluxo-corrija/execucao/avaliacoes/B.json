@@ -1,0 +1,397 @@
+{
+  "corretor": "B",
+  "entrada_sha256": "326e69d442131d970677379a78273cd1611463d80dc3601109163e060d640f49",
+  "situacao": {
+    "codigo": "normal",
+    "justificativa": "O texto apresenta tese sobre o envelhecimento na sociedade brasileira, sustentação argumentativa e intervenção. Não há evidência de motivo de anulação. Linhas físicas e sistema de escrita são desconhecidos, portanto não se decide insuficiência por extensão.",
+    "evidencias": [
+      {
+        "paragrafo": 1,
+        "trecho": "a terceira idade brasileira é cercada por estigmas e negligências",
+        "analise": "Há ponto de vista relacionado ao tema."
+      },
+      {
+        "paragrafo": 4,
+        "trecho": "é  necessário que o Poder Executivo Federal fomente uma agenda de inclusão e proteção dos idosos.",
+        "analise": "O encerramento propõe intervenção ligada aos problemas discutidos."
+      }
+    ]
+  },
+  "tema": {
+    "atendimento": "integral",
+    "justificativa": "As perspectivas acerca do envelhecimento são tratadas como representações sociais que desvalorizam os idosos e como escolhas políticas que restringem sua proteção no Brasil. O recorte crítico é legítimo, sem obrigação de equilibrar perspectivas positivas e negativas. A conclusão busca transformar essa perspectiva excludente em inclusão e proteção.",
+    "evidencias": [
+      {
+        "paragrafo": 1,
+        "trecho": "para a construção de uma perspectiva  inclusiva acerca do envelhecimento na sociedade brasileira.",
+        "analise": "Há recorte temático e posição expressos."
+      },
+      {
+        "paragrafo": 2,
+        "trecho": "a sociedade percebe os idosos como um grupo não produtivo e, logo, sem valor  social",
+        "analise": "A perspectiva social sobre envelhecer é desenvolvida pela relação entre produtividade e desvalorização."
+      },
+      {
+        "paragrafo": 4,
+        "trecho": "impedem a formação de perspectivas mais  positivas em relação ao envelhecimento no Brasil",
+        "analise": "O fechamento recupera os elementos da frase temática."
+      }
+    ]
+  },
+  "competencias": {
+    "C1": {
+      "nota": 200,
+      "justificativa": "Há excelente domínio do registro formal e de construções sintáticas complexas, com períodos completos, subordinação, concordância e regência controladas. Na versão recebida, a ocorrência de \"ideia\" no fecho do terceiro parágrafo é uma inadequação lexical localizada, pois não designa a variável etária discutida. Ela é excepcional e não caracteriza recorrência que afaste o descritor máximo; sua origem na produção ou na transcrição não pode ser estabelecida. A relação entre custo e inclusão no segundo parágrafo admite a leitura de sacrifício da inclusão e é registrada como ambiguidade, sem desconto baseado em interpretação incerta.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "de uma idosa que, diariamente, é testemunha de diversos crimes cometidos em frente à  sua casa.",
+          "analise": "A oração relativa e o adjunto intercalado são articulados com registro formal, regência e crase adequadas."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "as instituições que têm a obrigação de proteger e de garantir  a integridade de todos os brasileiros falham ao não promover os cuidados necessários",
+          "analise": "O período complexo preserva concordância e inteligibilidade."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "a ideia de um  brasileiro é inversamente proporcional ao valor de sua vida para o governo.",
+          "analise": "O substantivo \"ideia\" não estabelece a relação etária construída no contexto; é uma inadequação pontual de precisão lexical."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior na matriz. Para consolidar o desempenho, conferir a escolha lexical no fecho do terceiro parágrafo e esclarecer a relação entre o custo da produtividade e a inclusão."
+    },
+    "C2": {
+      "nota": 200,
+      "justificativa": "O tema é desenvolvido integralmente em texto dissertativo-argumentativo, com tese, sustentação e conclusão propositiva. O episódio de Vitória fornece uma situação de descrédito por idade para a analogia inicial; a sociedade do desempenho é aplicada à associação entre improdutividade e desvalor social; a necropolítica oferece uma leitura da proteção desigual da vida. As referências não são nomes soltos, e o filme e Han são claramente produtivos. A limitação de explicitação do eixo estatal é examinada em C3, sem invalidar a produtividade do repertório no conjunto. Não houve verificação externa das referências ou do dado demográfico.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "constantemente sendo desacreditada devido à sua idade por parte de autoridades.",
+          "analise": "O episódio seleciona o preconceito etário que sustenta a analogia."
+        },
+        {
+          "paragrafo": 1,
+          "trecho": "De forma análoga à  obra, a terceira idade brasileira é cercada por estigmas e negligências",
+          "analise": "O repertório cinematográfico recebe aplicação explícita à tese."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "por  considerar o trabalho como o elemento mais  importante da atualidade, a sociedade percebe os idosos como um grupo não produtivo",
+          "analise": "A prioridade do rendimento é convertida em mecanismo específico de desvalorização dos idosos."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "a existência de um poder político que  decide quem vive ou morre.",
+          "analise": "O conceito mobilizado se relaciona à discussão sobre proteção estatal desigual da vida."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior na matriz. Consolidar a prática de explicitar a função do repertório no raciocínio, como já ocorre na passagem da produtividade à desvalorização social."
+    },
+    "C3": {
+      "nota": 160,
+      "justificativa": "O projeto é organizado e possui indícios de autoria: anuncia os entraves sociais e políticos, explica a exclusão pela produtividade, discute a omissão estatal e responde com inclusão e proteção. O segundo parágrafo constrói uma cadeia causal identificável. No terceiro, porém, o fundamento da alegação de que o Estado considera vidas idosas menos valiosas permanece parcialmente afirmado: saúde e mobilidade são nomeadas como áreas de cuidado, sem explicitar uma omissão particular e seu mecanismo de exposição dos idosos ao risco. A necropolítica classifica essa leitura, mas não substitui a demonstração do elo entre proteção insuficiente e desvalorização etária. Essa generalidade do segundo eixo limita a consistência necessária a 200, preservadas a organização e a defesa do ponto de vista.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "os entraves, no campo social e na política",
+          "analise": "O plano dos dois eixos é anunciado e efetivamente retomado."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "a sociedade percebe os idosos como um grupo não produtivo e, logo, sem valor  social",
+          "analise": "O primeiro eixo explica como o critério de rendimento produz uma hierarquia de valor social."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "ao entender as vidas dos mais velhos como menos valiosas",
+          "analise": "A motivação atribuída ao Estado é central, mas permanece sem demonstração mais específica no restante do parágrafo."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "falham ao não promover os cuidados necessários (como saúde e  segurança na mobilidade urbana) para a manutenção da vida idosa no Brasil.",
+          "analise": "Os exemplos identificam campos de omissão e uma finalidade geral, sem mostrar qual falha de cuidado produz qual risco particular aos idosos."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "uma agenda de inclusão e proteção dos idosos.",
+          "analise": "A resposta final se vincula aos eixos desenvolvidos e confirma a unidade do projeto."
+        }
+      ],
+      "proximo_nivel": "Substituir a enumeração genérica de saúde e mobilidade por uma explicação curta de uma falha específica e sua consequência para idosos, ligando esse efeito à proteção desigual da vida. Isso fortaleceria o segundo eixo sem exigir outro argumento ou mais linhas."
+    },
+    "C4": {
+      "nota": 200,
+      "justificativa": "As partes do texto são bem articuladas por comparação, explicação, adição, conclusão e finalidade. Há retomadas resumitivas e variação referencial entre idosos, terceira idade, grupos mais velhos e indivíduos com mais de 60 anos. Os conectores desempenham funções reconhecíveis, inclusive na passagem do eixo social ao político e na retomada do filme ao final. A combinação \"Ademais, além\" é dispensavelmente redundante, mas não altera a relação nem prejudica o encadeamento a ponto de justificar rebaixamento.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "De forma análoga à  obra",
+          "analise": "Expressa a comparação efetivamente construída entre a situação narrada e os estigmas sociais."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "Em outras palavras",
+          "analise": "Introduz a explicitação da associação entre prioridade do trabalho e desvalorização dos idosos."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "além da exclusão ocasionada pela valorização excessiva da produtividade",
+          "analise": "Retoma o argumento anterior antes de acrescentar a omissão governamental."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "Tal ação  ocorrerá por meio da criação de um grupo de trabalho",
+          "analise": "A retomada anafórica encaminha a execução da agenda apresentada."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "revertendo cenários como o exposto em “Vitória”.",
+          "analise": "A referência identificável ao repertório inicial fecha o percurso argumentativo."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior na matriz. Consolidar a seleção funcional de conectores e retomadas; retirar facultativamente \"Ademais\" ou \"além\" tornaria a abertura do terceiro parágrafo mais concisa."
+    },
+    "C5": {
+      "nota": 200,
+      "justificativa": "A proposta está ligada à exclusão e à omissão estatal: o Poder Executivo Federal deve fomentar uma agenda de inclusão e proteção, por meio de grupo de trabalho, com composição e atribuição descritas, para promover direitos, inserção social e bem-estar. O instrumento é detalhado e permite compreender a execução pretendida. Medidas setoriais poderiam ser especificadas numa revisão, mas isso é facultativo: a mesma iniciativa já reúne executor, ação, meio, detalhamento e finalidade coerentes. Os direitos humanos são respeitados.",
+      "evidencias": [
+        {
+          "paragrafo": 4,
+          "trecho": "o Poder Executivo Federal fomente uma agenda de inclusão e proteção dos idosos.",
+          "analise": "Agente compatível com o âmbito público nacional e ação dirigida aos problemas centrais."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "por meio da criação de um grupo de trabalho formado por políticos e especialistas na área",
+          "analise": "O meio é identificado e detalhado por sua composição."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "para articular medidas e projetos que devem ser implementados pelo governo",
+          "analise": "A atribuição do grupo esclarece sua contribuição à execução da agenda."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "a fim de garantir o bem-estar e uma vivência  integral a toda a população brasileira",
+          "analise": "A finalidade expressa se contextualiza pelos direitos e pela inserção da terceira idade no período anterior."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior na matriz. Consolidar a vinculação dos elementos à mesma iniciativa; indicar uma medida concreta seria refinamento facultativo, não exigência adicional automática."
+    }
+  },
+  "parecer": "A redação atende integralmente ao tema e organiza uma perspectiva crítica sobre o envelhecimento em dois eixos claros. Destacam-se a aplicação do filme à discriminação etária, o mecanismo que liga produtividade a desvalor social, a articulação coesiva e a intervenção detalhada. O principal limite é o desenvolvimento do eixo estatal: a enumeração de cuidados não demonstra suficientemente a relação específica entre omissão e desvalorização da vida idosa. Há também um lapso lexical pontual na versão fornecida e uma formulação que pode ser esclarecida sem presumir erro inequívoco.",
+  "acertos": [
+    "P1: o episódio de descrédito por idade em Vitória é convertido em analogia que sustenta a tese sobre estigmas e negligências.",
+    "P2: a valorização da produtividade é explicada como critério de desvalorização social dos idosos, com aplicação efetiva do repertório.",
+    "P1–P4: o anúncio dos eixos social e político orienta os desenvolvimentos e a resposta final.",
+    "P2–P4: explicações, retomadas e conectores preservam a continuidade do raciocínio, com recuperação do filme ao final.",
+    "P4: a intervenção integra agente, ação, meio, finalidade e detalhamento coerentes."
+  ],
+  "paragrafos": [
+    {
+      "paragrafo": 1,
+      "funcao": "Contextualizar pelo filme, delimitar a tese crítica e anunciar os entraves social e político.",
+      "parecer": "A situação de preconceito etário é integrada à tese por analogia explícita. O dado demográfico reforça a relevância do problema, mas não foi verificado; isso não autoriza declará-lo incorreto. O recorte temático e o plano dos desenvolvimentos estão claros.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "De forma análoga à  obra, a terceira idade brasileira é cercada por estigmas e negligências",
+          "analise": "A narrativa introdutória recebe função argumentativa."
+        },
+        {
+          "paragrafo": 1,
+          "trecho": "os entraves, no campo social e na política",
+          "analise": "Há anúncio pertinente dos eixos que serão desenvolvidos."
+        }
+      ]
+    },
+    {
+      "paragrafo": 2,
+      "funcao": "Explicar a marginalização dos idosos pela valorização da produtividade.",
+      "parecer": "O parágrafo apresenta a causa, mobiliza uma lente teórica e explica a passagem de não produtividade presumida a desvalor social e exclusão. A expressão que trata a inclusão como custo admite a leitura de inclusão sacrificada, mas pode ser esclarecida para evitar hesitação local.",
+      "evidencias": [
+        {
+          "paragrafo": 2,
+          "trecho": "uma conjuntura social que  busca compulsivamente a produtividade tende a desvalorizar grupos mais velhos.",
+          "analise": "O tópico argumentativo está claramente definido."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "a sociedade percebe os idosos como um grupo não produtivo e, logo, sem valor  social",
+          "analise": "Há uma relação intermediária explicada entre produtividade e exclusão."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "mesmo que este seja a inclusão de  parcelas minoritárias do Brasil.",
+          "analise": "A formulação admite leitura metonímica de sacrifício da inclusão; não se afirma inversão inequívoca do sentido."
+        }
+      ]
+    },
+    {
+      "paragrafo": 3,
+      "funcao": "Acrescentar a omissão estatal como obstáculo à proteção da vida idosa.",
+      "parecer": "O eixo político está conectado à tese e ao desenvolvimento anterior. A necropolítica é contextualizada, mas a proteção insuficiente é exemplificada sobretudo por nomes de áreas, sem explicitação de prática omissiva e consequência particular. No fecho, \"ideia\" é lexicalmente inadequado à relação etária; sua origem não pode ser atribuída com segurança ao candidato ou à publicação.",
+      "evidencias": [
+        {
+          "paragrafo": 3,
+          "trecho": "a existência de um poder político que  decide quem vive ou morre.",
+          "analise": "A definição situa a leitura da omissão estatal."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "como saúde e  segurança na mobilidade urbana",
+          "analise": "A enumeração localiza campos de atuação, mas não desenvolve por si o mecanismo do risco."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "a ideia de um  brasileiro é inversamente proporcional ao valor de sua vida para o governo.",
+          "analise": "O termo destoa da variável etária em discussão e precisa ser conferido na fonte."
+        }
+      ]
+    },
+    {
+      "paragrafo": 4,
+      "funcao": "Retomar a tese, apresentar intervenção e recuperar o repertório inicial.",
+      "parecer": "A agenda de inclusão e proteção responde aos dois eixos, com executor adequado, instrumento e finalidade identificáveis. A composição e a atribuição do grupo de trabalho detalham a execução. A retomada de Vitória fecha a unidade textual.",
+      "evidencias": [
+        {
+          "paragrafo": 4,
+          "trecho": "por meio da criação de um grupo de trabalho formado por políticos e especialistas na área",
+          "analise": "O instrumento de execução é detalhado."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "garantir os direitos da  terceira idade e a sua inserção na vida social.",
+          "analise": "A finalidade se vincula à negligência e à exclusão discutidas."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "revertendo cenários como o exposto em “Vitória”.",
+          "analise": "O fechamento recupera o caso inicial."
+        }
+      ]
+    }
+  ],
+  "problemas": [
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "a ideia de um  brasileiro é inversamente proporcional ao valor de sua vida para o governo.",
+      "competencia": "C1",
+      "diagnostico": "Na versão fornecida, \"ideia\" não designa a variável etária necessária à relação formulada. É uma inadequação pontual de precisão lexical. A entrada menciona possíveis lapsos da publicação, mas não há prova para atribuir especificamente esta ocorrência à transcrição ou ao candidato.",
+      "impacto": "O fecho perde precisão e exige reconstrução pelo leitor. A ocorrência é excepcional e não afasta o domínio excelente no conjunto da C1.",
+      "sugestao": "Conferir o termo na fonte original. Se a intenção for relacionar envelhecimento e desvalorização, substituir a formulação por referência explícita ao aumento da idade.",
+      "reformulacao": "Assim, quanto mais envelhece o brasileiro, menor parece ser o valor atribuído à sua vida pelo governo."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "falham ao não promover os cuidados necessários (como saúde e  segurança na mobilidade urbana) para a manutenção da vida idosa no Brasil.",
+      "competencia": "C3",
+      "diagnostico": "A passagem enumera áreas de cuidado, mas não demonstra uma falha concreta nem seu mecanismo de exposição dos idosos ao risco. A relação entre omissão específica e desvalorização etária permanece parcialmente afirmada; a classificação teórica anterior não a demonstra por si.",
+      "impacto": "O eixo político fica menos desenvolvido que o social e limita a consistência global necessária ao nível máximo de C3, preservada a organização do projeto.",
+      "sugestao": "Substituir a enumeração por uma consequência causal curta em uma das áreas já citadas. Uma possibilidade do revisor, a fundamentar na versão final, é explicar como a falta de condições seguras de deslocamento amplia riscos e dificulta acesso ao cuidado.",
+      "reformulacao": "Sem condições seguras de deslocamento, os idosos ficam mais expostos a acidentes e encontram obstáculos para acessar cuidados, o que concretiza a proteção desigual de suas vidas."
+    },
+    {
+      "tipo": "ambiguidade",
+      "paragrafo": 2,
+      "trecho": "o rendimento constante é priorizado a qualquer custo, mesmo que este seja a inclusão de  parcelas minoritárias do Brasil.",
+      "competencia": "C1",
+      "diagnostico": "A inclusão pode ser entendida como aquilo de que se abre mão para priorizar o rendimento, mas a estrutura também permite a leitura de que incluir seria o próprio custo produzido pela prioridade. O contexto favorece a leitura de inclusão sacrificada, sem autorizar afirmar inversão lexical inequívoca.",
+      "impacto": "Pode haver hesitação local de interpretação. A incerteza não é convertida em desvio comprovado nem fundamenta redução de nota.",
+      "sugestao": "Explicitar que a prioridade ao rendimento ocorre com sacrifício da inclusão, preservando a relação causal já construída.",
+      "reformulacao": "o rendimento constante é priorizado a qualquer custo, mesmo quando isso compromete a inclusão de parcelas minoritárias do Brasil."
+    }
+  ],
+  "repertorios": [
+    {
+      "paragrafo": 1,
+      "trecho": "O filme “Vitória”, protagonizado pela atriz Fernanda Montenegro",
+      "referencia": "Filme Vitória e a situação de uma idosa desacreditada por autoridades.",
+      "legitimidade": "Referência cinematográfica identificada, apresentada como narrativa baseada em fatos reais. Obra, elenco e fidelidade da descrição não foram verificados externamente; não se presume erro pela memória.",
+      "pertinencia": "O episódio selecionado aborda discriminação por idade e relação com autoridades, ligando envelhecimento a estigmas e negligência.",
+      "produtividade": "A analogia é explicitada e sustenta a tese; o filme retorna na conclusão como cenário a reverter.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 1,
+      "trecho": "mais de 10% da população brasileira é idosa",
+      "referencia": "Informação demográfica sobre a participação de idosos na população brasileira.",
+      "legitimidade": "Afirmação estatística sem fonte identificada no texto e não verificada externamente. A ausência de fonte não a transforma automaticamente em erro.",
+      "pertinencia": "A dimensão da população idosa se liga à relevância pública do envelhecimento no país.",
+      "produtividade": "Reforça a importância da tese, sem provar por si os mecanismos de exclusão dos desenvolvimentos.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 2,
+      "trecho": "pelo filósofo Byung-Chul Han no livro “Sociedade do Cansaço”",
+      "referencia": "Sociedade do Cansaço, de Byung-Chul Han, aplicada à prioridade do rendimento.",
+      "legitimidade": "Referência filosófica identificada por autor e obra, em paráfrase; sua fidelidade bibliográfica e conceitual não foi confirmada externamente.",
+      "pertinencia": "A crítica à prioridade da produtividade é ligada à avaliação social das pessoas idosas.",
+      "produtividade": "Sustenta a explicação de que a centralidade do trabalho conduz à percepção dos idosos como improdutivos e sem valor social; há aplicação além da menção de autoridade.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 3,
+      "trecho": "conceito de “necropolítica”, proposto pelo filósofo Achille Mbembe",
+      "referencia": "Conceito de necropolítica atribuído a Achille Mbembe.",
+      "legitimidade": "Conceito identificado e definido no texto, sem verificação externa. A amplitude da aplicação não permite por si declará-la conceitualmente incorreta.",
+      "pertinencia": "A proteção política desigual da vida é pertinente à omissão governamental discutida em relação aos idosos.",
+      "produtividade": "Oferece uma chave interpretativa para o eixo estatal. A aplicação existe, mas o conceito não supre a lacuna de demonstração concreta diagnosticada em C3.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    }
+  ],
+  "intervencao": {
+    "acao": {
+      "paragrafo": 4,
+      "trecho": "fomente uma agenda de inclusão e proteção dos idosos.",
+      "analise": "Ação explícita dirigida à inserção social e à proteção da população idosa."
+    },
+    "agente": {
+      "paragrafo": 4,
+      "trecho": "o Poder Executivo Federal",
+      "analise": "Executor identificável, compatível com uma agenda pública nacional."
+    },
+    "meio": {
+      "paragrafo": 4,
+      "trecho": "por meio da criação de um grupo de trabalho",
+      "analise": "Instrumento para organizar a execução da agenda."
+    },
+    "efeito": {
+      "paragrafo": 4,
+      "trecho": "a fim de garantir o bem-estar e uma vivência  integral a toda a população brasileira",
+      "analise": "Finalidade contextualizada pelos direitos e pela inserção social dos idosos no período anterior."
+    },
+    "detalhamento": {
+      "paragrafo": 4,
+      "trecho": "formado por políticos e especialistas na área",
+      "analise": "Especifica a composição do grupo; sua atribuição de articular medidas e projetos também é descrita."
+    },
+    "direitos_humanos": "respeitados",
+    "justificativa": "Os elementos integram a mesma iniciativa: agenda do Executivo Federal executada com apoio de grupo de trabalho de composição e atribuição especificadas, para garantir inclusão, proteção e bem-estar. A resposta se articula aos eixos social e político e respeita direitos humanos."
+  },
+  "prioridades": [
+    {
+      "foco": "Desenvolver o mecanismo do argumento estatal no terceiro parágrafo.",
+      "exercicio": "Em cerca de 10 minutos, reescrever somente a passagem sobre saúde e mobilidade: escolher uma omissão, indicar seu efeito específico sobre idosos e ligar esse efeito à proteção desigual, substituindo a enumeração.",
+      "criterio_sucesso": "O leitor identifica a falha, compreende como ela produz o risco e reconhece a ligação com a tese sem depender apenas do rótulo necropolítica."
+    },
+    {
+      "foco": "Consolidar a precisão lexical sem perder o domínio sintático demonstrado.",
+      "exercicio": "Em cerca de 5 minutos, conferir na fonte o termo \"ideia\" e reescrever a relação entre rendimento e inclusão com indicação explícita do que é sacrificado.",
+      "criterio_sucesso": "A comparação final menciona a variável pretendida e a relação de custo deixa claro que a inclusão é comprometida."
+    }
+  ],
+  "limitacoes": [
+    "Linhas físicas e sistema de escrita desconhecidos: não se estimou extensão na folha nem se decidiu insuficiência por contagem presumida.",
+    "Textos motivadores ausentes: não é possível verificar cópia, dependência ou originalidade por comparação com a proposta.",
+    "Referências e dado demográfico não foram verificados externamente; não se alegou verificação nem erro factual confirmado.",
+    "A entrada informa transcrição tipográfica com possíveis lapsos da publicação. Sem a produção original, não se identifica a origem de \"ideia\" nem se avaliam caligrafia e translineação."
+  ]
+}

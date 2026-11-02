@@ -1,0 +1,37 @@
+{
+  "subagentes_reais": true,
+  "agentes": {
+    "A": {
+      "id": "/root/corretor_a",
+      "modelo": "gpt-6.1-sol",
+      "esforco": "xhigh",
+      "contexto_novo": true,
+      "inicio": "2026-11-02T12:22:58.6923512-03:00",
+      "fim": "2026-11-02T12:28:29.643444-03:00",
+      "papel_carregado": "prompt",
+      "avaliacao": "avaliacoes/A.json",
+      "concluido": true
+    },
+    "B": {
+      "id": "/root/corretor_b",
+      "modelo": "gpt-6.1-sol",
+      "esforco": "xhigh",
+      "contexto_novo": true,
+      "inicio": "2026-11-02T12:22:58.6923512-03:00",
+      "fim": "2026-11-02T12:31:08.885986-03:00",
+      "papel_carregado": "prompt",
+      "avaliacao": "avaliacoes/B.json",
+      "concluido": true
+    }
+  },
+  "observacoes": "IDs can?nicos retornados por collaboration.spawn_agent; fork_turns=none; pap?is TOML carregados por prompt. In?cio do lote A/B registrado no rel?gio local imediatamente antes das chamadas de cria??o; conclus?o registrada ao observar o t?rmino real de cada agente. Compartilham filesystem.",
+  "verificacoes": {
+    "fontes": [
+      "https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-institucionais/avaliacoes-e-exames-da-educacao-basica/a-redacao-do-enem-2026-cartilha-do-a-participante",
+      "https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes/exame-nacional-do-ensino-medio-enem"
+    ],
+    "edicao": "2026, confirmada na p?gina oficial; regras de discrep?ncia e m?dia conferidas na FAQ.",
+    "testes": "python -m unittest discover -s tests -v n?o executou: diret?rio tests ausente nesta c?pia. Valida??o desta execu??o pelo script do projeto.",
+    "sha256_original": "326e69d442131d970677379a78273cd1611463d80dc3601109163e060d640f49"
+  }
+}

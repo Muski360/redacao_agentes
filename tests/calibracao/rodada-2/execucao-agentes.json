@@ -1,0 +1,27 @@
+{
+  "subagentes_reais": true,
+  "agentes": {
+  "A": {
+    "id": "/root/calibracao_a2",
+    "modelo": "gpt-6.1-sol",
+    "esforco": "xhigh",
+    "contexto_novo": true,
+    "concluido": true,
+    "papel_carregado": "prompt",
+    "inicio": "2026-11-02T15:15:31+00:00",
+    "fim": "2026-11-02T15:19:56+00:00",
+    "avaliacao": "avaliacoes/A.json"
+  },
+  "B": {
+    "id": "/root/calibracao_b2",
+    "modelo": "gpt-6.1-sol",
+    "esforco": "xhigh",
+    "contexto_novo": true,
+    "concluido": true,
+    "papel_carregado": "prompt",
+    "inicio": "2026-11-02T15:15:31+00:00",
+    "fim": "2026-11-02T15:21:36+00:00",
+    "avaliacao": "avaliacoes/B.json"
+  }
+}
+}

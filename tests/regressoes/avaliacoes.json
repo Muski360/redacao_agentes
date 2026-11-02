@@ -1,0 +1,313 @@
+[
+  {
+    "id": "sem-citacoes-30-linhas",
+    "avaliacao": {
+      "corretor": "A",
+      "entrada_sha256": "5f9ea0533be7e8110a1eb2339fa5a2929f4e4ca0a01e242550da1c8093c5982b",
+      "situacao": {
+        "codigo": "normal",
+        "justificativa": "O texto apresenta tese, desenvolvimento argumentativo e intervenção sobre o tema, em português. Não há evidência de causa de zero global. A entrada informa 30 linhas físicas manuscritas.",
+        "evidencias": [
+          {"paragrafo": 1, "trecho": "Por isso, a modernização precisa preservar alternativas de atendimento e oferecer aprendizagem acessível.", "analise": "A proposição defende uma orientação para enfrentar a exclusão digital, estabelecendo o ponto de vista desenvolvido nos parágrafos seguintes."}
+        ]
+      },
+      "tema": {
+        "atendimento": "integral",
+        "justificativa": "Desenvolve a inclusão digital das pessoas idosas no Brasil pela relação entre serviços públicos digitais, formação, autonomia e preservação do acesso aos direitos.",
+        "evidencias": [
+          {"paragrafo": 1, "trecho": "A digitalização dos serviços públicos facilita solicitações, mas pode restringir a autonomia das pessoas idosas no Brasil.", "analise": "A frase articula o processo digital, o grupo social e o recorte nacional do tema."},
+          {"paragrafo": 2, "trecho": "Sem apoio, o usuário depende de terceiros para marcar consultas ou solicitar benefícios e pode entregar senhas pessoais para conseguir ajuda.", "analise": "O desenvolvimento mostra consequências concretas da falta de inclusão digital no acesso a serviços."}
+        ]
+      },
+      "competencias": {
+        "C1": {
+          "nota": 200,
+          "justificativa": "Apresenta excelente domínio da escrita formal, com períodos completos, concordância e regência adequadas e pontuação que organiza a explicação. A releitura do conjunto não revelou desvio comprovável que justifique outro nível.",
+          "evidencias": [
+            {"paragrafo": 1, "trecho": "Quando o atendimento passa a depender exclusivamente da internet, uma facilidade para parte da população se transforma em barreira para quem não teve acesso à formação digital.", "analise": "A oração adverbial anteposta está corretamente separada por vírgula; a construção com acesso à formação digital apresenta regência e crase adequadas."},
+            {"paragrafo": 2, "trecho": "Assim, a barreira de acesso também aumenta a exposição a fraudes, o que demonstra por que distribuir aparelhos, isoladamente, não resolve o problema.", "analise": "O período combina orações sem ruptura sintática e emprega corretamente por que na explicação indireta da razão."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar a revisão de períodos compostos e de relações de regência."
+        },
+        "C2": {
+          "nota": 200,
+          "justificativa": "Atende integralmente ao tema e apresenta excelente domínio dissertativo-argumentativo. Mobiliza observações sociais produtivas sobre barreiras de interface, dependência de terceiros e exposição de senhas, empregadas para fundamentar a insuficiência da simples distribuição de aparelhos. A ausência de citação de autoridade não elimina esse repertório.",
+          "evidencias": [
+            {"paragrafo": 2, "trecho": "Plataformas com letras pequenas, etapas pouco claras e prazos curtos exigem habilidades que muitas pessoas ainda não puderam desenvolver.", "analise": "O conhecimento sobre condições de uso das plataformas concretiza a barreira digital e evita atribuí-la automaticamente à idade."},
+            {"paragrafo": 2, "trecho": "Assim, a barreira de acesso também aumenta a exposição a fraudes, o que demonstra por que distribuir aparelhos, isoladamente, não resolve o problema.", "analise": "A observação social é interpretada em favor da tese: possuir aparelho não garante condições de uso autônomo e seguro."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar o uso de observações sociais com explicação de sua relação com a tese."
+        },
+        "C3": {
+          "nota": 200,
+          "justificativa": "O projeto organiza consistentemente o contraste entre modernização e autonomia, explica o mecanismo da exclusão e deriva dele uma resposta dupla. O desenvolvimento vai das barreiras de uso à dependência, à entrega de senhas e ao risco de fraude, configurando autoria pela elaboração e pela seleção articulada das ideias.",
+          "evidencias": [
+            {"paragrafo": 1, "trecho": "Por isso, a modernização precisa preservar alternativas de atendimento e oferecer aprendizagem acessível.", "analise": "A tese anuncia dois caminhos coerentes com o problema descrito."},
+            {"paragrafo": 2, "trecho": "Sem apoio, o usuário depende de terceiros para marcar consultas ou solicitar benefícios e pode entregar senhas pessoais para conseguir ajuda.", "analise": "Explica a passagem da falta de apoio à perda de autonomia e à exposição de informações sensíveis, em vez de apenas enumerar serviços afetados."},
+            {"paragrafo": 3, "trecho": "Paralelamente, os órgãos públicos devem manter atendimento presencial, garantindo acesso aos direitos durante a aprendizagem digital.", "analise": "A conclusão articula o acesso imediato com a formação, realizando o projeto anunciado sem supor que a aprendizagem seja instantânea."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar o encadeamento entre barreira, consequência e resposta por substituições concisas, respeitando as 30 linhas informadas."
+        },
+        "C4": {
+          "nota": 200,
+          "justificativa": "Articula bem as partes por recursos variados e funcionais: oposição, condição temporal, conclusão, acréscimo e retomadas referenciais. Não foram identificadas inadequações de coesão no conjunto.",
+          "evidencias": [
+            {"paragrafo": 1, "trecho": "facilita solicitações, mas pode restringir a autonomia", "analise": "Mas expressa corretamente o contraste entre a facilidade proporcionada e o possível efeito excludente."},
+            {"paragrafo": 2, "trecho": "Assim, a barreira de acesso também aumenta a exposição a fraudes", "analise": "Assim apresenta uma consequência do compartilhamento de senhas; também acrescenta um efeito à dificuldade inicial de acesso."},
+            {"paragrafo": 3, "trecho": "As aulas devem permitir que cada participante repita os procedimentos em seu próprio ritmo", "analise": "As aulas retoma as oficinas e cada participante estabelece com clareza a referência individual do ritmo de aprendizagem."},
+            {"paragrafo": 3, "trecho": "Paralelamente, os órgãos públicos devem manter atendimento presencial", "analise": "O articulador relaciona duas medidas simultâneas e complementares."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar a escolha de conectores segundo a relação efetivamente construída."
+        },
+        "C5": {
+          "nota": 200,
+          "justificativa": "A proposta principal de oficinas apresenta agente identificável, ação, meio, finalidade e detalhamento válidos, enfrentando a falta de formação e a insegurança discutidas. As aulas no ritmo do participante especificam a execução. O atendimento presencial constitui medida complementar e não foi usado para completar elementos ausentes da proposta principal. Os direitos humanos são respeitados.",
+          "evidencias": [
+            {"paragrafo": 3, "trecho": "As prefeituras devem oferecer oficinas gratuitas nas bibliotecas dos bairros, com monitores preparados para ensinar o uso de serviços públicos e a proteção de senhas.", "analise": "Define executor, ação e execução da formação, vinculando o conteúdo ao acesso a serviços e à proteção de dados."},
+            {"paragrafo": 3, "trecho": "As aulas devem permitir que cada participante repita os procedimentos em seu próprio ritmo, a fim de ampliar sua autonomia.", "analise": "Detalha a abordagem pedagógica e explicita a finalidade da mesma iniciativa."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar a correspondência entre o problema explicado e os elementos da proposta."
+        }
+      },
+      "parecer": "Texto consistente, conciso e formalmente bem construído. A análise das barreiras de uso mostra como a exclusão digital pode comprometer direitos e segurança, e a intervenção responde a esse mecanismo. As observações sociais funcionam como repertório produtivo. Não foram identificados erros avaliáveis; os três parágrafos cumprem as funções necessárias sem exigência de estrutura adicional.",
+      "acertos": [
+        "No parágrafo 1, a tese concilia modernização, formação e continuidade do acesso aos serviços.",
+        "No parágrafo 2, o encadeamento entre interface, dependência e exposição de senhas explica o problema com observações concretas.",
+        "No parágrafo 3, as oficinas têm execução e finalidade definidas; a preservação do atendimento presencial acompanha a aprendizagem."
+      ],
+      "paragrafos": [
+        {"paragrafo": 1, "funcao": "Apresentar o problema e defender uma modernização acompanhada de alternativas e formação.", "parecer": "Estabelece uma tese clara por meio do contraste entre facilidade tecnológica e possível perda de autonomia.", "evidencias": [{"paragrafo": 1, "trecho": "uma facilidade para parte da população se transforma em barreira para quem não teve acesso à formação digital", "analise": "Explica por que o mesmo serviço pode ter efeitos distintos conforme as condições do usuário."}]},
+        {"paragrafo": 2, "funcao": "Explicar as barreiras de uso e suas consequências para a autonomia e a segurança.", "parecer": "Desenvolve a tese com mecanismo causal e encerra com uma inferência relevante sobre os limites do acesso material.", "evidencias": [{"paragrafo": 2, "trecho": "o que demonstra por que distribuir aparelhos, isoladamente, não resolve o problema", "analise": "A conclusão do argumento decorre das dificuldades de uso e dos riscos anteriormente explicados."}]},
+        {"paragrafo": 3, "funcao": "Propor formação digital e continuidade do atendimento presencial.", "parecer": "Apresenta intervenção detalhada e articulada ao diagnóstico, respeitando o ritmo de aprendizagem e a garantia de direitos.", "evidencias": [{"paragrafo": 3, "trecho": "As aulas devem permitir que cada participante repita os procedimentos em seu próprio ritmo, a fim de ampliar sua autonomia.", "analise": "O detalhamento da aprendizagem torna concreta a formação acessível defendida na abertura."}]}
+      ],
+      "problemas": [],
+      "repertorios": [
+        {"paragrafo": 2, "trecho": "Sem apoio, o usuário depende de terceiros para marcar consultas ou solicitar benefícios e pode entregar senhas pessoais para conseguir ajuda.", "referencia": "Observação social sobre acesso a serviços digitais e compartilhamento de credenciais.", "legitimidade": "Conhecimento social e prático mobilizado como possibilidade, sem alegar estatística ou atribuir o comportamento a todas as pessoas idosas. Não houve verificação externa.", "pertinencia": "Relaciona a falta de domínio das ferramentas à dependência de ajuda para acessar serviços essenciais.", "produtividade": "Explica o elo entre exclusão digital e risco de fraude, sustentando a necessidade de formação e mostrando o limite da mera distribuição de aparelhos.", "verificacao": "nao_verificado", "fonte_url": null}
+      ],
+      "intervencao": {
+        "acao": {"paragrafo": 3, "trecho": "oferecer oficinas gratuitas", "analise": "Propõe formação digital acessível economicamente."},
+        "agente": {"paragrafo": 3, "trecho": "As prefeituras", "analise": "Identifica o poder público municipal como responsável pelas oficinas."},
+        "meio": {"paragrafo": 3, "trecho": "nas bibliotecas dos bairros, com monitores preparados para ensinar o uso de serviços públicos e a proteção de senhas", "analise": "Define local, recursos humanos e conteúdo da formação."},
+        "efeito": {"paragrafo": 3, "trecho": "a fim de ampliar sua autonomia", "analise": "Explicita o resultado esperado para os participantes."},
+        "detalhamento": {"paragrafo": 3, "trecho": "cada participante repita os procedimentos em seu próprio ritmo", "analise": "Especifica a abordagem de aprendizagem das oficinas, adequando-a aos participantes."},
+        "direitos_humanos": "respeitados",
+        "justificativa": "Avaliada a proposta de oficinas, cujos elementos pertencem à mesma iniciativa e enfrentam a dificuldade de uso autônomo e seguro. A manutenção do atendimento presencial é uma segunda medida complementar; nenhuma das duas propõe restrição discriminatória de direitos."
+      },
+      "prioridades": [
+        {"foco": "Consolidação do desenvolvimento causal conciso já demonstrado.", "exercicio": "Reescrever o segundo parágrafo mantendo a sequência barreira de uso, dependência e risco, sem aumentar o espaço ocupado nas 30 linhas físicas informadas.", "criterio_sucesso": "A nova versão preserva as relações de causa e consequência e a conclusão sobre os limites da distribuição de aparelhos, sem acrescentar generalizações."}
+      ],
+      "limitacoes": [
+        "Textos motivadores ausentes: não é possível verificar cópia ou dependência em relação à proposta original.",
+        "A informação de 30 linhas manuscritas provém do cenário fornecido; o texto digitado não permite avaliar caligrafia nem a disposição na folha."
+      ]
+    }
+  },
+  {
+    "id": "repertorio-generico",
+    "avaliacao": {
+      "corretor": "A",
+      "entrada_sha256": "a5dd7bd6a94c27d88b8bc85267809cc1aac7e9f6de8062458371e5e27d0a2231",
+      "situacao": {
+        "codigo": "normal",
+        "justificativa": "Há texto dissertativo-argumentativo em português, com proposição temática, explicação de um problema e intervenção. Não há evidência documentada de situação de zero global; linhas e sistema de escrita desconhecidos não autorizam anulá-lo por extensão.",
+        "evidencias": [
+          {"paragrafo": 2, "trecho": "A igualdade de direitos, portanto, exige que o acesso ao serviço não dependa de um conhecimento que parte dos usuários ainda não teve oportunidade de adquirir.", "analise": "O texto interpreta um problema de acesso a serviços e defende uma posição, atendendo à natureza argumentativa."}
+        ]
+      },
+      "tema": {
+        "atendimento": "integral",
+        "justificativa": "Discute a inclusão digital dos idosos no Brasil pelo acesso ao agendamento de consultas, explicando a exclusão decorrente do uso obrigatório de aplicativos e propondo orientação e alternativa presencial.",
+        "evidencias": [
+          {"paragrafo": 1, "trecho": "No Brasil, a inclusão digital dos idosos exige atenção, pois muitas pessoas mais velhas encontram dificuldades para usar a internet.", "analise": "Apresenta expressamente todos os elementos centrais do recorte temático."},
+          {"paragrafo": 2, "trecho": "Quando uma consulta só pode ser marcada dessa forma, a falta de familiaridade com a ferramenta impede o acesso ao atendimento.", "analise": "Desenvolve uma consequência concreta da exclusão digital no uso de um serviço essencial."}
+        ]
+      },
+      "competencias": {
+        "C1": {
+          "nota": 200,
+          "justificativa": "O conjunto revela excelente domínio da modalidade escrita formal, com sintaxe completa, flexões adequadas, pontuação funcional e vocabulário preciso. Não foram encontrados desvios gramaticais comprováveis na releitura dos períodos.",
+          "evidencias": [
+            {"paragrafo": 2, "trecho": "Os serviços oferecidos somente por aplicativos podem excluir quem não sabe utilizá-los.", "analise": "A construção apresenta concordância e colocação pronominal adequadas, com grafia correta da forma verbal com pronome enclítico."},
+            {"paragrafo": 3, "trecho": "Para enfrentar essa barreira, as unidades municipais de saúde devem oferecer orientação presencial sobre o agendamento digital, com funcionários que acompanhem o usuário nas primeiras tentativas.", "analise": "A pontuação delimita a expressão final anteposta e a oração relativa mantém a correlação modal apropriada à proposta."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar a revisão de flexões verbais, pontuação e referência pronominal."
+        },
+        "C2": {
+          "nota": 200,
+          "justificativa": "Atende ao tema com excelente domínio da estrutura argumentativa e repertório produtivo. A Constituição é introduzida de modo amplo, mas o princípio da igualdade é aplicado no segundo parágrafo à exigência de conhecimentos digitais para acessar a saúde. A produtividade decorre dessa aplicação no conjunto, e a formulação genérica inicial não basta para invalidá-la.",
+          "evidencias": [
+            {"paragrafo": 1, "trecho": "A Constituição brasileira assegura a igualdade de direitos.", "analise": "Apresenta o conhecimento normativo empregado como critério para analisar a exclusão."},
+            {"paragrafo": 2, "trecho": "A igualdade de direitos, portanto, exige que o acesso ao serviço não dependa de um conhecimento que parte dos usuários ainda não teve oportunidade de adquirir.", "analise": "Retoma o princípio e explica sua consequência para o problema específico: o acesso ao serviço não deve ficar condicionado a habilidades desigualmente disponíveis."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Como consolidação, praticar a ligação direta entre o repertório e a situação concreta, já realizada no segundo parágrafo."
+        },
+        "C3": {
+          "nota": 200,
+          "justificativa": "O texto organiza uma defesa consistente da igualdade no acesso aos serviços. O exemplo da consulta não apenas nomeia uma área: explica como a exigência de usar aplicativo converte a falta de familiaridade em impedimento ao atendimento. A conclusão responde a esse mecanismo com aprendizagem acompanhada e preservação da alternativa presencial, configurando autoria na articulação das ideias.",
+          "evidencias": [
+            {"paragrafo": 2, "trecho": "Quando uma consulta só pode ser marcada dessa forma, a falta de familiaridade com a ferramenta impede o acesso ao atendimento.", "analise": "Explicita a condição institucional e a consequência para o usuário, sustentando o diagnóstico de exclusão."},
+            {"paragrafo": 3, "trecho": "A medida deve ampliar sua autonomia sem extinguir o agendamento presencial, para que a dificuldade tecnológica não impeça o cuidado com a saúde.", "analise": "A proposta resolve a tensão entre formar para o uso digital e garantir o cuidado durante a aprendizagem."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar a passagem entre princípio, situação concreta e resposta ao problema, evitando ampliar o texto com generalidades."
+        },
+        "C4": {
+          "nota": 200,
+          "justificativa": "As partes estão bem articuladas por retomadas nominais e pronominais, explicação causal, hipótese temporal, conclusão e finalidade. As referências permanecem recuperáveis e os conectores exprimem relações compatíveis com os segmentos ligados.",
+          "evidencias": [
+            {"paragrafo": 1, "trecho": "Esse princípio é importante em qualquer sociedade", "analise": "Esse princípio retoma a igualdade de direitos enunciada na frase anterior."},
+            {"paragrafo": 2, "trecho": "Quando uma consulta só pode ser marcada dessa forma", "analise": "Dessa forma retoma o uso exclusivo dos aplicativos e delimita a situação que produz a exclusão."},
+            {"paragrafo": 2, "trecho": "A igualdade de direitos, portanto, exige", "analise": "Portanto introduz a conclusão normativa decorrente do impedimento ao atendimento."},
+            {"paragrafo": 3, "trecho": "Para enfrentar essa barreira", "analise": "A expressão retoma o problema do parágrafo anterior e anuncia a intervenção como resposta a ele."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar retomadas com referentes claros e articuladores que expressem a função real de cada passagem."
+        },
+        "C5": {
+          "nota": 200,
+          "justificativa": "A intervenção é detalhada, relacionada ao tema e articulada à discussão: unidades municipais de saúde oferecem orientação para agendamento digital, executada por funcionários no acompanhamento das primeiras tentativas, a fim de ampliar a autonomia e impedir a exclusão do cuidado. Os elementos pertencem à mesma proposta, e a continuidade do agendamento presencial protege o acesso durante a aprendizagem.",
+          "evidencias": [
+            {"paragrafo": 3, "trecho": "as unidades municipais de saúde devem oferecer orientação presencial sobre o agendamento digital, com funcionários que acompanhem o usuário nas primeiras tentativas", "analise": "Define agente competente, ação, meio de execução e detalhamento do acompanhamento."},
+            {"paragrafo": 3, "trecho": "para que a dificuldade tecnológica não impeça o cuidado com a saúde", "analise": "Explicita uma finalidade diretamente relacionada à barreira discutida no desenvolvimento."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar propostas nas quais o modo de execução responda à causa explicada no desenvolvimento."
+        }
+      },
+      "parecer": "Texto formal, organizado e coerente, que transforma a referência inicial à igualdade em critério para discutir o acesso a consultas. A explicação do mecanismo de exclusão e a intervenção acompanhada sustentam os níveis máximos. A frase ampla da introdução permite uma substituição opcional mais específica, mas não configura, por si, repertório improdutivo ou erro avaliável.",
+      "acertos": [
+        "No parágrafo 1, apresenta a igualdade como fundamento e delimita a inclusão digital dos idosos no Brasil.",
+        "No parágrafo 2, aplica o princípio ao requisito de saber usar aplicativos para obter atendimento.",
+        "No parágrafo 3, propõe acompanhamento inicial e preserva a alternativa presencial, articulando aprendizagem e garantia imediata do cuidado."
+      ],
+      "paragrafos": [
+        {"paragrafo": 1, "funcao": "Apresentar o princípio da igualdade e o problema da inclusão digital dos idosos.", "parecer": "A abertura contém uma formulação ampla, seguida de delimitação temática clara. Sua contribuição deve ser lida com a aplicação específica da igualdade no parágrafo seguinte.", "evidencias": [{"paragrafo": 1, "trecho": "No Brasil, a inclusão digital dos idosos exige atenção, pois muitas pessoas mais velhas encontram dificuldades para usar a internet.", "analise": "Delimita o problema e apresenta a dificuldade que será examinada no acesso aos serviços."}]},
+        {"paragrafo": 2, "funcao": "Demonstrar a exclusão produzida pelo agendamento exclusivamente digital e aplicar o princípio da igualdade.", "parecer": "O exemplo da consulta sustenta um mecanismo compreensível e permite extrair uma consequência normativa pertinente.", "evidencias": [{"paragrafo": 2, "trecho": "a falta de familiaridade com a ferramenta impede o acesso ao atendimento", "analise": "Explica a relação entre exigência tecnológica e barreira ao exercício de um direito."}]},
+        {"paragrafo": 3, "funcao": "Propor orientação acompanhada e manutenção do agendamento presencial.", "parecer": "Apresenta execução concreta e finalidade coerente, sem supor que a implantação de formação possa eliminar imediatamente a necessidade de atendimento presencial.", "evidencias": [{"paragrafo": 3, "trecho": "com funcionários que acompanhem o usuário nas primeiras tentativas", "analise": "Especifica como a orientação será realizada no momento em que o usuário ainda precisa de ajuda."}]}
+      ],
+      "problemas": [
+        {"tipo": "oportunidade_melhoria", "paragrafo": 1, "trecho": "Esse princípio é importante em qualquer sociedade e mostra que todos devem ser respeitados.", "competencia": "C2", "diagnostico": "A frase é ampla e pode ser ligada mais cedo ao problema. Trata-se de melhoria opcional: o segundo parágrafo já aplica produtivamente o princípio da igualdade ao agendamento digital.", "impacto": "A substituição tornaria a abertura mais específica; a formulação atual não impede a produtividade do repertório no conjunto nem fundamenta redução de nível.", "sugestao": "Substituir a generalidade por uma consequência da igualdade para o acesso a serviços, sem acrescentar outra citação ou ampliar a introdução.", "reformulacao": "Esse princípio exige atenção às barreiras que impedem parte da população de utilizar serviços essenciais."}
+      ],
+      "repertorios": [
+        {"paragrafo": 1, "trecho": "A Constituição brasileira assegura a igualdade de direitos.", "referencia": "Princípio constitucional da igualdade.", "legitimidade": "Conhecimento jurídico-normativo reconhecível, expresso como paráfrase geral, sem alegação de transcrição de artigo. A referência não foi verificada externamente nesta avaliação.", "pertinencia": "A igualdade é pertinente ao acesso a serviços essenciais por usuários com diferentes oportunidades de formação digital.", "produtividade": "Embora a frase seguinte seja ampla, o segundo parágrafo retoma a igualdade e deriva dela que o acesso à saúde não deve depender de habilidade digital ainda não adquirida. Essa aplicação fundamenta a orientação e a alternativa presencial propostas, impedindo classificar a referência como meramente ornamental.", "verificacao": "nao_verificado", "fonte_url": null}
+      ],
+      "intervencao": {
+        "acao": {"paragrafo": 3, "trecho": "oferecer orientação presencial sobre o agendamento digital", "analise": "Propõe ensinar o uso da ferramenta necessária para marcar consultas."},
+        "agente": {"paragrafo": 3, "trecho": "as unidades municipais de saúde", "analise": "Identifica executores vinculados ao atendimento e ao agendamento em discussão."},
+        "meio": {"paragrafo": 3, "trecho": "com funcionários que acompanhem o usuário", "analise": "Define o acompanhamento humano como modo de realizar a orientação."},
+        "efeito": {"paragrafo": 3, "trecho": "A medida deve ampliar sua autonomia", "analise": "Declara o resultado pretendido para o usuário que recebe orientação."},
+        "detalhamento": {"paragrafo": 3, "trecho": "nas primeiras tentativas", "analise": "Especifica o momento do acompanhamento, concentrando o apoio na etapa inicial do uso da ferramenta."},
+        "direitos_humanos": "respeitados",
+        "justificativa": "Avaliada a proposta de orientação para agendamento, que reúne os elementos em uma única iniciativa e responde à exclusão explicada. A manutenção do agendamento presencial garante o cuidado enquanto a autonomia digital se desenvolve. Não há defesa de violação de direitos."
+      },
+      "prioridades": [
+        {"foco": "Consolidação da aplicação produtiva do repertório e maior especificidade da abertura.", "exercicio": "Substituir apenas a segunda frase da introdução por uma consequência da igualdade para o acesso a serviços e reler a ligação com o exemplo da consulta.", "criterio_sucesso": "A nova frase estabelece relação temática concreta, preserva a coerência com o segundo parágrafo e não acrescenta referência ornamental."}
+      ],
+      "limitacoes": [
+        "Linhas físicas e sistema de escrita desconhecidos; não se pode decidir insuficiência ou excesso de extensão a partir do texto digitado.",
+        "Textos motivadores ausentes: não é possível verificar cópia ou dependência em relação à proposta original.",
+        "A referência constitucional não foi consultada externamente; a análise considera a formulação e sua função argumentativa no texto."
+      ]
+    }
+  },
+  {
+    "id": "repeticao-funcional",
+    "avaliacao": {
+      "corretor": "A",
+      "entrada_sha256": "b8dee7072bb39f020dc69c65294e5faf9e5ea9ea5a7f4b32a4dc1fdef4a03568",
+      "situacao": {
+        "codigo": "normal",
+        "justificativa": "O texto está em português e apresenta ponto de vista, desenvolvimento e intervenção sobre a inclusão digital de pessoas idosas. Não há evidência documentada de causa de zero global. A extensão física e o sistema de escrita são desconhecidos e não permitem anulação por insuficiência.",
+        "evidencias": [
+          {"paragrafo": 1, "trecho": "É necessário que a modernização inclua quem ainda não domina essas ferramentas.", "analise": "Expressa uma tese que os parágrafos seguintes fundamentam e operacionalizam."}
+        ]
+      },
+      "tema": {
+        "atendimento": "integral",
+        "justificativa": "Desenvolve as barreiras digitais enfrentadas pelas pessoas idosas no acesso a serviços essenciais e propõe medidas municipais de inclusão, mantendo o recorte temático ao longo do texto. Não há deslocamento para outro grupo social ou outro problema.",
+        "evidencias": [
+          {"paragrafo": 1, "trecho": "As pessoas idosas têm direito à participação social. Esse direito fica ameaçado quando serviços essenciais passam a existir apenas em plataformas digitais que parte da população não sabe utilizar.", "analise": "Relaciona o grupo social, a exigência digital e a exclusão do acesso a serviços."},
+          {"paragrafo": 3, "trecho": "As prefeituras devem manter postos de atendimento presencial e oferecer orientação digital nas bibliotecas municipais.", "analise": "Situa a resposta em instituições municipais e em duas medidas diretamente relacionadas à inclusão discutida."}
+        ]
+      },
+      "competencias": {
+        "C1": {
+          "nota": 200,
+          "justificativa": "Apresenta excelente domínio da escrita formal, com concordância, regência, paralelismo e pontuação adequados. Os períodos mantêm integridade sintática mesmo ao comparar medidas e explicar finalidades. Não foram identificados desvios comprováveis.",
+          "evidencias": [
+            {"paragrafo": 1, "trecho": "As pessoas idosas têm direito à participação social.", "analise": "O verbo concorda com o sujeito plural e a construção direito à participação emprega corretamente a crase."},
+            {"paragrafo": 2, "trecho": "Manter o atendimento presencial e oferecer orientação digital são, portanto, medidas complementares: a primeira assegura acesso imediato, enquanto a segunda amplia a autonomia futura.", "analise": "O sujeito composto por duas orações é compatível com são; os dois-pontos introduzem a explicação, e a oração com enquanto estrutura corretamente a comparação."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar a revisão de concordância, paralelismo e pontuação dos períodos explicativos."
+        },
+        "C2": {
+          "nota": 200,
+          "justificativa": "Atende integralmente ao tema, apresenta excelente domínio dissertativo-argumentativo e emprega repertório social produtivo sobre proteção de senhas e aprendizagem no acesso aos serviços. A distinção entre acesso imediato e autonomia futura transforma as observações práticas em fundamento da tese; não é necessária citação de autoridade para esse funcionamento.",
+          "evidencias": [
+            {"paragrafo": 2, "trecho": "O atendimento presencial permite que uma pessoa idosa resolva uma necessidade sem entregar sua senha a terceiros.", "analise": "Mobiliza uma situação social e prática pertinente, relacionando a alternativa presencial à proteção do usuário."},
+            {"paragrafo": 2, "trecho": "a primeira assegura acesso imediato, enquanto a segunda amplia a autonomia futura", "analise": "Interpreta as duas medidas por seus efeitos distintos e complementares, utilizando o conhecimento apresentado em defesa de uma resposta inclusiva."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar o uso de situações sociais concretas como fundamento de comparações argumentativas."
+        },
+        "C3": {
+          "nota": 200,
+          "justificativa": "As informações são consistentes e organizadas em defesa de uma modernização inclusiva. O segundo parágrafo distingue proteção no presente e aprendizagem para o futuro, explicando por que atendimento presencial e orientação digital se complementam. A conclusão realiza essa distinção por meio de medidas correspondentes, configurando autoria na organização do raciocínio.",
+          "evidencias": [
+            {"paragrafo": 2, "trecho": "Já a orientação digital permite que essa pessoa aprenda a acessar o serviço com segurança.", "analise": "Explica a contribuição própria da formação em contraste com a solução imediata oferecida pelo atendimento presencial."},
+            {"paragrafo": 2, "trecho": "a primeira assegura acesso imediato, enquanto a segunda amplia a autonomia futura", "analise": "A oposição temporal fundamenta a complementaridade, evitando tratar as duas medidas como uma enumeração sem explicação."},
+            {"paragrafo": 3, "trecho": "Nesses espaços, monitores devem ensinar procedimentos com exemplos práticos, respeitando o ritmo de aprendizagem de cada participante", "analise": "A execução da proposta concretiza a formação necessária para que a inclusão futura não dependa apenas de manter postos presenciais."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar comparações que expliquem o papel de cada medida e sustentem a conclusão."
+        },
+        "C4": {
+          "nota": 200,
+          "justificativa": "Articula bem o texto com retomadas nominais e pronominais, comparação, conclusão, localização e finalidade. A repetição de atendimento presencial e orientação digital mantém identificáveis os dois eixos; as expressões a primeira e a segunda explicitam sua relação. Não há efeito prejudicial demonstrável que justifique penalizar a repetição.",
+          "evidencias": [
+            {"paragrafo": 1, "trecho": "Esse direito fica ameaçado", "analise": "A expressão retoma de modo claro o direito à participação social apresentado anteriormente."},
+            {"paragrafo": 2, "trecho": "Já a orientação digital permite que essa pessoa aprenda", "analise": "Já introduz o segundo eixo da comparação, e essa pessoa retoma a pessoa idosa mencionada no período anterior."},
+            {"paragrafo": 2, "trecho": "a primeira assegura acesso imediato, enquanto a segunda amplia a autonomia futura", "analise": "As retomadas ordinais possuem antecedentes recuperáveis e enquanto exprime a comparação dos efeitos das medidas."},
+            {"paragrafo": 3, "trecho": "Nesses espaços, monitores devem ensinar procedimentos", "analise": "A expressão locativa retoma as bibliotecas municipais, onde a frase anterior situa a orientação digital."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar a alternância entre repetição funcional e retomadas claras, sem substituir termos apenas para evitar repeti-los."
+        },
+        "C5": {
+          "nota": 200,
+          "justificativa": "A proposta de orientação digital é detalhada, temática e articulada ao argumento. Identifica as prefeituras como responsáveis, bibliotecas e monitores como execução, exemplos práticos e respeito ao ritmo como especificações e autonomia e segurança como finalidade. A manutenção dos postos é complementar; não foi necessário reunir elementos de propostas diferentes. A intervenção respeita direitos humanos.",
+          "evidencias": [
+            {"paragrafo": 3, "trecho": "As prefeituras devem manter postos de atendimento presencial e oferecer orientação digital nas bibliotecas municipais.", "analise": "Define responsabilidade pública e local da formação, em coerência com a complementaridade defendida."},
+            {"paragrafo": 3, "trecho": "monitores devem ensinar procedimentos com exemplos práticos, respeitando o ritmo de aprendizagem de cada participante, para que a população idosa possa utilizar os serviços com autonomia e segurança", "analise": "Especifica execução, detalhamento e finalidade da orientação digital na mesma iniciativa."}
+          ],
+          "proximo_nivel": "Não há nível superior na matriz. Consolidar o vínculo entre o detalhamento da execução e as necessidades dos participantes."
+        }
+      },
+      "parecer": "Texto formal e consistente que defende duas formas complementares de inclusão. A diferença entre acesso imediato e autonomia futura fundamenta a organização, e a conclusão responde a ambas. A repetição dos termos centrais orienta o leitor e não constitui inadequação. Não foram identificados erros avaliáveis; o trabalho proposto é de consolidação.",
+      "acertos": [
+        "No parágrafo 1, relaciona participação social e acesso a serviços essenciais, apresentando uma tese inclusiva.",
+        "No parágrafo 2, distingue a função do atendimento presencial da função da orientação digital, explicando a complementaridade.",
+        "No parágrafo 3, especifica local, executores, abordagem e finalidade da formação, em coerência com o desenvolvimento."
+      ],
+      "paragrafos": [
+        {"paragrafo": 1, "funcao": "Apresentar a ameaça à participação social e defender uma modernização que inclua quem não domina ferramentas digitais.", "parecer": "A relação entre direito, barreira e tese é clara e prepara o exame de alternativas no desenvolvimento.", "evidencias": [{"paragrafo": 1, "trecho": "Esse direito fica ameaçado quando serviços essenciais passam a existir apenas em plataformas digitais que parte da população não sabe utilizar.", "analise": "Explica a condição em que a digitalização pode excluir o grupo social apresentado."}]},
+        {"paragrafo": 2, "funcao": "Demonstrar a complementaridade entre atendimento presencial e orientação digital.", "parecer": "Desenvolve uma comparação funcional e temporal, com referentes claros. A retomada dos dois termos mantém o foco e sustenta a conclusão.", "evidencias": [{"paragrafo": 2, "trecho": "Manter o atendimento presencial e oferecer orientação digital são, portanto, medidas complementares", "analise": "A conclusão resulta da explicação anterior sobre proteção imediata e aprendizagem para o uso autônomo."}]},
+        {"paragrafo": 3, "funcao": "Converter a complementaridade defendida em medidas municipais de atendimento e formação.", "parecer": "Apresenta intervenção executável no âmbito escolhido e explicita uma abordagem pedagógica atenta aos participantes.", "evidencias": [{"paragrafo": 3, "trecho": "respeitando o ritmo de aprendizagem de cada participante", "analise": "O detalhamento adequa a execução à necessidade de aprendizagem sem impor domínio instantâneo das ferramentas."}]}
+      ],
+      "problemas": [],
+      "repertorios": [
+        {"paragrafo": 2, "trecho": "O atendimento presencial permite que uma pessoa idosa resolva uma necessidade sem entregar sua senha a terceiros. Já a orientação digital permite que essa pessoa aprenda a acessar o serviço com segurança.", "referencia": "Observação social e prática sobre proteção de credenciais e formação para o uso de serviços digitais.", "legitimidade": "Mobiliza conhecimento cotidiano sobre acesso a serviços e aprendizagem, sem simular pesquisa ou estatística. Não houve consulta externa para verificar situações empíricas.", "pertinencia": "A proteção da pessoa idosa e a formação digital pertencem diretamente ao problema da inclusão no acesso aos serviços.", "produtividade": "O texto utiliza as observações para distinguir efeitos no presente e no futuro e justificar a manutenção simultânea de atendimento e orientação, sustentando a tese e a proposta.", "verificacao": "nao_verificado", "fonte_url": null}
+      ],
+      "intervencao": {
+        "acao": {"paragrafo": 3, "trecho": "oferecer orientação digital nas bibliotecas municipais", "analise": "Propõe formação digital em espaços públicos municipais."},
+        "agente": {"paragrafo": 3, "trecho": "As prefeituras", "analise": "Identifica o poder público municipal como responsável pela oferta da formação."},
+        "meio": {"paragrafo": 3, "trecho": "monitores devem ensinar procedimentos com exemplos práticos", "analise": "Estabelece recursos humanos e uma forma concreta de ensinar o uso das ferramentas."},
+        "efeito": {"paragrafo": 3, "trecho": "para que a população idosa possa utilizar os serviços com autonomia e segurança", "analise": "Declara o resultado esperado, coerente com a aprendizagem e a proteção discutidas."},
+        "detalhamento": {"paragrafo": 3, "trecho": "respeitando o ritmo de aprendizagem de cada participante", "analise": "Especifica a adaptação da abordagem de ensino às condições individuais dos participantes."},
+        "direitos_humanos": "respeitados",
+        "justificativa": "Avaliada a oferta de orientação digital, executada por monitores nas bibliotecas, com detalhamento e finalidade na mesma proposta. A manutenção dos postos presenciais é medida complementar para acesso imediato. O conjunto protege autonomia, segurança e acesso a serviços sem defender violação de direitos."
+      },
+      "prioridades": [
+        {"foco": "Consolidação da repetição funcional e da explicação comparativa.", "exercicio": "Revisar o segundo parágrafo marcando as expressões que nomeiam e retomam cada medida; experimentar uma substituição e comparar a clareza das duas versões.", "criterio_sucesso": "O leitor identifica sem ambiguidade qual medida assegura acesso imediato e qual amplia a autonomia futura; qualquer substituição preserva essa distinção."}
+      ],
+      "limitacoes": [
+        "Linhas físicas e sistema de escrita desconhecidos; o texto digitado não permite concluir insuficiência, excesso de linhas ou qualidade da caligrafia.",
+        "Textos motivadores ausentes: não é possível verificar cópia ou dependência em relação à proposta original."
+      ]
+    }
+  }
+]

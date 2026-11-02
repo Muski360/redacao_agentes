@@ -1,0 +1,132 @@
+{
+  "codex_version": "0.161.0",
+  "pedido": "corrija",
+  "pasta_isolada": "C:\\Users\\mudb3\\redacao_agentes\\.cache\\teste-fluxo-corrija",
+  "parametros_locais": [
+    "--strict-config",
+    "--ignore-user-config",
+    "--skip-git-repo-check",
+    "-s danger-full-access",
+    "-c approval_policy=never",
+    "--ephemeral",
+    "-m gpt-6.1-sol",
+    "-c model_reasoning_effort=high"
+  ],
+  "thread_inicial": {
+    "type": "thread.started",
+    "thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24"
+  },
+  "finalizou": true,
+  "chamadas_subagentes": [
+    {
+      "id": "item_15",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_17",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_19",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_21",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_24",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_25",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_27",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_30",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_31",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_33",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_34",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    },
+    {
+      "id": "item_36",
+      "type": "collab_tool_call",
+      "tool": "wait",
+      "sender_thread_id": "01a19cda-e99a-7dc2-8ec6-bb9670887b24",
+      "receiver_thread_ids": [],
+      "agents_states": {},
+      "status": "completed"
+    }
+  ],
+  "observacao": "Execucao em pasta isolada. Configuracao global nao alterada. Relatorio arquivado regenerado apenas para ajustar links relativos com o script final.",
+  "limite_telemetria": "O JSONL do CLI preserva esperas, mas nao emite neste cliente os eventos de criacao dessas ferramentas de colaboracao. IDs e parametros constam do manifesto escrito pelo coordenador; nao ha autenticacao criptografica dos pareceres."
+}

@@ -1,0 +1,13 @@
+{
+  "subagente_real": true,
+  "id": "/root/regressao_pedagogica",
+  "modelo": "gpt-6.1-sol",
+  "esforco": "xhigh",
+  "contexto_novo": true,
+  "papel_carregado": "prompt",
+  "inicio_observado": "2026-11-02T15:18:04+00:00",
+  "fim_observado": "2026-11-02T15:23:05+00:00",
+  "entradas": "entradas.json",
+  "avaliacoes": "avaliacoes.json",
+  "nota": "Casos sintéticos de comportamento; resultados não constituem gabarito oficial nem banca completa."
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "sem-citacoes-30-linhas",
+    "entrada": {
+      "versao": 1,
+      "entrada_sha256": "5f9ea0533be7e8110a1eb2339fa5a2929f4e4ca0a01e242550da1c8093c5982b",
+      "tema": "Inclusão digital das pessoas idosas no Brasil",
+      "texto": "A digitalização dos serviços públicos facilita solicitações, mas pode restringir a autonomia das pessoas idosas no Brasil. Quando o atendimento passa a depender exclusivamente da internet, uma facilidade para parte da população se transforma em barreira para quem não teve acesso à formação digital. Por isso, a modernização precisa preservar alternativas de atendimento e oferecer aprendizagem acessível.\n\nA dificuldade não decorre simplesmente da idade. Plataformas com letras pequenas, etapas pouco claras e prazos curtos exigem habilidades que muitas pessoas ainda não puderam desenvolver. Sem apoio, o usuário depende de terceiros para marcar consultas ou solicitar benefícios e pode entregar senhas pessoais para conseguir ajuda. Assim, a barreira de acesso também aumenta a exposição a fraudes, o que demonstra por que distribuir aparelhos, isoladamente, não resolve o problema.\n\nAs prefeituras devem oferecer oficinas gratuitas nas bibliotecas dos bairros, com monitores preparados para ensinar o uso de serviços públicos e a proteção de senhas. As aulas devem permitir que cada participante repita os procedimentos em seu próprio ritmo, a fim de ampliar sua autonomia. Paralelamente, os órgãos públicos devem manter atendimento presencial, garantindo acesso aos direitos durante a aprendizagem digital.",
+      "paragrafos": [
+        {
+          "numero": 1,
+          "texto": "A digitalização dos serviços públicos facilita solicitações, mas pode restringir a autonomia das pessoas idosas no Brasil. Quando o atendimento passa a depender exclusivamente da internet, uma facilidade para parte da população se transforma em barreira para quem não teve acesso à formação digital. Por isso, a modernização precisa preservar alternativas de atendimento e oferecer aprendizagem acessível."
+        },
+        {
+          "numero": 2,
+          "texto": "A dificuldade não decorre simplesmente da idade. Plataformas com letras pequenas, etapas pouco claras e prazos curtos exigem habilidades que muitas pessoas ainda não puderam desenvolver. Sem apoio, o usuário depende de terceiros para marcar consultas ou solicitar benefícios e pode entregar senhas pessoais para conseguir ajuda. Assim, a barreira de acesso também aumenta a exposição a fraudes, o que demonstra por que distribuir aparelhos, isoladamente, não resolve o problema."
+        },
+        {
+          "numero": 3,
+          "texto": "As prefeituras devem oferecer oficinas gratuitas nas bibliotecas dos bairros, com monitores preparados para ensinar o uso de serviços públicos e a proteção de senhas. As aulas devem permitir que cada participante repita os procedimentos em seu próprio ritmo, a fim de ampliar sua autonomia. Paralelamente, os órgãos públicos devem manter atendimento presencial, garantindo acesso aos direitos durante a aprendizagem digital."
+        }
+      ],
+      "linhas_fisicas": 30,
+      "sistema_escrita": "manuscrito",
+      "observacoes_transcricao": "Dado de linhas fornecido pelo cenário sintético de teste.",
+      "textos_motivadores": ""
+    }
+  },
+  {
+    "id": "repertorio-generico",
+    "entrada": {
+      "versao": 1,
+      "entrada_sha256": "a5dd7bd6a94c27d88b8bc85267809cc1aac7e9f6de8062458371e5e27d0a2231",
+      "tema": "Inclusão digital das pessoas idosas no Brasil",
+      "texto": "A Constituição brasileira assegura a igualdade de direitos. Esse princípio é importante em qualquer sociedade e mostra que todos devem ser respeitados. No Brasil, a inclusão digital dos idosos exige atenção, pois muitas pessoas mais velhas encontram dificuldades para usar a internet.\n\nOs serviços oferecidos somente por aplicativos podem excluir quem não sabe utilizá-los. Quando uma consulta só pode ser marcada dessa forma, a falta de familiaridade com a ferramenta impede o acesso ao atendimento. A igualdade de direitos, portanto, exige que o acesso ao serviço não dependa de um conhecimento que parte dos usuários ainda não teve oportunidade de adquirir.\n\nPara enfrentar essa barreira, as unidades municipais de saúde devem oferecer orientação presencial sobre o agendamento digital, com funcionários que acompanhem o usuário nas primeiras tentativas. A medida deve ampliar sua autonomia sem extinguir o agendamento presencial, para que a dificuldade tecnológica não impeça o cuidado com a saúde.",
+      "paragrafos": [
+        {
+          "numero": 1,
+          "texto": "A Constituição brasileira assegura a igualdade de direitos. Esse princípio é importante em qualquer sociedade e mostra que todos devem ser respeitados. No Brasil, a inclusão digital dos idosos exige atenção, pois muitas pessoas mais velhas encontram dificuldades para usar a internet."
+        },
+        {
+          "numero": 2,
+          "texto": "Os serviços oferecidos somente por aplicativos podem excluir quem não sabe utilizá-los. Quando uma consulta só pode ser marcada dessa forma, a falta de familiaridade com a ferramenta impede o acesso ao atendimento. A igualdade de direitos, portanto, exige que o acesso ao serviço não dependa de um conhecimento que parte dos usuários ainda não teve oportunidade de adquirir."
+        },
+        {
+          "numero": 3,
+          "texto": "Para enfrentar essa barreira, as unidades municipais de saúde devem oferecer orientação presencial sobre o agendamento digital, com funcionários que acompanhem o usuário nas primeiras tentativas. A medida deve ampliar sua autonomia sem extinguir o agendamento presencial, para que a dificuldade tecnológica não impeça o cuidado com a saúde."
+        }
+      ],
+      "linhas_fisicas": null,
+      "sistema_escrita": "desconhecido",
+      "observacoes_transcricao": "",
+      "textos_motivadores": ""
+    }
+  },
+  {
+    "id": "repeticao-funcional",
+    "entrada": {
+      "versao": 1,
+      "entrada_sha256": "b8dee7072bb39f020dc69c65294e5faf9e5ea9ea5a7f4b32a4dc1fdef4a03568",
+      "tema": "Inclusão digital das pessoas idosas no Brasil",
+      "texto": "As pessoas idosas têm direito à participação social. Esse direito fica ameaçado quando serviços essenciais passam a existir apenas em plataformas digitais que parte da população não sabe utilizar. É necessário que a modernização inclua quem ainda não domina essas ferramentas.\n\nO atendimento presencial permite que uma pessoa idosa resolva uma necessidade sem entregar sua senha a terceiros. Já a orientação digital permite que essa pessoa aprenda a acessar o serviço com segurança. Manter o atendimento presencial e oferecer orientação digital são, portanto, medidas complementares: a primeira assegura acesso imediato, enquanto a segunda amplia a autonomia futura.\n\nAs prefeituras devem manter postos de atendimento presencial e oferecer orientação digital nas bibliotecas municipais. Nesses espaços, monitores devem ensinar procedimentos com exemplos práticos, respeitando o ritmo de aprendizagem de cada participante, para que a população idosa possa utilizar os serviços com autonomia e segurança.",
+      "paragrafos": [
+        {
+          "numero": 1,
+          "texto": "As pessoas idosas têm direito à participação social. Esse direito fica ameaçado quando serviços essenciais passam a existir apenas em plataformas digitais que parte da população não sabe utilizar. É necessário que a modernização inclua quem ainda não domina essas ferramentas."
+        },
+        {
+          "numero": 2,
+          "texto": "O atendimento presencial permite que uma pessoa idosa resolva uma necessidade sem entregar sua senha a terceiros. Já a orientação digital permite que essa pessoa aprenda a acessar o serviço com segurança. Manter o atendimento presencial e oferecer orientação digital são, portanto, medidas complementares: a primeira assegura acesso imediato, enquanto a segunda amplia a autonomia futura."
+        },
+        {
+          "numero": 3,
+          "texto": "As prefeituras devem manter postos de atendimento presencial e oferecer orientação digital nas bibliotecas municipais. Nesses espaços, monitores devem ensinar procedimentos com exemplos práticos, respeitando o ritmo de aprendizagem de cada participante, para que a população idosa possa utilizar os serviços com autonomia e segurança."
+        }
+      ],
+      "linhas_fisicas": null,
+      "sistema_escrita": "desconhecido",
+      "observacoes_transcricao": "",
+      "textos_motivadores": ""
+    }
+  }
+]

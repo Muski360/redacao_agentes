@@ -1,0 +1,4 @@
+# Configuração exclusiva deste projeto; não altera o modelo do coordenador.
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 3
