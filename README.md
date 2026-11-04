@@ -26,6 +26,20 @@ configuração podem exigir uma nova sessão ou recarga da janela do VS Code par
 ser descobertos. Com ferramentas genéricas, a skill carrega o papel pelo prompt,
 sempre em contexto novo, e registra essa diferença. Não altera configurações globais.
 
+## Repertório de bolso e integridade factual
+
+A banca exige explicar o que a referência sustenta no argumento. Não basta citar
+um autor e repetir o tema; uma referência comum pode ser produtiva quando bem
+aplicada. Não há lista de autores proibidos nem desconto fixo por "repertório de bolso".
+
+Antes de A/B, o coordenador confere atribuições específicas em fontes externas e
+entrega aos corretores a mesma [checagem factual](docs/checagem-repertorios.md),
+sem notas. O relatório distingue confirmação, contradição, não localizado e
+incerteza. Autor/obra existente não confirma automaticamente o conteúdo atribuído.
+Sem pesquisa disponível, a limitação é explícita e não vira acusação de invenção.
+Essa etapa pode aumentar o tempo da correção conforme a quantidade de referências.
+É salvaguarda local; não se apresenta como pesquisa obrigatória da banca oficial.
+
 ## Conferir a implementação
 
 ```powershell

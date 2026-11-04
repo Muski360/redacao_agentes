@@ -1,0 +1,11 @@
+{
+  "original_sha256": "4b06c675e99da1fb4cb42e7744300b6b9330f0d63935522880728b1daaec6c39",
+  "entrada_sha256": "c65d3072ca0610ecdc8e714070c05c72e72a6414a0efb0ccd3caa27823a7c130",
+  "ajustes": [
+    "Metadado de linhas: 30; comentário original preservado nas observações.",
+    "Títulos dos motivadores subordinados à seção para inclusão integral em entrada.json."
+  ],
+  "tema_e_texto_preservados": true,
+  "fonte_criterios": "Cartilha 2026; SHA-256 local conferido com docs/fontes-oficiais.md",
+  "data_preparacao": "2026-11-04T00:26:02.617818+00:00"
+}

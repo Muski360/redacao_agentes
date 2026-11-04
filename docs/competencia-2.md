@@ -35,6 +35,13 @@ As orientações de 2026 alertam para referências memorizadas usadas genericame
 com pouca conexão com o problema. Mostre o trecho e a ligação que faltou; não
 atribua intenção de decorar. Uma referência frequente ou popular pode ser produtiva.
 Não há desconto fixo oficial por mencionar determinado filósofo, filme ou obra.
+Repetir palavras da frase temática ou afirmar que a citação "se aplica" não basta:
+aponte qual ideia específica ela fundamenta e como. Uma abertura genérica pode
+ganhar função no desenvolvimento; examine o conjunto antes de julgá-la ornamental.
+Se nenhum conhecimento mobilizado for produtivo, não justifique 200 só pela presença
+de nomes ou referências. Diferencie os demais níveis pelo conjunto de tema, tipo e
+argumentação; não transforme "de bolso" em nota fixa de 120 ou 160. Um uso produtivo
+coexistindo com uma citação ornamental também não gera teto automático.
 Não some pontos por número de citações. O repertório pode ser fato histórico,
 conhecimento científico, experiência ou observação social; citação de autoridade
 não é requisito autônomo. O nível 200 requer repertório produtivo, não aspas.
@@ -50,6 +57,12 @@ Sem motivadores, declare a impossibilidade de verificar dependência/cópia; nã
 presuma cópia nem originalidade verificada. Conhecer uma referência não equivale a
 confirmar uma citação literal externamente. No contrato, registre a verificação
 como `nao_verificado` ou informe URL e o que realmente foi consultado.
+A checagem factual comum aos corretores é separada da análise de legitimidade,
+pertinência e produtividade. Confirmação de existência não confirma conteúdo;
+informação verdadeira pode ser improdutiva. Resultado não localizado/inconclusivo
+não prova invenção e não impede 200 por si só. Uma contradição documentada deve
+ser examinada no contexto, com efeito argumentativo explicado, sem uma nova
+penalidade aritmética. Não complete uma fonte vaga com um livro ou dado inventado.
 
 ## Aprimoramento pedagógico
 

@@ -18,7 +18,8 @@ somente por discrepância. Não represente personagens como agentes independente
 Use GPT-6.1 Sol (`gpt-6.1-sol`) com esforço `xhigh` quando disponível. As definições
 estão em `.codex/agents/`. Abra contextos novos, sem histórico do coordenador nem
 resultados anteriores. Os corretores leem somente a entrada congelada e os critérios
-indicados no pedido de delegação. Não leem avaliações alheias nem comentários de
+indicados no pedido de delegação, além da mesma checagem factual prévia de repertórios,
+sem notas ou pareceres, conforme `docs/checagem-repertorios.md`. Não leem avaliações alheias nem comentários de
 calibração. Grave cada resultado exclusivamente no arquivo atribuído ao agente.
 
 O coordenador valida evidências, executa o script de arbitragem e consolida os

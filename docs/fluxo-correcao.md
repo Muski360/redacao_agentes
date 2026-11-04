@@ -6,7 +6,8 @@ Na raiz do projeto, `python scripts/validar-avaliacoes.py preparar` lê `redacao
 recusa tema/texto vazios e imprime o caminho da execução. Opcionalmente,
 `--entrada tests/fixtures/redacao-real.md --saida CAMINHO_NOVO` permite um teste
 sem substituir o original. Cada execução tem diretório novo com `redacao.md`,
-`entrada.json`, `avaliacoes/` e `execucao-agentes.json`. Não sobrescreva uma execução.
+`entrada.json`, `avaliacoes/`, `execucao-agentes.json` e uma
+`checagem-repertorios.json` pendente. Não sobrescreva uma execução.
 
 O programa reconhece as seções do modelo e aceita `Texto` como alternativa a
 `Texto integral`. Metadados ficam fora do texto avaliado.
@@ -18,6 +19,12 @@ Informe `manuscrito`, `braille`, `digital` ou `desconhecido` no sistema de escri
 do editor em linhas físicas nem aplicar o mínimo de manuscrito/Braille ao arquivo.
 
 ## Delegação independente
+
+Antes de abrir os corretores, siga [a checagem factual](checagem-repertorios.md).
+O coordenador pesquisa atribuições específicas e grava evidências neutras, sem
+nota ou julgamento de produtividade. Valide com `checar-repertorios --execucao
+CAMINHO`; informe o arquivo e o SHA retornado igualmente aos corretores. Sem
+consulta possível, registre estado limitado e as referências não verificadas.
 
 Leia a política, o contrato, as cinco competências e as situações de avaliação.
 Inicie A e B **antes de esperar qualquer resultado**. Com ferramentas que expõem
@@ -31,6 +38,7 @@ realmente usado e a limitação; não altere a configuração global para testar
 
 Cada pedido contém somente: papel, caminho absoluto de `entrada.json`, caminhos
 absolutos dos oito documentos (cinco competências, política, contrato e situações),
+caminho absoluto da mesma checagem factual congelada e seu SHA-256,
 caminho exclusivo de saída
 `avaliacoes/A.json` ou `B.json`, e ordem para não ler nenhum resultado alheio.
 Não envie histórico, nota-alvo, nome “redação nota mil”, comentário oficial, resposta
@@ -59,7 +67,7 @@ o erro. Isso não autoriza orientar nota ou mostrar dados alheios. Preserve o ar
 anterior como `A-invalida-1.json` antes do reparo quando já houver resultado real.
 
 Se o estado for `aguardando_c`, inicie somente então C em contexto novo, com
-entrada/critérios e `avaliacoes/C.json`. Não envie sequer qual competência divergiu.
+entrada/critérios, mesma checagem/SHA e `avaliacoes/C.json`. Não envie sequer qual competência divergiu.
 Registre C, espere a conclusão e reexecute o mesmo comando. O script impede uso
 de C sem discrepância. A decisão segue [arbitragem](arbitragem.md).
 
@@ -67,6 +75,11 @@ de C sem discrepância. A decisão segue [arbitragem](arbitragem.md).
 
 A consolidação cria `arbitragem.json` e `relatorio-final.md` **dentro da execução**.
 Confira evidências e classificações dos próprios pareceres sem reatribuir notas.
+Confira também o alcance da checagem: autor existente não confirma frase atribuída,
+busca sem resultado não prova falsidade e repertório verdadeiro pode ser ornamental.
+Novas execuções recusam checagem pendente/ausente, hash diferente do recebido pelos
+agentes ou referência declarada verificada sem trecho/fonte conclusivos no registro.
+Registro e limitações aparecem na seção G. Casos legados continuam legíveis.
 Em seguida execute `python scripts/validar-avaliacoes.py publicar --execucao CAMINHO`.
 Esse comando valida novamente entrada, avaliações, manifesto e decisão, e publica
 uma cópia em `resultados/relatorio-final.md`, com links para a execução imutável.

@@ -1,0 +1,59 @@
+{
+  "estado": "concluida",
+  "par_selecionado": [
+    "A",
+    "B"
+  ],
+  "nota_final": 1000.0,
+  "notas_consolidadas": {
+    "C1": 200.0,
+    "C2": 200.0,
+    "C3": 200.0,
+    "C4": 200.0,
+    "C5": 200.0
+  },
+  "metodo": "Média aritmética do par compatível selecionado segundo as regras documentadas do Inep.",
+  "comparacoes": [
+    {
+      "par": [
+        "A",
+        "B"
+      ],
+      "diferenca_total": 0,
+      "diferencas_competencias": {
+        "C1": 0,
+        "C2": 0,
+        "C3": 0,
+        "C4": 0,
+        "C5": 0
+      },
+      "divergencia_situacao": false,
+      "discrepancia": false
+    }
+  ],
+  "individuais": {
+    "A": {
+      "situacao": "normal",
+      "notas": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 200,
+        "C4": 200,
+        "C5": 200
+      },
+      "total": 1000
+    },
+    "B": {
+      "situacao": "normal",
+      "notas": {
+        "C1": 200,
+        "C2": 200,
+        "C3": 200,
+        "C4": 200,
+        "C5": 200
+      },
+      "total": 1000
+    }
+  },
+  "entrada_sha256": "7a33c2e2dbddaf19c74f09e596a1f5d38b130fc1b3700a763627184683f04b6d"
+}

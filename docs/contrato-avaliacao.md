@@ -8,6 +8,7 @@ Campos obrigatórios e tipos aparecem abaixo. Campos textuais não podem estar v
 {
   "corretor": "A",
   "entrada_sha256": "copiar de entrada.json",
+  "checagem_sha256": "SHA-256 do arquivo factual recebido, informado pelo coordenador",
   "situacao": {
     "codigo": "normal",
     "justificativa": "Por que esta situação corresponde ao texto.",
@@ -97,7 +98,19 @@ Só `erro_avaliavel` fundamenta uma falha demonstrada. A lista pode estar vazia:
 não invente erro para preenchê-la. A lista de repertórios também pode estar vazia;
 ausência de citação não é automaticamente ausência de conhecimento mobilizado.
 `verificacao` aceita `nao_verificado` ou `verificado`; o segundo exige URL e
-consulta externa efetivamente realizada. Durante calibração cega, não busque a amostra.
+checagem conclusiva no registro factual comum, com parágrafo e trecho idênticos e
+a URL correspondente. Verificado não é sinônimo de verdadeiro: o resultado factual
+pode ser `confirmado` ou `contradito`. Nos resultados não localizado, inconclusivo
+ou não verificado, use `nao_verificado` e explicite o limite em `legitimidade`.
+O registro é produzido pelo coordenador antes da delegação; o agente não pesquisa
+a redação nem cria fontes. Durante calibração cega, não busque a amostra.
+
+`checagem_sha256` é obrigatório quando a execução contém o registro factual. Copie
+o hash informado e leia esse arquivo antes de avaliar. A consolidação confirma o
+hash de todos os agentes; não altere o registro nem escreva um hash novo para
+contornar a divergência. Execuções legadas sem registro não exigem esse campo.
+Siga a [política](politica-correcao.md) para distinguir uso ornamental, desconhecido
+e contradição factual; nenhum rótulo gera desconto fixo ou anulação automática.
 
 `intervencao.direitos_humanos`: `respeitados`, `violados` ou `nao_avaliavel`.
 `violados` exige evidência da proposta e zero em C5 em situação normal. Elementos

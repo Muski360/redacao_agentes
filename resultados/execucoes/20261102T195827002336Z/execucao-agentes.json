@@ -1,0 +1,28 @@
+{
+  "subagentes_reais": true,
+  "agentes": {
+    "A": {
+      "id": "/root/corretor_a",
+      "modelo": "gpt-6.1-sol",
+      "esforco": "xhigh",
+      "contexto_novo": true,
+      "inicio": "2026-11-02T19:58:35+00:00",
+      "papel_carregado": "nativo",
+      "avaliacao": "avaliacoes/A.json",
+      "concluido": true,
+      "fim": "2026-11-02T20:01:49.169931+00:00"
+    },
+    "B": {
+      "id": "/root/corretor_b",
+      "modelo": "gpt-6.1-sol",
+      "esforco": "xhigh",
+      "contexto_novo": true,
+      "inicio": "2026-11-02T19:58:35+00:00",
+      "papel_carregado": "nativo",
+      "avaliacao": "avaliacoes/B.json",
+      "concluido": true,
+      "fim": "2026-11-02T20:02:20.248985+00:00"
+    }
+  },
+  "registro_horarios": "Inicio: leitura do relogio imediatamente antes das chamadas de criacao A/B. Fim: leitura do relogio apos confirmacao de termino pela ferramenta de agentes."
+}

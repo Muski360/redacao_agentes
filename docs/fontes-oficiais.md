@@ -3,6 +3,17 @@
 Pesquisa realizada em **02/11/2026**, data de São Paulo. Este é um retrato das
 fontes consultadas; o sistema não afirma acompanhar automaticamente futuras erratas.
 
+Revisão específica de repertórios em **04/11/2026**: a cartilha 2026, pp. 16–22,
+e a [orientação institucional sobre repertório e argumentação](https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/alunos-nota-mil-inspiram-preparacao-para-a-redacao-do-enem-2026/)
+reforçam conexão efetiva, contextualização e uso produtivo. A Constituição aparece
+como exemplo produtivo (p. 19); Platão/Aristóteles ilustram aplicações genéricas
+(pp. 17–18), sem proibição dos autores. A leitura de Machado é avaliada por sua
+interpretação e articulação (pp. 19–20). Isso fundamenta avaliar o uso, não um nome.
+Não foi localizada nessas fontes uma regra nova que obrigue corretores a pesquisar
+cada referência na internet ou fixe desconto para repertório não localizado.
+O [registro de checagem](checagem-repertorios.md) é uma salvaguarda local contra
+afirmações e referências inventadas, sem modificar os descritores oficiais.
+
 ## Fonte principal: Cartilha do Participante 2026
 
 [Página oficial correta](https://www.gov.br/inep/pt-br/centrais-de-conteudo/acervo-linha-editorial/publicacoes-institucionais/avaliacoes-e-exames-da-educacao-basica/a-redacao-do-enem-2026-cartilha-do-a-participante)

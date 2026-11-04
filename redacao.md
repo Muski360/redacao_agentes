@@ -1,22 +1,76 @@
 # Redação
 
 ## Tema
-Os impactos do excesso de publicidade no cotidiano da população brasileira
+O aumento das ondas de calor e os impactos na saúde brasileira
 
 ## Texto 
-No filme "O Show de Truman", o protagonista vive em um espetáculo midiático e é transmitido a todo momento, vivendo em meio de publicidades implícitas e constantes em sua rotina. Paralelamente, fora da ficção, o exagero da divulgação de publicidade no cotidiano da população brasileira é preocupante, uma vez que tende a se tornar um fator ansiogênico para o público, pois convencem a compra do produto divulgado, mesmo que não há necessidade útil. Dessa forma, é importante ressaltar que as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação.
+Na obra "A vida Não é útil", o autor indígena Ailton Krenak repreende a lógica capitalista que prioriza o desmatamento para acúmulo de recursos, enquanto defende a necessidade de preservação, visando a segurança ambiental. Nesse sentido, no contexto brasileiro, o aquecimento global - criticado pelo Krenak - é o principal inimigo da saúde pública, uma vez que o calor crescente afeta diretamente e indiretamente a população, em especial as parcelas mais vulneráveis, como os idosos. Sob esse viés, o interesse intenso de urbanização em detrimento da preservação ambiental e o aumento de doenças como consequência sucessiva configuram-se como obstáculos para a superação dessa problemática.
 
-Preliminarmente, é indispensável negar que os anúncios atualmente são inevitáveis e que possuem intenção de instigar o público alvo. Sob esse viés, de acordo com o professor João Branco, em parceria com a revista Provokers, uma pessoa vê, estimavelmente, 3,5 propagandas por minuto. Nesse sentido, esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode.
+Preliminarmente, é fundamental correlacionar os efeitos ambientais aos problemas de saúde. Diante desse cenário, o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa. Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país: 120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos, segundo estudo realizado pela Fiocruz e UFBA. Fica claro, portanto, a necessidade imediata de ações mitigadoras eficientes para garantir qualidade de saúde na sociedade.
 
-Ademais, é necessário destacar que publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir. Por conseguinte, o termo popular inglês "FOMO" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo, os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido. Então, é imprescindível uma intervenção estatal para aumentar a autonomia da audiência e diminuir a ansiedade do consumo.
+Ademais, os efeitos indiretos da urbanização necessitam ser evidenciados como, também, um grande agravante para a manutenção da saúde pública. Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%. Isso ocorre pois a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira. Assim, torna-se indubitável o caráter prioritário da correção dessa mazela.
 
-Portanto, o MEC - Ministério da Educação - deve realizar campanhas educativas nas escolas sobre o consumo consciente de publicidade e de como reagir corretamente durante uma "FOMO", por meio de palestras diversificadas e atividades interativas, a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas, desde da formação escolar. Dessarte, situações de publicidade importunas encontradas em "O Show de Truman" podem ser dissolvidas.
+Portanto, é imprescindível agir para mitigar o extremo calor no Brasil. Para tanto, o Ministério do Meio Ambiente - órgão responsável por fiscalizar e criar políticas públicas voltadas às questões ambientais - deve implantar medidas para, de forma eficiente, arborizar todos os bairros brasileiros, oferecendo boa captação do calor, por meio da fiscalização frequente dessas medidas nas prefeituras, a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública. Dessarte, o pensamento de segurança ambiental de Ailton Krenak pode ser praticado efetivamente.
 
 ## Metadados
 
-Linhas físicas: desconhecida
-Sistema de escrita: digital
+Linhas físicas: 30 (na risca, escrevendo muito pequeno)
+Sistema de escrita: manuscrito
 Observações de transcrição:
 
 ## Textos motivadores (opcional)
+## Texto I — Conceito e efeitos das ondas de calor
 
+Ondas de calor são eventos climáticos caracterizados por temperaturas extremamente altas, que superam os níveis esperados para uma determinada região e época do ano. Esses períodos de calor intenso podem durar dias ou semanas e são exacerbados pelo aquecimento global, que tem aumentado tanto a frequência quanto a intensidade do calor em várias partes do mundo. Essas condições podem impactar a saúde de toda a população, em especial os mais vulneráveis — como idosos, crianças, pessoas com problemas renais, cardíacos, respiratórios ou de circulação, diabéticos, gestantes e população em situação de rua.
+
+*Fonte indicada no material: https://gov.br. Acesso em: 03 ago. 2026.*
+
+## Texto II — Infográfico sobre os impactos do calor
+
+*Descrição da imagem:* infográfico composto por cinco dados numéricos e ícones que representam idosos, saúde, mortalidade, alimentação e dengue.
+
+- **85%** mais idosos vítimas de calor entre os anos de **2015 e 2022**.
+- **86 dias** de altas temperaturas ameaçaram a saúde entre **2018 e 2022**.
+- **370%** mais mortes pelo mundo. Calor fará mais vítimas até meados do século.
+- **525 milhões** em insegurança alimentar. Ondas de calor detonarão colheitas.
+- **37%** de aumento nos casos de dengue. Transmissão da doença deve crescer no planeta.
+
+**Contexto da imagem:** os dados ilustram que as ondas de calor afetam a saúde de maneira direta (exposição térmica e mortalidade) e indireta (produção de alimentos e doenças transmitidas por vetores). Algumas afirmações do infográfico apresentam projeções, e não acontecimentos já consumados.
+
+*Fonte indicada no material: https://saude.abril.com.br. Acesso em: 04 ago. 2026.*
+
+## Texto III — Ondas de calor e mortes no Brasil
+
+### Ondas de calor no Brasil registram 120 mil mortes associadas em 20 anos
+
+Dados de estudo realizado pela Fiocruz e UFBA apontam que pelo menos 120 mil pessoas tiveram mortes associadas a ondas de calor no Brasil nos últimos 20 anos. O número equivale a 0,6% da mortalidade total registrada no período, excluindo os óbitos por causas externas (acidentes e violências). Os idosos, como grupo de risco, foram os mais afetados, quase cem mil (97) óbitos de pessoas com 65 anos ou mais, representando 80% do total dos 20 anos analisados. Entre as mortes mais comuns estão as doenças cardiovasculares e respiratórias. Já as crianças com menos de dez anos foram mais atingidas por diarreias, a condição pode estar associada à falta de hidratação.
+
+*Fonte indicada no material: https://cnnbrasil.com.br. Acesso em: 06 ago. 2026. (adaptado).* 
+
+> **Nota de transcrição:** a imagem parece imprimir “quase cem mil (97) óbitos”, expressão numericamente incompleta. Ela foi mantida como aparece na fotografia, sem uma correção presumida.
+
+## Texto IV — Trecho literário de *Vidas secas*
+
+Fabiano seguiu-a com a vista e espantou-se: uma sombra passava por cima do monte. Tocou o braço da mulher, apontou o céu, ficaram os dois algum tempo aguentando a claridade do sol. Enxugaram as lágrimas, foram agachar-se perto dos filhos, suspirando, conservaram-se encolhidos, temendo que a nuvem se tivesse desfeito, vencida pelo azul terrível, aquele azul que deslumbrava e endoidecia a gente.
+
+*Fonte indicada no material: RAMOS, G. Vidas secas. São Paulo: Record, 2016.*
+
+**Contexto do trecho:** a passagem literária retrata a dureza da exposição ao sol e à seca, com personagens vulneráveis à escassez de sombra e às condições climáticas severas.
+
+## Texto V — Desigualdade socioambiental e subnotificação
+
+Para chegar ao ponto extremo de causar um óbito, muitas vezes o calor se alia a questões sociais ou de saúde. Áreas com alta densidade demográfica e pouca arborização, geralmente de baixa renda, são mais quentes do que aquelas bem arborizadas, normalmente bairros de alto padrão. Isso faz com que problemas decorrentes de calor extremo sejam, na prática, associados a outras condições. “As ondas de calor causam mortes no Brasil, apesar de subnotificadas. Muitas vezes, a causa direta do óbito não é registrada nos hospitais. A pessoa entra com sintomas relacionados a uma onda de calor, mas isso acaba não sendo documentado”, afirma Tercio Ambrizzi, professor do Instituto de Astronomia, Geofísica e Ciências Atmosféricas (IAG) da USP.
+
+*Fonte indicada no material: https://jornal.usp.br. Acesso em: 08 ago. 2026. (adaptado).* 
+
+## Texto VI — Fotografia de calor intenso
+
+**Descrição da imagem:** fotografia em preto e branco de uma área de praia e calçadão movimentados. Em primeiro plano, um termômetro urbano indica **40 °C**. Há pessoas expostas ao sol na faixa de areia e no passeio, além de bancos, construções e relevo ao fundo.
+
+**Contexto da imagem:** a fotografia concretiza a ideia de calor extremo em um espaço público, mostrando a exposição humana a uma temperatura elevada. A imagem, isoladamente, não informa duração do calor nem comprova que se trata de uma onda de calor segundo critérios meteorológicos.
+
+*Fonte indicada no material: https://falaciencia.com.br. Acesso em: 03 ago. 2026.*
+
+---
+
+*Transcrição da folha fotografada. As descrições e notas contextuais foram acrescentadas para tornar o material compreensível sem as imagens.*

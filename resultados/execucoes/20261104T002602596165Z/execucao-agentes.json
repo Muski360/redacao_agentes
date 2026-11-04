@@ -1,0 +1,30 @@
+{
+  "subagentes_reais": true,
+  "agentes": {
+    "A": {
+      "id": "/root/corretor_a",
+      "modelo": "gpt-6.1-sol",
+      "esforco": "xhigh",
+      "contexto_novo": true,
+      "inicio": "2026-11-04T00:26:38.600305+00:00",
+      "concluido": true,
+      "papel_carregado": "nativo",
+      "avaliacao": "avaliacoes/A.json",
+      "fim": "2026-11-04T00:31:56.638894+00:00"
+    },
+    "B": {
+      "id": "/root/corretor_b",
+      "modelo": "gpt-6.1-sol",
+      "esforco": "xhigh",
+      "contexto_novo": true,
+      "inicio": "2026-11-04T00:26:38.600305+00:00",
+      "concluido": true,
+      "papel_carregado": "nativo",
+      "avaliacao": "avaliacoes/B.json",
+      "fim": "2026-11-04T00:33:18.982586+00:00"
+    }
+  },
+  "observacao_ids": "IDs canonicos retornados pela ferramenta de subagentes; inicios registrados ao observar ambos em execucao.",
+  "original_preservado": "redacao-original.md",
+  "normalizacao_entrada": "normalizacao-entrada.json"
+}

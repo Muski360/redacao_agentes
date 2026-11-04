@@ -107,7 +107,11 @@ def preparar(entrada, saida=None):
     (saida / "avaliacoes").mkdir()
     (saida / "redacao.md").write_bytes(dados)
     gravar_json(saida / "entrada.json", documento)
-    gravar_json(saida / "execucao-agentes.json", {"subagentes_reais": True, "agentes": {}})
+    gravar_json(saida / "execucao-agentes.json", {"subagentes_reais": True, "agentes": {}, "requer_checagem_repertorios": True})
+    gravar_json(saida / "checagem-repertorios.json", {
+        "entrada_sha256": documento["entrada_sha256"], "estado": "pendente",
+        "escopo": "", "limitacoes": [], "itens": [],
+    })
     return saida
 
 
@@ -133,6 +137,35 @@ def validar_evidencias(itens, entrada, campo, minimo=1):
     lista(itens, campo, minimo)
     for i, item in enumerate(itens):
         validar_trecho(item, entrada, f"{campo}[{i}]", analise=True)
+
+
+def validar_checagem(checagem, entrada):
+    exigir(isinstance(checagem, dict), "Checagem de repertórios deve ser objeto JSON.")
+    exigir(checagem.get("entrada_sha256") == entrada["entrada_sha256"], "Checagem: SHA da entrada diferente.")
+    exigir(checagem.get("estado") in {"concluida", "limitada"}, "Checagem de repertórios pendente; conclua a pesquisa ou declare a limitação.")
+    texto(checagem.get("escopo"), "checagem.escopo")
+    lista(checagem.get("limitacoes"), "checagem.limitacoes", 1 if checagem["estado"] == "limitada" else 0)
+    for limite in checagem["limitacoes"]:
+        texto(limite, "checagem.limitacoes[]")
+    lista(checagem.get("itens"), "checagem.itens")
+    for item in checagem["itens"]:
+        validar_trecho(item, entrada, "checagem.itens[]")
+        for campo in ("alegacao", "justificativa"):
+            texto(item.get(campo), f"checagem.{campo}")
+        exigir(item.get("resultado") in {"confirmado", "contradito", "nao_localizado", "inconclusivo", "nao_verificado"}, "Resultado de checagem inválido.")
+        consultado = item["resultado"] != "nao_verificado"
+        lista(item.get("consultas"), "checagem.consultas", int(consultado))
+        for consulta in item["consultas"]:
+            texto(consulta, "checagem.consultas[]")
+        lista(item.get("fontes"), "checagem.fontes", int(item["resultado"] in {"confirmado", "contradito"}))
+        exigir(consultado or not item["fontes"], "Checagem não verificada não pode alegar fontes consultadas.")
+        exigir(consultado or checagem["estado"] == "limitada", "Checagem não verificada exige estado limitada.")
+        for fonte in item["fontes"]:
+            exigir(isinstance(fonte, dict), "checagem.fontes[]: objeto obrigatório.")
+            exigir(isinstance(fonte.get("url"), str) and fonte["url"].startswith(("https://", "http://")), "Checagem exige URL da fonte consultada.")
+            for campo in ("evidencia", "localizacao"):
+                texto(fonte.get(campo), f"checagem.fonte.{campo}")
+    return checagem
 
 
 def notas(avaliacao):
@@ -354,7 +387,7 @@ def evidencias_md(itens):
     return "\n\n".join(f'P{e["paragrafo"]}: “{e["trecho"]}” — {e["analise"]}' for e in itens)
 
 
-def renderizar(entrada, avaliacoes, resultado, execucao, destino):
+def renderizar(entrada, avaliacoes, resultado, execucao, destino, checagem=None):
     matriz = descritores()
     relativo = os.path.relpath(execucao, Path(destino).parent).replace("\\", "/")
     def link(arquivo):
@@ -416,6 +449,19 @@ def renderizar(entrada, avaliacoes, resultado, execucao, destino):
     if all(not any(p.get("reformulacao") for p in a["problemas"]) for a in avaliacoes):
         saida.append("Não foram propostas reformulações pontuais.")
     saida.append("## G. Repertório sociocultural")
+    if checagem is not None:
+        saida += [f'**Checagem factual prévia: {checagem["estado"]}.** {checagem["escopo"]}',
+                  "Checagem externa é uma salvaguarda local, separada do julgamento de legitimidade, pertinência e produtividade. Não localizado não significa falso; confirmação factual não garante uso produtivo."]
+        for item in checagem["itens"]:
+            saida += [f'**P{item["paragrafo"]} · {item["resultado"]}:** “{item["trecho"]}”',
+                      "Alegação examinada: " + item["alegacao"], item["justificativa"],
+                      "Consultas realizadas: " + ("; ".join(item["consultas"]) or "nenhuma")]
+            for fonte in item["fontes"]:
+                saida.append(f'[Fonte consultada]({fonte["url"]}) · {fonte["localizacao"]}. Evidência: {fonte["evidencia"]}')
+        saida += ["Limitação da checagem: " + limite for limite in checagem["limitacoes"]]
+        saida.append(f'[Registro da checagem]({link("checagem-repertorios.json")}). O validador confere a estrutura, não autentica a consulta nem a veracidade das fontes.')
+    else:
+        saida.append("Execução legada sem registro de checagem factual prévia; nenhuma confirmação externa é presumida.")
     for a in avaliacoes:
         if not a["repertorios"]:
             saida.append(f'{a["corretor"]}: nenhum repertório específico identificado; não se exige citação de autoridade.')
@@ -463,18 +509,35 @@ def consolidar(execucao, publicar=False):
     caminho_c = execucao / "avaliacoes/C.json"
     if caminho_c.exists():
         avaliacoes.append(validar_avaliacao(ler_json(caminho_c), entrada, "C"))
+    caminho_checagem = execucao / "checagem-repertorios.json"
+    caminho_manifesto = execucao / "execucao-agentes.json"
+    manifesto = ler_json(caminho_manifesto) if caminho_manifesto.exists() else {}
+    checagem = None
+    if caminho_checagem.exists():
+        checagem = validar_checagem(ler_json(caminho_checagem), entrada)
+        checagem_sha = hashlib.sha256(caminho_checagem.read_bytes()).hexdigest()
+        for avaliacao in avaliacoes:
+            exigir(avaliacao.get("checagem_sha256") == checagem_sha, "Corretor deve registrar o SHA da checagem factual recebida; não altere a checagem depois da delegação.")
+            for item in avaliacao["repertorios"]:
+                if item["verificacao"] == "verificado":
+                    exigir(any(c["paragrafo"] == item["paragrafo"] and c["trecho"] == item["trecho"]
+                               and c["resultado"] in {"confirmado", "contradito"}
+                               and item["fonte_url"] in [f["url"] for f in c["fontes"]]
+                               for c in checagem["itens"]), "Repertório verificado sem checagem conclusiva correspondente ao trecho e à fonte.")
+    else:
+        exigir(not manifesto.get("requer_checagem_repertorios"), "Registro de checagem de repertórios ausente nesta execução.")
     resultado = arbitrar(avaliacoes)
     resultado["entrada_sha256"] = entrada["entrada_sha256"]
     if publicar:
         exigir(resultado["estado"] != "aguardando_c", "Não é possível publicar antes da terceira avaliação necessária.")
-        validar_manifesto(ler_json(execucao / "execucao-agentes.json"), avaliacoes)
+        validar_manifesto(manifesto, avaliacoes)
     gravar_json(execucao / "arbitragem.json", resultado)
     if resultado["estado"] != "aguardando_c":
         destino = execucao / "relatorio-final.md"
-        gravar(destino, renderizar(entrada, avaliacoes, resultado, execucao, destino))
+        gravar(destino, renderizar(entrada, avaliacoes, resultado, execucao, destino, checagem))
         if publicar:
             destino = RAIZ / "resultados/relatorio-final.md"
-            gravar(destino, renderizar(entrada, avaliacoes, resultado, execucao, destino))
+            gravar(destino, renderizar(entrada, avaliacoes, resultado, execucao, destino, checagem))
     return resultado
 
 
@@ -484,13 +547,18 @@ def main():
     entrada = sub.add_parser("preparar")
     entrada.add_argument("--entrada", type=Path, default=RAIZ / "redacao.md")
     entrada.add_argument("--saida", type=Path)
-    for comando in ("consolidar", "publicar"):
+    for comando in ("checar-repertorios", "consolidar", "publicar"):
         p = sub.add_parser(comando)
         p.add_argument("--execucao", type=Path, required=True)
     args = parser.parse_args()
     try:
         if args.comando == "preparar":
             print(json.dumps({"estado": "entrada_preparada", "execucao": str(preparar(args.entrada, args.saida))}, ensure_ascii=False))
+        elif args.comando == "checar-repertorios":
+            entrada = carregar_entrada(args.execucao)
+            caminho = args.execucao / "checagem-repertorios.json"
+            checagem = validar_checagem(ler_json(caminho), entrada)
+            print(json.dumps({"estado": checagem["estado"], "checagem_sha256": hashlib.sha256(caminho.read_bytes()).hexdigest()}, ensure_ascii=False))
         else:
             print(json.dumps(consolidar(args.execucao, args.comando == "publicar"), ensure_ascii=False, indent=2))
         return 0

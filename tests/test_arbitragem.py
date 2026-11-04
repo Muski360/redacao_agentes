@@ -2,6 +2,7 @@
 
 from copy import deepcopy
 from datetime import datetime, timezone
+import hashlib
 import importlib.util
 import json
 import os
@@ -335,8 +336,15 @@ class EntradaEFluxoTest(unittest.TestCase):
             antes = original.read_bytes()
             execucao = banca.preparar(original, base / "execucao")
             entrada = banca.carregar_entrada(execucao)
+            caminho_checagem = execucao / "checagem-repertorios.json"
+            checagem = banca.ler_json(caminho_checagem)
+            checagem.update(estado="concluida", escopo="Conhecimento cívico e observações sociais sem atribuição específica a conferir.")
+            banca.gravar_json(caminho_checagem, checagem)
+            checagem_sha = hashlib.sha256(caminho_checagem.read_bytes()).hexdigest()
             for c in ("A", "B"):
-                banca.gravar_json(execucao / f"avaliacoes/{c}.json", completa(c, entrada))
+                a = completa(c, entrada)
+                a["checagem_sha256"] = checagem_sha
+                banca.gravar_json(execucao / f"avaliacoes/{c}.json", a)
             self.assertEqual(banca.consolidar(execucao)["nota_final"], 800)
             with self.assertRaisesRegex(ValueError, "Manifesto"):
                 banca.consolidar(execucao, publicar=True)
@@ -349,6 +357,7 @@ class EntradaEFluxoTest(unittest.TestCase):
                 banca.consolidar(execucao, publicar=True)
             relatorio = (base / "resultados/relatorio-final.md").read_text(encoding="utf-8")
             self.assertIn("800/1000", relatorio)
+            self.assertIn("Checagem factual prévia: concluida", relatorio)
             for letra in "ABCDEFGHIJ":
                 self.assertIn(f"## {letra}.", relatorio)
             self.assertEqual(original.read_bytes(), antes)
@@ -395,6 +404,160 @@ class EntradaEFluxoTest(unittest.TestCase):
         self.assertIn("não avaliada", relatorio)
         self.assertNotIn("nível 0", relatorio)
         self.assertIn("0/1000", relatorio)
+
+
+class ChecagemTest(unittest.TestCase):
+    """Testa a integridade do registro; não simula navegação ou julgamento do modelo."""
+
+    def setUp(self):
+        self.entrada = banca.interpretar_entrada(ENTRADA.encode())
+        self.checagem = {
+            "entrada_sha256": self.entrada["entrada_sha256"], "estado": "concluida",
+            "escopo": "Fixture sintético para testar os registros, não uma pesquisa real.",
+            "limitacoes": [], "itens": [{
+                "paragrafo": 1, "trecho": "As pessoas idosas têm direito à participação social.",
+                "alegacao": "Direito à participação social.", "resultado": "confirmado",
+                "justificativa": "Evidência sintética para testar preenchimento e vínculo.",
+                "consultas": ["Consulta sintética, sem acesso externo neste teste."],
+                "fontes": [{"url": "https://example.org/fixture", "evidencia": "Passagem sintética sobre participação.", "localizacao": "Seção de teste"}],
+            }],
+        }
+
+    def validar(self):
+        return banca.validar_checagem(self.checagem, self.entrada)
+
+    def test_confirmacao_e_contradicao_exigem_evidencia_e_localizacao(self):
+        for resultado in ("confirmado", "contradito"):
+            self.checagem["itens"][0]["resultado"] = resultado
+            self.validar()
+            for campo in ("evidencia", "localizacao"):
+                fonte = self.checagem["itens"][0]["fontes"][0]
+                valor = fonte.pop(campo)
+                with self.assertRaisesRegex(ValueError, campo):
+                    self.validar()
+                fonte[campo] = valor
+
+    def test_confirmacao_e_contradicao_sem_fonte_recusadas(self):
+        self.checagem["itens"][0]["fontes"] = []
+        for resultado in ("confirmado", "contradito"):
+            self.checagem["itens"][0]["resultado"] = resultado
+            with self.subTest(resultado=resultado), self.assertRaisesRegex(ValueError, "fontes"):
+                self.validar()
+
+    def test_nao_localizado_preserva_incerteza_sem_exigir_fonte_inventada(self):
+        self.checagem["itens"][0].update(resultado="nao_localizado", fontes=[])
+        self.validar()
+        self.checagem["itens"][0]["consultas"] = []
+        with self.assertRaisesRegex(ValueError, "consultas"):
+            self.validar()
+
+    def test_sem_internet_exige_limite_explicito_sem_alegar_consulta(self):
+        item = self.checagem["itens"][0]
+        item.update(resultado="nao_verificado", consultas=[], fontes=[])
+        with self.assertRaisesRegex(ValueError, "limitada"):
+            self.validar()
+        self.checagem["estado"] = "limitada"
+        with self.assertRaisesRegex(ValueError, "limitacoes"):
+            self.validar()
+        self.checagem["limitacoes"] = ["Sem ferramenta de pesquisa disponível."]
+        self.validar()
+
+    def test_sha_estranho_e_trecho_inventado_recusados(self):
+        self.checagem["entrada_sha256"] = "outra redação"
+        with self.assertRaisesRegex(ValueError, "SHA"):
+            self.validar()
+        self.checagem["entrada_sha256"] = self.entrada["entrada_sha256"]
+        self.checagem["itens"][0]["trecho"] = "referência não escrita pelo candidato"
+        with self.assertRaisesRegex(ValueError, "literalmente"):
+            self.validar()
+
+    def preparar(self, pasta):
+        original = Path(pasta) / "redacao.md"
+        original.write_bytes(ENTRADA.encode("utf-8"))
+        execucao = banca.preparar(original, Path(pasta) / "execucao")
+        for c in "AB":
+            banca.gravar_json(execucao / f"avaliacoes/{c}.json", completa(c, self.entrada))
+        return execucao
+
+    def gravar_checagem(self, execucao):
+        caminho = execucao / "checagem-repertorios.json"
+        banca.gravar_json(caminho, self.checagem)
+        sha = hashlib.sha256(caminho.read_bytes()).hexdigest()
+        for c in "AB":
+            caminho_a = execucao / f"avaliacoes/{c}.json"
+            a = banca.ler_json(caminho_a)
+            a["checagem_sha256"] = sha
+            banca.gravar_json(caminho_a, a)
+        return caminho
+
+    def test_nova_execucao_nao_consolida_checagem_pendente_ou_removida(self):
+        with tempfile.TemporaryDirectory() as pasta:
+            execucao = self.preparar(pasta)
+            with self.assertRaisesRegex(ValueError, "pendente"):
+                banca.consolidar(execucao)
+            (execucao / "checagem-repertorios.json").unlink()
+            with self.assertRaisesRegex(ValueError, "ausente"):
+                banca.consolidar(execucao)
+
+    def test_checagem_alterada_apos_delegacao_bloqueia_consolidacao(self):
+        with tempfile.TemporaryDirectory() as pasta:
+            execucao = self.preparar(pasta)
+            caminho = self.gravar_checagem(execucao)
+            self.assertEqual(banca.consolidar(execucao)["nota_final"], 800)
+            self.checagem["escopo"] += " Mudança posterior."
+            banca.gravar_json(caminho, self.checagem)
+            with self.assertRaisesRegex(ValueError, "SHA da checagem"):
+                banca.consolidar(execucao)
+
+    def test_fontes_e_incertezas_aparecem_no_relatorio_sem_mudar_nota(self):
+        for resultado in ("confirmado", "contradito", "inconclusivo", "nao_localizado"):
+            with self.subTest(resultado=resultado), tempfile.TemporaryDirectory() as pasta:
+                execucao = self.preparar(pasta)
+                self.checagem["itens"][0]["resultado"] = resultado
+                self.gravar_checagem(execucao)
+                self.assertEqual(banca.consolidar(execucao)["nota_final"], 800)
+                relatorio = (execucao / "relatorio-final.md").read_text(encoding="utf-8")
+                self.assertIn(resultado, relatorio)
+                self.assertIn("https://example.org/fixture", relatorio)
+                self.assertIn("não significa falso", relatorio)
+
+    def test_autor_existente_nao_autentica_trecho_diferente_ou_fonte_estranha(self):
+        with tempfile.TemporaryDirectory() as pasta:
+            execucao = self.preparar(pasta)
+            self.gravar_checagem(execucao)
+            caminho_a = execucao / "avaliacoes/A.json"
+            a = banca.ler_json(caminho_a)
+            a["repertorios"] = [{
+                "paragrafo": 1, "trecho": "As pessoas idosas têm direito à participação social.",
+                "referencia": "Referência sintética", "legitimidade": "Análise sintética.",
+                "pertinencia": "Relação com idosos.", "produtividade": "Direito e acesso.",
+                "verificacao": "verificado", "fonte_url": "https://example.org/fixture",
+            }]
+            banca.gravar_json(caminho_a, a)
+            banca.consolidar(execucao)
+            for campo, valor in (("trecho", "participação social"), ("fonte_url", "https://example.org/outra")):
+                invalida = deepcopy(a)
+                invalida["repertorios"][0][campo] = valor
+                banca.gravar_json(caminho_a, invalida)
+                with self.subTest(campo=campo), self.assertRaisesRegex(ValueError, "correspondente"):
+                    banca.consolidar(execucao)
+
+    def test_checar_repertorios_cli_retorna_hash(self):
+        with tempfile.TemporaryDirectory() as pasta:
+            execucao = self.preparar(pasta)
+            caminho = self.gravar_checagem(execucao)
+            r = subprocess.run([sys.executable, "-X", "utf8", str(RAIZ / "scripts/validar-avaliacoes.py"), "checar-repertorios", "--execucao", str(execucao)], capture_output=True)
+            self.assertEqual(r.returncode, 0, r.stderr.decode())
+            self.assertEqual(json.loads(r.stdout)["checagem_sha256"], hashlib.sha256(caminho.read_bytes()).hexdigest())
+
+    def test_execucao_legada_permanece_legivel_sem_checagem(self):
+        execucao = RAIZ / "tests/fluxo-corrija/execucao"
+        entrada = banca.carregar_entrada(execucao)
+        avaliacoes = [banca.validar_avaliacao(banca.ler_json(execucao / f"avaliacoes/{c}.json"), entrada, c) for c in "AB"]
+        r = banca.arbitrar(avaliacoes)
+        relatorio = banca.renderizar(entrada, avaliacoes, r, execucao, execucao / "relatorio-final.md")
+        self.assertIn("legada sem registro", relatorio)
+        self.assertEqual(r["nota_final"], 960)
 
 
 class ManifestoTest(unittest.TestCase):

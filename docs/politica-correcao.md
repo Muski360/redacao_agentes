@@ -49,6 +49,32 @@ na argumentação. Não alegue verificação externa sem realizá-la. Registre r
 como não verificada quando apropriado. Não transforme uma interpretação razoável
 de obra em erro factual com base só na memória do corretor.
 
+**Repertório de bolso:** mencionar o tema após uma citação não demonstra, por si
+só, produtividade. Localize a ponte entre o conhecimento e uma afirmação específica
+da tese: explicação, comparação, causa, consequência ou exemplificação. Leia também
+os parágrafos seguintes, pois a aplicação pode vir depois. A retirada da referência
+sem perda de raciocínio é um indício, não um teste mecânico. Não mantenha C2 em 200
+com justificativa baseada apenas em repertórios que o próprio parecer considerou
+ornamentais. Um repertório produtivo não perde valor só porque há outro ornamental;
+julgue o conjunto pelos descritores, sem teto ou desconto por autor citado.
+
+**Integridade factual:** A/B/C recebem a mesma checagem prévia do coordenador,
+sem notas nem pareceres. Ela distingue confirmação, contradição, busca sem resultado,
+inconclusão e ausência de consulta. Existência de autor/obra não confirma uma frase,
+enredo, conceito ou estatística atribuída. Uma fonte conhecida não autentica qualquer
+número atribuído a ela. Não invente título, página, pesquisa, episódio ou autoria para
+completar a referência do candidato ou uma sugestão de reescrita. Não localizado,
+desconhecido pelo modelo e falso são situações diferentes; não transforme incerteza
+factual, isoladamente, em desconto ou teto de nota. Paráfrases, traduções e leituras
+plausíveis não precisam reproduzir uma única formulação literal.
+
+Uma contradição documentada exige análise de sua relevância para o argumento e
+para a legitimidade do uso; não há zero global, multa fixa nem redução automática
+em C2/C3 por checagem factual. Diferencie erro de atribuição, imprecisão secundária e
+premissa central insustentável. Se outra competência for afetada, fundamente seu
+efeito distinto. Um exemplo explicitamente hipotético e uma obra de ficção real
+não são referências fabricadas apresentadas como fatos.
+
 Identifique expressamente os acertos. Evite rigor artificial e notas altas
 automáticas. Justifique o nível com a qualidade global e a recorrência dos problemas,
 não com uma soma inventada de descontos por ocorrência. Um mesmo trecho pode

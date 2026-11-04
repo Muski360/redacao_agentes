@@ -1,0 +1,437 @@
+{
+  "corretor": "A",
+  "entrada_sha256": "c65d3072ca0610ecdc8e714070c05c72e72a6414a0efb0ccd3caa27823a7c130",
+  "situacao": {
+    "codigo": "normal",
+    "justificativa": "Há texto dissertativo-argumentativo legível na transcrição, relacionado à frase temática, com defesa de ponto de vista e proposta de intervenção. As 30 linhas manuscritas foram declaradas na entrada; não há evidência de motivo de anulação.",
+    "evidencias": [
+      {
+        "paragrafo": 1,
+        "trecho": "o calor crescente afeta diretamente e indiretamente a população",
+        "analise": "Apresenta uma afirmação temática que será defendida nos dois parágrafos de desenvolvimento."
+      },
+      {
+        "paragrafo": 4,
+        "trecho": "Portanto, é imprescindível agir para mitigar o extremo calor no Brasil.",
+        "analise": "A conclusão mantém o recorte temático e introduz uma ação propositiva."
+      }
+    ]
+  },
+  "tema": {
+    "atendimento": "integral",
+    "justificativa": "O texto contempla a intensificação do calor, as ondas de calor, o contexto brasileiro e os impactos na saúde. Desenvolve mortalidade de idosos e dengue como repercussões diretas e indiretas; a discussão da urbanização serve à abordagem ambiental do problema, sem substituir o tema.",
+    "evidencias": [
+      {
+        "paragrafo": 1,
+        "trecho": "no contexto brasileiro, o aquecimento global - criticado pelo Krenak - é o principal inimigo da saúde pública, uma vez que o calor crescente afeta diretamente e indiretamente a população",
+        "analise": "Associa o aumento do calor à saúde da população brasileira."
+      },
+      {
+        "paragrafo": 2,
+        "trecho": "120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos",
+        "analise": "Aborda explicitamente ondas de calor e mortalidade."
+      },
+      {
+        "paragrafo": 3,
+        "trecho": "geram impactos severos à saúde brasileira",
+        "analise": "Reinsere a discussão da dengue no recorte nacional da saúde."
+      }
+    ]
+  },
+  "competencias": {
+    "C1": {
+      "nota": 160,
+      "justificativa": "Demonstra bom domínio do registro formal, com períodos completos, subordinação funcional e construções sintáticas interpretáveis mesmo nos períodos extensos. Há desvios localizados de concordância: o predicativo de necessidade aparece no masculino e o relativo que pretende retomar pessoas também está no masculino. O conjunto preserva a compreensão, mas essas ocorrências não têm o caráter de excepcionalidade exigido para 200. Não foram convertidas em erros escolhas apenas pouco elegantes ou regências controversas.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "uma vez que o calor crescente afeta diretamente e indiretamente a população, em especial as parcelas mais vulneráveis, como os idosos",
+          "analise": "Constrói explicação causal e especificação do grupo vulnerável com clareza sintática."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "Fica claro, portanto, a necessidade imediata de ações mitigadoras eficientes",
+          "analise": "O predicativo deve concordar com o sujeito feminino necessidade: fica clara."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos",
+          "analise": "O relativo masculino não concorda com pessoas; sua posição ainda o aproxima de anos, que não pode ser o referente semântico do percentual de idosos."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública",
+          "analise": "Articula finalidade e adição, preservando o paralelismo entre sanar e melhorar."
+        }
+      ],
+      "proximo_nivel": "Revisar a concordância de predicativos e pronomes relativos com seus referentes, sobretudo em períodos com termos intercalados. A aproximação de 200 depende de manter o bom controle sintático e tornar esses desvios excepcionais, sem aumento automático por correção isolada."
+    },
+    "C2": {
+      "nota": 200,
+      "justificativa": "Desenvolve integralmente o tema e apresenta domínio da estrutura dissertativo-argumentativa: posicionamento, argumentos sobre mortalidade e doença e conclusão propositiva. A leitura ambiental atribuída a Ailton Krenak fundamenta a oposição entre exploração do ambiente e preservação, alimenta a tese sobre urbanização e reaparece na conclusão vinculada à arborização. Há, portanto, repertório pertinente e produtivo, além dos dados dos motivadores. A referência a Milton Santos tem exploração mais limitada, sem anular a função efetivamente cumprida pelo repertório de abertura.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "o autor indígena Ailton Krenak repreende a lógica capitalista que prioriza o desmatamento para acúmulo de recursos, enquanto defende a necessidade de preservação",
+          "analise": "Fornece uma perspectiva socioambiental que fundamenta o problema da substituição da preservação por interesses de ocupação e exploração."
+        },
+        {
+          "paragrafo": 1,
+          "trecho": "o interesse intenso de urbanização em detrimento da preservação ambiental e o aumento de doenças",
+          "analise": "Transforma a oposição ambiental apresentada pelo repertório em um direcionamento para a discussão do tema."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "Dessarte, o pensamento de segurança ambiental de Ailton Krenak pode ser praticado efetivamente.",
+          "analise": "A retomada sucede a ação de arborização e vincula a perspectiva inicial à intervenção, fechando a estrutura argumentativa."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Como consolidação, manter a função argumentativa das referências e explicitar com maior precisão a contribuição da leitura de Milton Santos."
+    },
+    "C3": {
+      "nota": 160,
+      "justificativa": "Apresenta informações relacionadas ao tema, em ordem reconhecível, com indícios de autoria: organiza os impactos em diretos e indiretos e encaminha a discussão ambiental para a arborização. A mortalidade e a dengue sustentam a urgência defendida. O desenvolvimento, porém, deixa lacunas: o dado de mortes não explica por si só a contribuição específica da urbanização, e o terceiro parágrafo não explicita suficientemente o elo entre calor, condições urbanas e proliferação do vetor. Além disso, transforma em ocorrência consumada um percentual que os motivadores apresentam no contexto de projeção. Esses limites de encadeamento causal e tratamento das informações afastam a consistência global de 200, sem desfazer a organização existente.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "o calor crescente afeta diretamente e indiretamente a população",
+          "analise": "Antecipa a organização dos dois parágrafos de desenvolvimento em mortalidade e doença transmitida por vetor."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa. Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país",
+          "analise": "O texto passa da interpretação da urbanização ao efeito do aquecimento sem explicitar o mecanismo urbano que conecta essas duas afirmações."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "os casos de dengue no planeta cresceram 37%",
+          "analise": "Apresenta o percentual como aumento já ocorrido, embora o material motivador disponibilizado o associe a uma projeção de transmissão."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Isso ocorre pois a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira.",
+          "analise": "Indica fatores ambientais e o vetor, mas conclui com a própria existência de impactos, sem esclarecer suficientemente como o calor e as condições urbanas favorecem a transmissão."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "arborizar todos os bairros brasileiros",
+          "analise": "Encaminha uma resposta coerente à crítica da perda de vegetação, mostrando continuidade do projeto de texto."
+        }
+      ],
+      "proximo_nivel": "Substituir fechos genéricos por elos causais específicos: explicar como a ocupação urbana intensifica a exposição ao calor e como condições climáticas e urbanas favorecem o vetor. Corrigir também a distinção entre projeção e dado observado, preservando a extensão de 30 linhas declarada."
+    },
+    "C4": {
+      "nota": 160,
+      "justificativa": "Articula as partes do texto com recursos diversificados de causa, adição, conclusão, finalidade e retomada. As referências a essa ideia, isso e dessa mazela contribuem para a continuidade temática. Há, contudo, uma inadequação localizada: por conseguinte apresenta o dado de dengue como consequência da afirmação de que os efeitos precisam ser evidenciados, quando o dado funciona como fundamento ou exemplificação dessa afirmação. O repertório coesivo é variado e a progressão permanece compreensível, correspondendo ao nível de poucas inadequações.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "uma vez que o calor crescente afeta diretamente e indiretamente a população",
+          "analise": "Explicita uma relação causal no interior do período."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "Essa ideia é sustentada",
+          "analise": "Retoma a interpretação de modernização dolorosa introduzida na frase anterior."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Ademais, os efeitos indiretos da urbanização",
+          "analise": "Sinaliza a adição de uma segunda dimensão dos impactos, em continuidade com o parágrafo de mortalidade."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.",
+          "analise": "O valor conclusivo do conector não expressa adequadamente a função de apoio do dado à afirmação anterior."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "Para tanto, o Ministério do Meio Ambiente",
+          "analise": "Liga o objetivo de mitigar o calor à proposta apresentada em seguida."
+        }
+      ],
+      "proximo_nivel": "Escolher o conector pela relação efetivamente construída. No terceiro parágrafo, apresentar o dado como evidência ou contextualização, substituindo por conseguinte por uma formulação como como evidência desse impacto ou nesse contexto, conforme a revisão do argumento."
+    },
+    "C5": {
+      "nota": 200,
+      "justificativa": "Elabora proposta detalhada, pertinente ao tema e articulada à crítica da redução de vegetação. Identifica agente governamental, ação de arborização, acompanhamento da execução nas prefeituras, finalidade ambiental e sanitária e detalhamento do papel do agente. A fiscalização frequente funciona como modo de acompanhamento da implantação das medidas. A proposta forma uma iniciativa coerente e respeita os direitos humanos; não é necessário acrescentar outra intervenção nem detalhar todos os seus elementos para reconhecer o nível máximo.",
+      "evidencias": [
+        {
+          "paragrafo": 4,
+          "trecho": "o Ministério do Meio Ambiente - órgão responsável por fiscalizar e criar políticas públicas voltadas às questões ambientais -",
+          "analise": "Identifica o agente e detalha sua atuação institucional."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "deve implantar medidas para, de forma eficiente, arborizar todos os bairros brasileiros",
+          "analise": "Apresenta ação propositiva identificável, vinculada à preservação ambiental discutida."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "por meio da fiscalização frequente dessas medidas nas prefeituras",
+          "analise": "Indica acompanhamento institucional da execução das medidas."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública",
+          "analise": "Explicita o efeito pretendido e conecta a intervenção ao recorte da saúde."
+        }
+      ],
+      "proximo_nivel": "Não há nível superior a 200 na matriz. Como consolidação, preservar a integração entre ação, acompanhamento e finalidade; a explicação do benefício térmico da arborização pode ganhar precisão vocabular."
+    }
+  },
+  "parecer": "A redação atende ao tema, mantém estrutura argumentativa completa e mobiliza repertório socioambiental com função no projeto. São méritos a organização entre impactos diretos e indiretos e a intervenção detalhada de arborização. Os principais limites estão nos elos causais pouco explicitados entre urbanização, calor e dengue, na passagem indevida de projeção a fato consumado e em ocorrências localizadas de concordância e conexão lógica. A revisão deve substituir generalizações por explicações breves, respeitando as 30 linhas declaradas.",
+  "acertos": [
+    "No parágrafo 1, a expressão \"o calor crescente afeta diretamente e indiretamente a população\" apresenta uma organização que se realiza na sequência de mortalidade e dengue.",
+    "No parágrafo 1, \"enquanto defende a necessidade de preservação\" introduz o fundamento ambiental que reaparece na ação de arborização do parágrafo 4.",
+    "No parágrafo 2, \"120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos\" oferece suporte quantitativo para a urgência sanitária e dialoga com os motivadores fornecidos.",
+    "No parágrafo 1, \"uma vez que\" e, no parágrafo 4, \"a fim de\" cumprem funções distintas de causa e finalidade.",
+    "No parágrafo 4, \"por meio da fiscalização frequente dessas medidas nas prefeituras\" e \"melhorar significativamente a saúde pública\" integram acompanhamento e finalidade à ação proposta."
+  ],
+  "paragrafos": [
+    {
+      "paragrafo": 1,
+      "funcao": "Introduzir o problema por uma perspectiva socioambiental, delimitar a saúde brasileira e anunciar os impactos que serão discutidos.",
+      "parecer": "A abertura contextualiza e posiciona a discussão. A oposição entre exploração e preservação alimenta a tese e o encaminhamento final. A organização entre efeitos diretos e indiretos permite antecipar a sequência argumentativa.",
+      "evidencias": [
+        {
+          "paragrafo": 1,
+          "trecho": "aquecimento global - criticado pelo Krenak - é o principal inimigo da saúde pública",
+          "analise": "Expressa o posicionamento central sobre a relevância sanitária do problema."
+        },
+        {
+          "paragrafo": 1,
+          "trecho": "o calor crescente afeta diretamente e indiretamente a população",
+          "analise": "Anuncia a distinção que organiza o desenvolvimento."
+        }
+      ]
+    },
+    {
+      "paragrafo": 2,
+      "funcao": "Demonstrar a gravidade dos efeitos diretos do calor sobre a saúde, com destaque para a mortalidade de idosos.",
+      "parecer": "O dado quantitativo dá concretude ao impacto sanitário. A relação com a interpretação de urbanização dolorosa fica incompletamente explicada, porque a mortalidade comprova o impacto do calor, mas não basta para demonstrar a contribuição urbana específica. Há também os dois desvios de concordância apontados em C1.",
+      "evidencias": [
+        {
+          "paragrafo": 2,
+          "trecho": "Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país",
+          "analise": "Liga a leitura sobre urbanização ao aquecimento sem explicitar o elo causal específico."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "dos quais 80% são idosos",
+          "analise": "A seleção do grupo vulnerável é relevante, mas a forma do relativo não concorda com pessoas."
+        },
+        {
+          "paragrafo": 2,
+          "trecho": "Fica claro, portanto, a necessidade imediata",
+          "analise": "O fecho reafirma a urgência com desvio de concordância do predicativo."
+        }
+      ]
+    },
+    {
+      "paragrafo": 3,
+      "funcao": "Acrescentar um impacto indireto na saúde, a dengue, relacionado a condições ambientais urbanas.",
+      "parecer": "A seleção da doença amplia o alcance da discussão. O percentual é temporalmente apresentado de modo incompatível com a projeção dos motivadores, e a explicação causal passa de fatores urbanos a impactos sem construir suficientemente o mecanismo da transmissão. O conector conclusivo que introduz o dado também não expressa sua função de fundamentação.",
+      "evidencias": [
+        {
+          "paragrafo": 3,
+          "trecho": "os casos de dengue no planeta cresceram 37%",
+          "analise": "O passado apresenta como consumada uma informação prospectiva do material fornecido."
+        },
+        {
+          "paragrafo": 3,
+          "trecho": "a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar",
+          "analise": "Nomeia condições ambientais e o vetor, mas precisa explicitar melhor a relação com o calor e a transmissão."
+        }
+      ]
+    },
+    {
+      "paragrafo": 4,
+      "funcao": "Concluir com uma proposta ambiental voltada à saúde e retomar o repertório de abertura.",
+      "parecer": "A proposta possui ação, agente, meio de acompanhamento, finalidade e detalhamento articulados. A retomada de Krenak fecha o percurso. A expressão relativa à captação do calor permite mais de uma leitura e pode ser substituída por uma descrição inequívoca do benefício térmico, sem invalidar a intervenção.",
+      "evidencias": [
+        {
+          "paragrafo": 4,
+          "trecho": "arborizar todos os bairros brasileiros",
+          "analise": "Enfrenta a perda de vegetação debatida no texto."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "oferecendo boa captação do calor",
+          "analise": "A formulação não torna inequívoco se se refere à interceptação da radiação ou a outro benefício térmico das árvores."
+        },
+        {
+          "paragrafo": 4,
+          "trecho": "o pensamento de segurança ambiental de Ailton Krenak pode ser praticado efetivamente",
+          "analise": "Retoma a perspectiva inicial depois de apresentar uma aplicação concreta."
+        }
+      ]
+    }
+  ],
+  "problemas": [
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 2,
+      "trecho": "Fica claro, portanto, a necessidade imediata de ações mitigadoras eficientes",
+      "competencia": "C1",
+      "diagnostico": "O sujeito posposto é a necessidade imediata, feminino singular. O predicativo claro deve concordar com esse núcleo.",
+      "impacto": "Produz um desvio localizado de concordância nominal, sem impedir a compreensão da conclusão do parágrafo.",
+      "sugestao": "Flexionar o predicativo para o feminino.",
+      "reformulacao": "Fica clara, portanto, a necessidade imediata de ações mitigadoras eficientes"
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 2,
+      "trecho": "120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos",
+      "competencia": "C1",
+      "diagnostico": "O pronome relativo dos quais está no masculino, mas o referente que pode ser composto por idosos é pessoas, feminino plural. A proximidade de anos não resolve a concordância, pois anos não podem ser idosos.",
+      "impacto": "A retomada exige que o leitor repare a concordância e identifique o referente pretendido.",
+      "sugestao": "Retomar pessoas no feminino ou separar a informação percentual em outra oração com referente explícito.",
+      "reformulacao": "120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos; 80% delas eram idosas"
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 2,
+      "trecho": "o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa. Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país",
+      "competencia": "C3",
+      "diagnostico": "A informação sobre mortalidade por calor, apresentada em seguida, sustenta a gravidade sanitária do aquecimento, mas não demonstra por si só como a urbanização participa dessa elevação e da exposição. Esse elo não é suficientemente explicado no conjunto.",
+      "impacto": "A leitura de Milton Santos e a tese ambiental ficam conectadas ao dado mais por associação temática do que por uma demonstração causal completa.",
+      "sugestao": "Substituir parte da formulação geral ou do fecho por uma explicação curta sobre substituição de áreas verdes por superfícies construídas e exposição ao calor. A explicação proposta é uma possibilidade de conteúdo do revisor.",
+      "reformulacao": "A substituição de áreas verdes por superfícies construídas intensifica o calor urbano e amplia a exposição da população, tornando concreta a dimensão dolorosa dessa urbanização."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "os casos de dengue no planeta cresceram 37%",
+      "competencia": "C3",
+      "diagnostico": "O Texto II fornecido apresenta o percentual no contexto de projeção de aumento da transmissão. O verbo no passado transforma essa informação em crescimento já observado, sem que o material disponibilizado sustente essa mudança temporal.",
+      "impacto": "Reduz a precisão do apoio estatístico usado para demonstrar o impacto indireto do calor. O problema foi identificado por comparação com a entrada, sem verificação externa.",
+      "sugestao": "Manter o caráter prospectivo do dado e a atribuição à fonte apresentada.",
+      "reformulacao": "Segundo a Veja Saúde, projeta-se aumento de 37% nos casos de dengue no planeta."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "Isso ocorre pois a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira.",
+      "competencia": "C3",
+      "diagnostico": "A frase pretende explicar o crescimento da dengue, mas enuncia como explicação a facilidade de o vetor proliferar e a produção de impactos. Falta explicitar suficientemente como as condições climáticas e urbanas favorecem o vetor e a transmissão; a menção à impermeabilização não estabelece sozinha esse mecanismo.",
+      "impacto": "O segundo eixo permanece relacionado ao tema, porém o leitor precisa completar uma relação causal importante para a defesa do ponto de vista.",
+      "sugestao": "Substituir a referência genérica a impactos por um elo entre condições ambientais, criadouros, proliferação e transmissão. Tratar o mecanismo acrescentado como possibilidade de revisão, sem presumir que já foi demonstrado no original.",
+      "reformulacao": "O calor, associado à presença de água parada em áreas urbanas, pode favorecer a proliferação do mosquito e ampliar o risco de transmissão da dengue."
+    },
+    {
+      "tipo": "erro_avaliavel",
+      "paragrafo": 3,
+      "trecho": "Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.",
+      "competencia": "C4",
+      "diagnostico": "Por conseguinte marca consequência ou conclusão. A frase anterior afirma a necessidade de evidenciar os efeitos indiretos; o dado seguinte serve de apoio a essa avaliação, não constitui consequência dessa necessidade.",
+      "impacto": "O operador sinaliza uma relação diferente da função argumentativa exercida pelo dado. Esta análise diz respeito à marca linguística da conexão, distinta do problema de precisão temporal examinado em C3.",
+      "sugestao": "Apresentar o dado como apoio contextual, com um operador adequado à relação pretendida.",
+      "reformulacao": "Nesse contexto, de acordo com a revista Veja Saúde, projeta-se aumento de 37% nos casos de dengue no planeta."
+    },
+    {
+      "tipo": "ambiguidade",
+      "paragrafo": 4,
+      "trecho": "oferecendo boa captação do calor",
+      "competencia": "C1",
+      "diagnostico": "A expressão pode sugerir interceptação da energia térmica pela vegetação, mas também pode ser lida como simples absorção ou retenção de calor. O contexto de mitigação permite compreender a intenção geral, sem determinar um mecanismo inequívoco.",
+      "impacto": "Diminui a precisão vocabular da explicação do benefício da arborização. A ambiguidade não foi tratada como erro gramatical comprovado nem como ausência de elemento da intervenção.",
+      "sugestao": "Nomear diretamente o benefício térmico pretendido; a formulação sugerida é uma possibilidade do revisor.",
+      "reformulacao": "ampliando o sombreamento e reduzindo a exposição da população ao calor"
+    }
+  ],
+  "repertorios": [
+    {
+      "paragrafo": 1,
+      "trecho": "Na obra \"A vida Não é útil\", o autor indígena Ailton Krenak repreende a lógica capitalista que prioriza o desmatamento para acúmulo de recursos, enquanto defende a necessidade de preservação",
+      "referencia": "Perspectiva socioambiental atribuída a Ailton Krenak e à obra identificada na transcrição.",
+      "legitimidade": "Mobiliza uma obra e um pensador identificados como fundamento interpretativo da relação entre exploração e preservação. A paráfrase não foi conferida na obra; não se presume erro factual a partir dessa ausência de verificação.",
+      "pertinencia": "A oposição entre exploração ambiental e preservação é pertinente à discussão da vegetação, da urbanização e dos impactos do calor.",
+      "produtividade": "Fundamenta a leitura ambiental da tese e reaparece, após a ação de arborização, como perspectiva a ser praticada. Cumpre função no percurso argumentativo, embora o mecanismo climático possa ser mais explicado.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 2,
+      "trecho": "o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa",
+      "referencia": "Interpretação da urbanização como modernização dolorosa, atribuída a Milton Santos.",
+      "legitimidade": "Apresenta uma interpretação identificada com um geógrafo como apoio conceitual. A atribuição e sua formulação exata não foram verificadas externamente.",
+      "pertinencia": "Relaciona-se ao eixo da urbanização e de seus custos sociais e ambientais.",
+      "produtividade": "Oferece uma chave para interpretar danos urbanos, mas sua exploração é parcial: as mortes por calor ilustram sofrimento sanitário sem esclarecer suficientemente a participação específica da urbanização.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 2,
+      "trecho": "120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos, segundo estudo realizado pela Fiocruz e UFBA",
+      "referencia": "Dados de estudo atribuído à Fiocruz e à UFBA sobre mortalidade associada a ondas de calor.",
+      "legitimidade": "Os números de 120 mil e 80% aparecem no Texto III da entrada. A comparação com os motivadores é possível, mas não equivale a consulta ao estudo original.",
+      "pertinencia": "É diretamente relacionado a ondas de calor, mortalidade no Brasil e vulnerabilidade de idosos.",
+      "produtividade": "Dá dimensão concreta à gravidade sanitária e à necessidade de mitigação. Seu uso não comprova sozinho o mecanismo que liga urbanização e aquecimento.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    },
+    {
+      "paragrafo": 3,
+      "trecho": "de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%",
+      "referencia": "Percentual de aumento de dengue atribuído à Veja Saúde e presente no infográfico dos motivadores.",
+      "legitimidade": "O percentual e a fonte estão no material fornecido, mas o Texto II o apresenta no contexto de projeção. Não foi consultada a publicação original.",
+      "pertinencia": "Contribui para o eixo de impactos indiretos do calor sobre a saúde.",
+      "produtividade": "Amplia a discussão para doença transmitida por vetor; sua contribuição é limitada pela transformação da projeção em fato passado e pela explicação causal incompleta.",
+      "verificacao": "nao_verificado",
+      "fonte_url": null
+    }
+  ],
+  "intervencao": {
+    "acao": {
+      "paragrafo": 4,
+      "trecho": "deve implantar medidas para, de forma eficiente, arborizar todos os bairros brasileiros",
+      "analise": "Propõe implantar medidas de arborização como resposta ambiental ao calor."
+    },
+    "agente": {
+      "paragrafo": 4,
+      "trecho": "o Ministério do Meio Ambiente",
+      "analise": "Identifica um agente governamental relacionado ao âmbito de política ambiental da ação."
+    },
+    "meio": {
+      "paragrafo": 4,
+      "trecho": "por meio da fiscalização frequente dessas medidas nas prefeituras",
+      "analise": "Especifica acompanhamento periódico da implantação no âmbito municipal."
+    },
+    "efeito": {
+      "paragrafo": 4,
+      "trecho": "a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública",
+      "analise": "Apresenta finalidade ambiental e sanitária compatível com a discussão."
+    },
+    "detalhamento": {
+      "paragrafo": 4,
+      "trecho": "órgão responsável por fiscalizar e criar políticas públicas voltadas às questões ambientais",
+      "analise": "Detalha o agente por suas atribuições relacionadas à proposta."
+    },
+    "direitos_humanos": "respeitados",
+    "justificativa": "A iniciativa avaliada é a arborização coordenada pelo Ministério do Meio Ambiente e acompanhada nas prefeituras. Seus elementos pertencem à mesma proposta, relacionam-se à perda de vegetação discutida e buscam reduzir o problema sanitário sem violação de direitos. A formulação sobre captação do calor admite maior precisão, mas não elimina a ação, o modo de acompanhamento ou a finalidade identificados."
+  },
+  "prioridades": [
+    {
+      "foco": "Explicitar os elos causais dos parágrafos 2 e 3 e preservar a natureza temporal dos dados.",
+      "exercicio": "Reescrever esses dois parágrafos por substituição: trocar um fecho genérico por uma frase que ligue urbanização, calor e exposição ou transmissão; no terceiro, apresentar o percentual como projeção.",
+      "criterio_sucesso": "Cada exemplo apoia uma relação causal explicitada, e todo número mantém o caráter de observação ou projeção presente no material fornecido, sem ampliar as 30 linhas."
+    },
+    {
+      "foco": "Revisar a concordância em períodos com referentes distantes, especialmente no parágrafo 2.",
+      "exercicio": "Sublinhar o núcleo de cada sujeito e o antecedente de cada pronome relativo; em seguida, conferir gênero e número de seus predicativos e retomadas.",
+      "criterio_sucesso": "O predicativo concorda com necessidade e o percentual retoma pessoas de modo inequívoco, mantendo a fluidez do parágrafo."
+    },
+    {
+      "foco": "Ajustar a relação expressa pelo conector que introduz o dado de dengue no parágrafo 3.",
+      "exercicio": "Retirar provisoriamente o conector, escrever ao lado a relação efetiva entre as duas frases e selecionar uma ligação compatível com a função de apoio do dado.",
+      "criterio_sucesso": "O conector passa a expressar contextualização ou fundamentação, sem apresentar o dado como consequência da necessidade de evidenciar o problema."
+    }
+  ],
+  "limitacoes": [
+    "A análise foi feita sobre a transcrição congelada; ela não permite avaliar caligrafia ou translineação do manuscrito.",
+    "As 30 linhas físicas são uma declaração registrada na entrada, não uma contagem da folha realizada pelo corretor. Não se inferiu excesso de linhas pelo tamanho do texto.",
+    "As referências, os percentuais e as atribuições foram examinados com base no texto e nos motivadores fornecidos, sem consulta a obras, estudos ou páginas externas."
+  ]
+}
+

@@ -4,24 +4,24 @@ Simulação pedagógica. Não é correção oficial nem prevê a nota real do In
 
 ## A. Resultado geral
 
-**Nota final: 840/1000. Estado: concluida.**
+**Nota final: 880/1000. Estado: concluida.**
 
-**Tema:** Os impactos do excesso de publicidade no cotidiano da população brasileira
+**Tema:** O aumento das ondas de calor e os impactos na saúde brasileira
 
-Linhas físicas: desconhecidas. Sistema: digital.
+Linhas físicas: 30. Sistema: manuscrito.
 
-Observações de transcrição: não informadas.
+Observações de transcrição: Linhas declaradas pelo autor: 30 (na risca, escrevendo muito pequeno)..
 
 Média aritmética do par compatível selecionado segundo as regras documentadas do Inep.
 
 | Competência | A | B | Consolidada |
 | --- | --- | --- | --- |
-| C1 | 120 | 120 | 120 |
+| C1 | 160 | 160 | 160 |
 | C2 | 200 | 200 | 200 |
 | C3 | 160 | 160 | 160 |
 | C4 | 160 | 160 | 160 |
 | C5 | 200 | 200 | 200 |
-| **Total** | 840 | 840 | 840 |
+| **Total** | 880 | 880 | 880 |
 
 Notas consolidadas intermediárias são médias, não níveis oficiais adicionais. Situação global de zero não corresponde a cinco competências avaliadas com zero.
 
@@ -31,787 +31,607 @@ Par selecionado: A, B.
 
 ### Corretor A
 
-A redação atende integralmente ao tema e sustenta uma posição reconhecível sobre ansiedade e pressão pelo consumo. O emprego de FOMO explica um mecanismo do problema, e a intervenção educacional é detalhada e vinculada à discussão. A maior prioridade é revisar a formulação linguística, pois há desvios sintáticos e de regência distribuídos pelo texto. No raciocínio, a negação da inevitabilidade dos anúncios e a passagem da proteção legal à intenção de persuadir precisam de ajuste para que os fundamentos sustentem com precisão as afirmações. A coesão global funciona, com inadequações localizadas de relação lógica.
+A redação atende ao tema, mantém estrutura argumentativa completa e mobiliza repertório socioambiental com função no projeto. São méritos a organização entre impactos diretos e indiretos e a intervenção detalhada de arborização. Os principais limites estão nos elos causais pouco explicitados entre urbanização, calor e dengue, na passagem indevida de projeção a fato consumado e em ocorrências localizadas de concordância e conexão lógica. A revisão deve substituir generalizações por explicações breves, respeitando as 30 linhas declaradas.
 
-Acertos: No parágrafo 1, a tese explicita publicidade excessiva, cotidiano brasileiro e ansiedade: "o exagero da divulgação de publicidade no cotidiano da população brasileira é preocupante". No parágrafo 2, o impacto econômico é localizado em "gastar mais do que pode", ampliando a discussão para além do incômodo publicitário. No parágrafo 3, "os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido" explica a pressão de consumo associada ao FOMO. No parágrafo 4, "por meio de palestras diversificadas e atividades interativas" define meios de execução, e as finalidades retomam ansiedade e autonomia. Nos parágrafos 1 e 4, a referência a "O Show de Truman" abre e encerra a discussão, contribuindo para a unidade temática.
+Acertos: No parágrafo 1, a expressão "o calor crescente afeta diretamente e indiretamente a população" apresenta uma organização que se realiza na sequência de mortalidade e dengue. No parágrafo 1, "enquanto defende a necessidade de preservação" introduz o fundamento ambiental que reaparece na ação de arborização do parágrafo 4. No parágrafo 2, "120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos" oferece suporte quantitativo para a urgência sanitária e dialoga com os motivadores fornecidos. No parágrafo 1, "uma vez que" e, no parágrafo 4, "a fim de" cumprem funções distintas de causa e finalidade. No parágrafo 4, "por meio da fiscalização frequente dessas medidas nas prefeituras" e "melhorar significativamente a saúde pública" integram acompanhamento e finalidade à ação proposta.
 
 ### Corretor B
 
-A redação atende integralmente ao tema e defende uma tese reconhecível sobre ansiedade e consumo. O FOMO é aplicado de forma produtiva e a intervenção educacional reúne elementos concretos, retomando o desenvolvimento. Os principais limites são a recorrência de desvios na escrita formal e a passagem pouco consistente entre a proibição de anúncios abusivos ou enganosos e a finalidade comercial da publicidade. A organização global funciona, mas a revisão linguística e a precisão das relações argumentativas precisam acompanhar a qualidade das ideias selecionadas.
+O texto atende integralmente ao tema, organiza os efeitos diretos e indiretos do calor, aplica repertório ambiental à tese e apresenta intervenção completa. Seus limites principais são os elos causais incompletos, a apresentação de projeção como fato consumado e poucas inadequações de concordância e articulação. A revisão deve priorizar substituições pontuais, pois as 30 linhas físicas já estão declaradas no limite.
 
-Acertos: P1: relaciona expressamente o excesso de publicidade ao cotidiano da população brasileira e estabelece a ansiedade como eixo da tese. P2: identifica o gasto superior à capacidade financeira como impacto concreto do consumismo. P3: aplica o FOMO ao desconforto de não possuir o item anunciado, dando função explicativa ao repertório. P4: apresenta intervenção educacional detalhada, com agente, ação, execução e finalidade compatíveis com a discussão. P1–P4: mantém o tema e organiza uma progressão de apresentação, discussão e intervenção.
+Acertos: P1: o trecho "o calor crescente afeta diretamente e indiretamente a população" delimita o eixo sanitário e antecipa os dois desenvolvimentos. P1 e P4: a oposição entre exploração ambiental e preservação apresentada com Krenak é aplicada à tese e retomada na arborização proposta. P2: o trecho "120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos" concretiza a gravidade do problema e permite focalizar os idosos. P4: a iniciativa reúne arborização, Ministério do Meio Ambiente, fiscalização nas prefeituras, finalidade sanitária e detalhamento do agente.
 
 ## C. Análise por competência
 
 ### C1
 
-**A: nível 120.** Descritor oficial: Demonstra domínio mediano da modalidade escrita formal da língua portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita.
+**A: nível 160.** Descritor oficial: Demonstra bom domínio da modalidade escrita formal da língua portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita.
 
-Há domínio mediano da escrita formal. O texto mantém registro adequado e constrói períodos com subordinação, mas apresenta desvios distribuídos pelos quatro parágrafos, com reincidência em relações sintáticas e regência. São demonstráveis a construção de convencer, o indicativo após concessão hipotética, a concordância e a ausência de sujeito coerente em uma retomada, a regência de acarretar, a coordenação truncada com gerúndio, a separação de sujeito e verbo, a falta de hífen em público-alvo e a construção desde da. A escolha negar ainda inverte a orientação semântica do início do segundo parágrafo. Esse conjunto supera desvios apenas pontuais, sem caracterizar desconhecimento ou comprometimento generalizado da compreensão.
+Demonstra bom domínio do registro formal, com períodos completos, subordinação funcional e construções sintáticas interpretáveis mesmo nos períodos extensos. Há desvios localizados de concordância: o predicativo de necessidade aparece no masculino e o relativo que pretende retomar pessoas também está no masculino. O conjunto preserva a compreensão, mas essas ocorrências não têm o caráter de excepcionalidade exigido para 200. Não foram convertidas em erros escolhas apenas pouco elegantes ou regências controversas.
 
-P1: “pois convencem a compra do produto divulgado, mesmo que não há necessidade útil” — A construção não explicita adequadamente quem é convencido a comprar e emprega há onde a concessão introduzida por mesmo que requer haja.
+P1: “uma vez que o calor crescente afeta diretamente e indiretamente a população, em especial as parcelas mais vulneráveis, como os idosos” — Constrói explicação causal e especificação do grupo vulnerável com clareza sintática.
 
-P1: “as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação” — O segmento final não mantém concordância nem sujeito explícito compatível: propagandas é feminino plural e brasileiro está no singular.
+P2: “Fica claro, portanto, a necessidade imediata de ações mitigadoras eficientes” — O predicativo deve concordar com o sujeito feminino necessidade: fica clara.
 
-P2: “é indispensável negar que os anúncios atualmente são inevitáveis” — Negar afirma a rejeição da inevitabilidade, mas a sequência apresenta o alto número de anúncios como suporte à exposição excessiva. A escolha lexical desorienta o sentido da afirmação.
+P2: “120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos” — O relativo masculino não concorda com pessoas; sua posição ainda o aproxima de anos, que não pode ser o referente semântico do percentual de idosos.
 
-P2: “esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode” — Acarretar pede o efeito como complemento, e a sequência e podendo não completa adequadamente a coordenação iniciada pelo verbo flexionado.
+P4: “a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública” — Articula finalidade e adição, preservando o paralelismo entre sanar e melhorar.
 
-P3: “o termo popular inglês "FOMO" - medo de não fazer parte -, descreve” — A vírgula posterior à intercalação separa o sujeito de seu verbo.
+Próximo nível: Revisar a concordância de predicativos e pronomes relativos com seus referentes, sobretudo em períodos com termos intercalados. A aproximação de 200 depende de manter o bom controle sintático e tornar esses desvios excepcionais, sem aumento automático por correção isolada.
 
-P4: “desde da formação escolar” — A preposição desde não admite a junção de de expressa em da: cabe desde a formação escolar.
+**B: nível 160.** Descritor oficial: Demonstra bom domínio da modalidade escrita formal da língua portuguesa e de escolha de registro, com poucos desvios gramaticais e de convenções da escrita.
 
-Próximo nível: Para aproximar o conjunto do nível 160, revise a cadeia sujeito-verbo-complemento, regularize regências e modos verbais e elimine as rupturas de coordenação e pontuação. A revisão precisa alcançar todos os parágrafos; não se trata de subtrair ou recuperar pontos por erro isolado.
+Predominam períodos completos, registro formal e bom controle de subordinação e encaixes explicativos. Há poucos desvios demonstráveis de concordância: o relativo masculino retoma pessoas e o predicativo claro não concorda com necessidade no segundo parágrafo. A reincidência de desajustes de concordância impede o nível máximo, mas não compromete o domínio global da escrita. O nível decorre do conjunto, sem descontos aritméticos por ocorrência.
 
-**B: nível 120.** Descritor oficial: Demonstra domínio mediano da modalidade escrita formal da língua portuguesa e de escolha de registro, com alguns desvios gramaticais e de convenções da escrita.
+P1: “uma vez que o calor crescente afeta diretamente e indiretamente a população, em especial as parcelas mais vulneráveis, como os idosos.” — Articula causa, complemento e especificação de grupo vulnerável com clareza.
 
-Há domínio da estrutura de períodos e manutenção do registro formal, com subordinação e formulação de ideias compreensíveis. Entretanto, os desvios não são apenas excepcionais ou poucos: aparecem em diferentes parágrafos e envolvem modo verbal, concordância, regência, articulação sintática, pontuação e precisão lexical. A escolha de 'negar' também contraria o encaminhamento do próprio parágrafo. O conjunto corresponde ao domínio mediano, sem caracterizar desconhecimento ou precariedade sistemática da escrita formal.
+P2: “120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos” — O relativo deve concordar com pessoas, referente exigido pelo sentido: das quais.
 
-P1: “mesmo que não há necessidade útil” — A oração concessiva introduzida por 'mesmo que' pede subjuntivo neste contexto: 'mesmo que não haja'.
+P2: “Fica claro, portanto, a necessidade imediata” — O sujeito é a necessidade imediata; o predicativo deve ser clara.
 
-P1: “as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação” — 'São afetados' não concorda com 'o brasileiro', singular, nem com 'as propagandas', feminino plural. O referente humano precisa ser explicitado com concordância adequada.
+P4: “a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública.” — O encaixe aditivo na oração final preserva a estrutura e a leitura.
 
-P2: “é indispensável negar que os anúncios atualmente são inevitáveis e que possuem intenção de instigar o público alvo” — A escolha lexical 'negar' orienta o leitor a rejeitar justamente as propriedades que o dado de frequência e a explicação do consumismo passam a sustentar. Há também ausência do hífen em 'público-alvo'.
-
-P2: “esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode” — A regência mistura 'acarretar' com a construção 'levar alguém a'; a continuação coordenada com 'podendo' deixa truncada a ligação com o verbo finito. Pode-se escrever 'leva as pessoas ao consumismo [...] e pode levá-las a gastar'.
-
-P4: “desde da formação escolar” — A preposição 'desde' não se combina com 'de' nessa expressão temporal: 'desde a formação escolar'.
-
-Próximo nível: Para se aproximar de 160, reduzir a recorrência dos desvios por meio de revisão de concordância, regência e modo verbal, além de completar a coordenação do segundo parágrafo e conferir se os verbos escolhidos preservam a tese. A revisão deve abranger os períodos, sem depender apenas de trocar palavras isoladas.
+Próximo nível: Revisar concordância de relativos e de predicativos com sujeitos pospostos, conservando o controle sintático demonstrado. O avanço exige desvios excepcionais e não reincidentes; corrigir um trecho isolado não garante aumento automático.
 
 ### C2
 
 **A: nível 200.** Descritor oficial: Desenvolve o tema por meio de argumentação consistente, a partir de um repertório sociocultural produtivo, e apresenta excelente domínio do texto dissertativo-argumentativo.
 
-O tema é desenvolvido integralmente em texto dissertativo-argumentativo, com tese, discussão dos efeitos psicológicos e econômicos e conclusão articulada. Há repertório sociocultural produtivo: a ambientação publicitária de O Show de Truman fundamenta a aproximação com o cotidiano, enquanto FOMO é aplicado ao desconforto de não possuir o bem anunciado, ajudando a explicar a pressão pelo consumo. A estatística atribuída a João Branco também é usada como suporte à frequência de exposição, sem que sua atribuição tenha sido verificada. A produtividade não depende da quantidade de referências. Os limites locais de consistência e de articulação são discriminados nas competências próprias, sem descaracterizar o atendimento temático, o tipo textual ou o emprego produtivo de repertório.
+Desenvolve integralmente o tema e apresenta domínio da estrutura dissertativo-argumentativa: posicionamento, argumentos sobre mortalidade e doença e conclusão propositiva. A leitura ambiental atribuída a Ailton Krenak fundamenta a oposição entre exploração do ambiente e preservação, alimenta a tese sobre urbanização e reaparece na conclusão vinculada à arborização. Há, portanto, repertório pertinente e produtivo, além dos dados dos motivadores. A referência a Milton Santos tem exploração mais limitada, sem anular a função efetivamente cumprida pelo repertório de abertura.
 
-P1: “vivendo em meio de publicidades implícitas e constantes em sua rotina. Paralelamente, fora da ficção” — A descrição do filme é explicitamente aproximada da presença cotidiana da publicidade, servindo à apresentação do problema.
+P1: “o autor indígena Ailton Krenak repreende a lógica capitalista que prioriza o desmatamento para acúmulo de recursos, enquanto defende a necessidade de preservação” — Fornece uma perspectiva socioambiental que fundamenta o problema da substituição da preservação por interesses de ocupação e exploração.
 
-P3: “o termo popular inglês "FOMO" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo” — O repertório é mobilizado para interpretar um efeito psicológico da publicidade, e a oração seguinte explica o desconforto de não ter o produto.
+P1: “o interesse intenso de urbanização em detrimento da preservação ambiental e o aumento de doenças” — Transforma a oposição ambiental apresentada pelo repertório em um direcionamento para a discussão do tema.
 
-P4: “a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas” — A conclusão mantém os efeitos e o ponto de vista desenvolvidos, confirmando o domínio do percurso dissertativo-argumentativo.
+P4: “Dessarte, o pensamento de segurança ambiental de Ailton Krenak pode ser praticado efetivamente.” — A retomada sucede a ação de arborização e vincula a perspectiva inicial à intervenção, fechando a estrutura argumentativa.
 
-Próximo nível: Não há nível superior a 200 na matriz. Como consolidação, mantenha o uso explicativo de FOMO e a ligação explícita entre repertório, problema e tese; a atribuição da estatística permanece não verificada.
+Próximo nível: Não há nível superior a 200 na matriz. Como consolidação, manter a função argumentativa das referências e explicitar com maior precisão a contribuição da leitura de Milton Santos.
 
 **B: nível 200.** Descritor oficial: Desenvolve o tema por meio de argumentação consistente, a partir de um repertório sociocultural produtivo, e apresenta excelente domínio do texto dissertativo-argumentativo.
 
-O recorte temático é integral e a estrutura dissertativo-argumentativa está plenamente reconhecível: apresentação da tese, discussão dos impactos e conclusão propositiva. Há repertório sociocultural produtivo. A situação de exposição publicitária em 'O Show de Truman' sustenta a analogia inicial; sobretudo, a noção de FOMO é explicada e aplicada ao desconforto por não possuir o produto, funcionando como mecanismo da pressão consumista. As limitações de encadeamento e desenvolvimento são localizadas em C3/C4 e não tornam essas referências ornamentais nem descaracterizam o domínio do tipo textual.
+Há atendimento integral ao recorte e domínio do texto dissertativo-argumentativo, com proposição, sustentação e conclusão articuladas. Krenak é produtivo: a oposição entre exploração e preservação fundamenta o eixo da urbanização em detrimento da vegetação e é retomada na solução por arborização. A introdução relaciona esse enquadramento à proteção da saúde. A utilização menos desenvolvida de Milton Santos não elimina a produtividade do repertório estruturante; as lacunas causais dos exemplos são examinadas em C3.
 
-P1: “vivendo em meio de publicidades implícitas e constantes em sua rotina” — O elemento selecionado da obra se relaciona à presença contínua da publicidade, retomada na comparação com a realidade brasileira.
+P1: “repreende a lógica capitalista que prioriza o desmatamento para acúmulo de recursos, enquanto defende a necessidade de preservação” — Fornece a oposição entre exploração e preservação que organiza a leitura do problema.
 
-P3: “o termo popular inglês "FOMO" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo” — A referência é explicada e mobilizada para interpretar a pressão consumista, em vez de apenas ser mencionada.
+P1: “o interesse intenso de urbanização em detrimento da preservação ambiental” — Aplica ao tema a oposição apresentada no repertório.
 
-P3: “os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido” — Aplica a referência ao funcionamento emocional atribuído à publicidade, tornando produtivo o repertório.
+P4: “Dessarte, o pensamento de segurança ambiental de Ailton Krenak pode ser praticado efetivamente.” — A retomada vincula o repertório à intervenção ambiental de finalidade sanitária.
 
-Próximo nível: Não há nível superior a 200 na matriz. Como consolidação, manter a ligação explícita entre cada referência e o efeito publicitário que ela ajuda a explicar.
+Próximo nível: Não há nível superior a 200 na matriz. Como consolidação, tornar a contribuição de Milton Santos tão explícita quanto a ligação entre preservação, tese e intervenção construída com Krenak.
 
 ### C3
 
 **A: nível 160.** Descritor oficial: Apresenta informações, fatos e opiniões relacionados ao tema, de forma organizada, com indícios de autoria, em defesa de um ponto de vista.
 
-As informações são selecionadas e organizadas em defesa da tese de que o excesso de publicidade gera ansiedade e consumo prejudicial. O percurso exposição frequente, pressão de pertencimento e formação de autonomia apresenta indícios de autoria, e FOMO recebe uma explicação funcional. O nível máximo é limitado por problemas localizados de consistência: o início do segundo parágrafo nega a inevitabilidade dos anúncios e recebe como fundamento um dado que aponta exposição intensa; no terceiro, a proibição da publicidade enganosa e abusiva não é relacionada a uma prática ilícita ou a um limite concreto da proteção. A intenção de estimular consumo, por si só, não explica essa passagem da lei ao problema. Esses limites não eliminam a organização global nem autorizam presumir dependência dos motivadores ausentes.
+Apresenta informações relacionadas ao tema, em ordem reconhecível, com indícios de autoria: organiza os impactos em diretos e indiretos e encaminha a discussão ambiental para a arborização. A mortalidade e a dengue sustentam a urgência defendida. O desenvolvimento, porém, deixa lacunas: o dado de mortes não explica por si só a contribuição específica da urbanização, e o terceiro parágrafo não explicita suficientemente o elo entre calor, condições urbanas e proliferação do vetor. Além disso, transforma em ocorrência consumada um percentual que os motivadores apresentam no contexto de projeção. Esses limites de encadeamento causal e tratamento das informações afastam a consistência global de 200, sem desfazer a organização existente.
 
-P1: “tende a se tornar um fator ansiogênico para o público” — A tese delimita o impacto psicológico que será retomado nos argumentos e na proposta.
+P1: “o calor crescente afeta diretamente e indiretamente a população” — Antecipa a organização dos dois parágrafos de desenvolvimento em mortalidade e doença transmitida por vetor.
 
-P2: “é indispensável negar que os anúncios atualmente são inevitáveis” — Em C3, o problema é a relação de sustentação: a negação inicial não é demonstrada pelo dado subsequente de exposição frequente, deixando o argumento localmente contraditório. Esse efeito difere do diagnóstico lexical de C1.
+P2: “o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa. Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país” — O texto passa da interpretação da urbanização ao efeito do aquecimento sem explicitar o mecanismo urbano que conecta essas duas afirmações.
 
-P3: “mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir” — O texto não explica por que essa intenção persuasiva configura insuficiência da proteção contra publicidade enganosa ou abusiva. A lacuna está na construção do raciocínio, não em uma falsidade jurídica atribuída ao texto.
+P3: “os casos de dengue no planeta cresceram 37%” — Apresenta o percentual como aumento já ocorrido, embora o material motivador disponibilizado o associe a uma projeção de transmissão.
 
-P3: “os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido” — Há desenvolvimento conciso do mecanismo que liga a publicidade à pressão para adquirir um produto.
+P3: “Isso ocorre pois a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira.” — Indica fatores ambientais e o vetor, mas conclui com a própria existência de impactos, sem esclarecer suficientemente como o calor e as condições urbanas favorecem a transmissão.
 
-P4: “campanhas educativas nas escolas sobre o consumo consciente de publicidade” — A formação para o consumo responde ao problema de autonomia apresentado no desenvolvimento.
+P4: “arborizar todos os bairros brasileiros” — Encaminha uma resposta coerente à crítica da perda de vegetação, mostrando continuidade do projeto de texto.
 
-Próximo nível: Para chegar ao desenvolvimento consistente do nível 200, alinhe a afirmação inicial do segundo parágrafo ao dado usado como apoio e reformule a passagem sobre a lei. Uma possibilidade de revisão é esclarecer que a exposição excessiva pode pressionar o consumidor mesmo quando os anúncios não são enganosos ou abusivos; essa explicitação seria um acréscimo argumentativo do revisor.
+Próximo nível: Substituir fechos genéricos por elos causais específicos: explicar como a ocupação urbana intensifica a exposição ao calor e como condições climáticas e urbanas favorecem o vetor. Corrigir também a distinção entre projeção e dado observado, preservando a extensão de 30 linhas declarada.
 
 **B: nível 160.** Descritor oficial: Apresenta informações, fatos e opiniões relacionados ao tema, de forma organizada, com indícios de autoria, em defesa de um ponto de vista.
 
-O projeto de texto é identificável e organizado: exposição contínua, ansiedade e consumismo são relacionados à perda de autonomia, retomada pela intervenção. Há indícios de autoria no uso do FOMO para explicar o desconforto e na ligação entre consumismo e gastos excessivos. A consistência, porém, não é uniforme: o terceiro parágrafo passa da proibição de publicidade enganosa e abusiva à simples finalidade comercial dos anúncios, sem demonstrar por que essa finalidade evidencia insuficiência das proteções mencionadas. A discussão emocional permanece pertinente, mas essa entrada legal não é integrada de modo suficientemente consistente para o nível máximo. Não se presume dependência dos motivadores ausentes.
+O projeto é organizado: anuncia efeitos diretos e indiretos, apresenta mortalidade, discute dengue e propõe arborização. Há indícios de autoria na seleção e no encadeamento das referências. O vínculo entre urbanização, exposição térmica e mortes fica incompleto; na dengue, afirma-se a facilidade de proliferação sem esclarecer a mediação do calor. O aumento de 37% é apresentado como ocorrido, embora o motivador o formule como projeção. São limites localizados de explicação e sustentação, sem desorganização do conjunto.
 
-P1: “tende a se tornar um fator ansiogênico para o público” — A introdução define o impacto emocional que orienta o texto.
+P1: “o calor crescente afeta diretamente e indiretamente a população” — Anuncia a distinção que orienta os dois desenvolvimentos.
 
-P2: “por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode” — O desenvolvimento associa o impacto emocional a uma consequência financeira, revelando um eixo argumentativo reconhecível.
+P2: “Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país: 120 mil pessoas faleceram” — O dado sustenta a gravidade sanitária, mas não explicita o vínculo causal entre urbanização e elevação térmica.
 
-P3: “publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir” — O texto não estabelece como a intenção de vender, por si, contraria ou revela insuficiência da proteção contra modalidades enganosas e abusivas. Falta integrar essa distinção ao argumento sobre pressão emocional.
+P3: “os casos de dengue no planeta cresceram 37%.” — O pretérito transforma em fato consumado informação apresentada como projeção no motivador II.
 
-P4: “a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas” — A conclusão retoma os efeitos e a autonomia discutidos, confirmando organização global.
+P3: “a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira.” — Os fatores são pertinentes, mas não se explica como o calor favorece a transmissão nem como a impermeabilização participa do processo.
 
-Próximo nível: Para se aproximar de 200, substituir a oposição pouco explicada entre lei e finalidade comercial por uma ligação que mostre como a exposição repetida e o receio de exclusão podem pressionar o consumidor. Se mantiver a referência legal, explicitar por que proibir publicidade enganosa e abusiva não esgota o problema discutido, sem tratar a finalidade de vender como prova de ilegalidade.
+Próximo nível: Substituir os fechamentos genéricos por uma explicação causal curta em cada eixo e apresentar o dado de dengue como projeção. Preservar a organização e completar o encadeamento entre urbanização, calor e efeitos sanitários.
 
 ### C4
 
 **A: nível 160.** Descritor oficial: Articula as partes do texto, com poucas inadequações, e apresenta repertório diversificado de recursos coesivos.
 
-O texto apresenta recursos coesivos diversificados e mantém o encadeamento global, com comparação, adição, retomadas e conclusão. Paralelamente liga a ficção ao cotidiano; esse excesso retoma a publicidade recorrente; Ademais acrescenta um argumento; Portanto introduz a proposta. Há poucas inadequações localizadas: Entretanto contrapõe a proibição de anúncios enganosos e abusivos à intenção geral de persuadir, que é compatível com essa proibição; Por conseguinte introduz a explicação por FOMO como se fosse uma consequência da afirmação anterior. Esses usos não desfazem a articulação do conjunto, mas impedem o nível máximo.
+Articula as partes do texto com recursos diversificados de causa, adição, conclusão, finalidade e retomada. As referências a essa ideia, isso e dessa mazela contribuem para a continuidade temática. Há, contudo, uma inadequação localizada: por conseguinte apresenta o dado de dengue como consequência da afirmação de que os efeitos precisam ser evidenciados, quando o dado funciona como fundamento ou exemplificação dessa afirmação. O repertório coesivo é variado e a progressão permanece compreensível, correspondendo ao nível de poucas inadequações.
 
-P1: “Paralelamente, fora da ficção” — O recurso conecta o exemplo cinematográfico ao problema brasileiro por comparação.
+P1: “uma vez que o calor crescente afeta diretamente e indiretamente a população” — Explicita uma relação causal no interior do período.
 
-P2: “Nesse sentido, esse excesso de publicidade” — A expressão demonstrativa retoma a alta exposição citada e mantém o foco temático.
+P2: “Essa ideia é sustentada” — Retoma a interpretação de modernização dolorosa introduzida na frase anterior.
 
-P3: “publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir” — A marca adversativa sinaliza oposição entre proposições que, como formuladas, são compatíveis: a proibição de práticas específicas e a intenção persuasiva geral.
+P3: “Ademais, os efeitos indiretos da urbanização” — Sinaliza a adição de uma segunda dimensão dos impactos, em continuidade com o parágrafo de mortalidade.
 
-P3: “Por conseguinte, o termo popular inglês "FOMO"” — A expressão marca consequência, mas a função do conceito no trecho é explicar a pressão de consumo, e não decorrer da existência de regulamentos ou da finalidade da publicidade.
+P3: “Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.” — O valor conclusivo do conector não expressa adequadamente a função de apoio do dado à afirmação anterior.
 
-P4: “Portanto, o MEC - Ministério da Educação - deve realizar campanhas educativas nas escolas” — O conector conclusivo introduz uma resposta coerente ao problema desenvolvido.
+P4: “Para tanto, o Ministério do Meio Ambiente” — Liga o objetivo de mitigar o calor à proposta apresentada em seguida.
 
-Próximo nível: Para atingir 200, faça as marcas de relação corresponderem às relações efetivamente construídas: explicite o alcance da lei antes de usar uma oposição e introduza FOMO como explicação. Preserve as retomadas e os conectores que já funcionam.
+Próximo nível: Escolher o conector pela relação efetivamente construída. No terceiro parágrafo, apresentar o dado como evidência ou contextualização, substituindo por conseguinte por uma formulação como como evidência desse impacto ou nesse contexto, conforme a revisão do argumento.
 
 **B: nível 160.** Descritor oficial: Articula as partes do texto, com poucas inadequações, e apresenta repertório diversificado de recursos coesivos.
 
-A redação articula suas partes e apresenta recursos diversificados: comparação entre ficção e realidade, explicações causais, adição de argumento, retomadas e conclusão. Expressões como 'esse excesso de publicidade', 'essa exacerbação' e 'o item exibido' mantêm o tópico. Há poucas inadequações, especialmente a oposição marcada por 'Entretanto, mesmo com' no terceiro parágrafo, porque a proibição de anúncios enganosos e abusivos não se opõe à existência da intenção comercial. A sequência posterior com 'Por conseguinte' também marca como consequência uma passagem que apresenta sobretudo uma explicação do consumo. Essas marcas não impedem a compreensão global, mas afastam a articulação plenamente adequada do nível máximo.
+Há variedade de recursos de causa, adição, retomada e finalidade, com continuidade entre os parágrafos. Essa ideia, Isso ocorre e dessas medidas recuperam conteúdos próximos; uma vez que e a fim de expressam relações claras. Há inadequação localizada em Por conseguinte: o dado da dengue fundamenta o tópico anterior, mas não é consequência da necessidade de evidenciar os efeitos indiretos. A articulação global permanece funcional.
 
-P1: “Paralelamente, fora da ficção” — Explicita a passagem da referência cinematográfica para a realidade que será discutida.
+P1: “uma vez que o calor crescente afeta diretamente e indiretamente a população” — O operador causal fundamenta a caracterização do calor como ameaça sanitária.
 
-P2: “Nesse sentido, esse excesso de publicidade” — A expressão resumitiva retoma a frequência de anúncios citada no período anterior e dá continuidade ao tópico.
+P2: “Essa ideia é sustentada” — O demonstrativo retoma a caracterização da urbanização atribuída a Milton Santos.
 
-P3: “Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir” — Os operadores adversativo e concessivo assinalam uma oposição que as proposições, como formuladas, não estabelecem.
+P3: “Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.” — O conector consecutivo não corresponde à função de fundamentar a afirmação anterior.
 
-P3: “Por conseguinte, o termo popular inglês "FOMO"” — O segmento passa à explicação de um mecanismo psicológico; a marca de consequência não exprime com precisão essa função explicativa.
+P4: “por meio da fiscalização frequente dessas medidas nas prefeituras, a fim de” — A retomada mantém o referente e a locução final introduz o objetivo.
 
-P4: “Portanto, o MEC - Ministério da Educação - deve realizar campanhas educativas” — O conector conclusivo encaminha adequadamente a discussão para a intervenção.
-
-Próximo nível: Para alcançar 200, alinhar os operadores às relações efetivamente formuladas: explicitar uma oposição pertinente antes de usar 'Entretanto' e introduzir o FOMO como explicação ou fundamento, por exemplo com 'Esse mecanismo pode ser explicado pelo'.
+Próximo nível: Ajustar o conector que introduz a evidência de dengue à relação de fundamentação, por exemplo com A esse respeito, e conservar a variedade funcional já demonstrada.
 
 ### C5
 
 **A: nível 200.** Descritor oficial: Elabora muito bem proposta de intervenção, detalhada, relacionada ao tema e articulada à discussão desenvolvida no texto.
 
-A proposta é muito bem elaborada, relacionada ao tema e articulada à discussão sobre ansiedade e autonomia. Uma única iniciativa reúne agente identificável e pertinente ao âmbito educacional, ação, meios, finalidades e detalhamento do conteúdo das campanhas. O texto especifica o espaço escolar, os temas de consumo consciente e reação ao FOMO, palestras e atividades interativas, além dos efeitos desejados. O detalhamento é o conteúdo da ação, e não a simples expansão da sigla MEC. A estratégia educativa respeita os direitos humanos e não precisa resolver todas as modalidades de publicidade para atender ao descritor máximo.
+Elabora proposta detalhada, pertinente ao tema e articulada à crítica da redução de vegetação. Identifica agente governamental, ação de arborização, acompanhamento da execução nas prefeituras, finalidade ambiental e sanitária e detalhamento do papel do agente. A fiscalização frequente funciona como modo de acompanhamento da implantação das medidas. A proposta forma uma iniciativa coerente e respeita os direitos humanos; não é necessário acrescentar outra intervenção nem detalhar todos os seus elementos para reconhecer o nível máximo.
 
-P4: “o MEC - Ministério da Educação - deve realizar campanhas educativas nas escolas” — A proposta define quem deverá promover a iniciativa e qual será a ação em âmbito escolar.
+P4: “o Ministério do Meio Ambiente - órgão responsável por fiscalizar e criar políticas públicas voltadas às questões ambientais -” — Identifica o agente e detalha sua atuação institucional.
 
-P4: “sobre o consumo consciente de publicidade e de como reagir corretamente durante uma "FOMO"” — Os conteúdos particularizam a campanha e a ligam ao mecanismo psicológico discutido.
+P4: “deve implantar medidas para, de forma eficiente, arborizar todos os bairros brasileiros” — Apresenta ação propositiva identificável, vinculada à preservação ambiental discutida.
 
-P4: “por meio de palestras diversificadas e atividades interativas” — Há meios expressos para executar a ação educativa.
+P4: “por meio da fiscalização frequente dessas medidas nas prefeituras” — Indica acompanhamento institucional da execução das medidas.
 
-P4: “a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas” — As finalidades retomam os efeitos negativos e a autonomia discutidos no desenvolvimento.
+P4: “a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública” — Explicita o efeito pretendido e conecta a intervenção ao recorte da saúde.
 
-Próximo nível: Não há nível superior a 200 na matriz. Como melhoria facultativa, uma das atividades interativas poderia ser exemplificada, sem que isso constitua elemento obrigatório ausente.
+Próximo nível: Não há nível superior a 200 na matriz. Como consolidação, preservar a integração entre ação, acompanhamento e finalidade; a explicação do benefício térmico da arborização pode ganhar precisão vocabular.
 
-**Composição da intervenção (A):** A proposta escolar do quarto parágrafo foi avaliada como uma iniciativa única. Todos os elementos foram extraídos dessa mesma ação, com detalhamento de conteúdo e finalidades vinculadas ao desenvolvimento. Trata-se de educação e ampliação de autonomia, sem proposta de violência ou supressão de direitos. Os desvios formais não impedem compreender sua execução. Direitos humanos: respeitados.
+**Composição da intervenção (A):** A iniciativa avaliada é a arborização coordenada pelo Ministério do Meio Ambiente e acompanhada nas prefeituras. Seus elementos pertencem à mesma proposta, relacionam-se à perda de vegetação discutida e buscam reduzir o problema sanitário sem violação de direitos. A formulação sobre captação do calor admite maior precisão, mas não elimina a ação, o modo de acompanhamento ou a finalidade identificados. Direitos humanos: respeitados.
 
-acao: P4: “deve realizar campanhas educativas nas escolas” — Promover campanhas educativas é uma ação propositiva explícita e localizada no espaço escolar.
+acao: P4: “deve implantar medidas para, de forma eficiente, arborizar todos os bairros brasileiros” — Propõe implantar medidas de arborização como resposta ambiental ao calor.
 
-agente: P4: “o MEC - Ministério da Educação -” — O ministério é executor identificável e pertinente à coordenação de uma iniciativa educacional. A expansão da sigla identifica o agente, sem ser tomada isoladamente como detalhamento.
+agente: P4: “o Ministério do Meio Ambiente” — Identifica um agente governamental relacionado ao âmbito de política ambiental da ação.
 
-meio: P4: “por meio de palestras diversificadas e atividades interativas” — Palestras e atividades interativas especificam como as campanhas seriam executadas.
+meio: P4: “por meio da fiscalização frequente dessas medidas nas prefeituras” — Especifica acompanhamento periódico da implantação no âmbito municipal.
 
-efeito: P4: “a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas” — A redução da ansiedade e o fortalecimento da autonomia respondem aos impactos discutidos no texto.
+efeito: P4: “a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública” — Apresenta finalidade ambiental e sanitária compatível com a discussão.
 
-detalhamento: P4: “sobre o consumo consciente de publicidade e de como reagir corretamente durante uma "FOMO"” — O conteúdo das campanhas particulariza a ação educativa por dois focos: consumo consciente e reação à pressão psicológica nomeada no desenvolvimento.
+detalhamento: P4: “órgão responsável por fiscalizar e criar políticas públicas voltadas às questões ambientais” — Detalha o agente por suas atribuições relacionadas à proposta.
 
 **B: nível 200.** Descritor oficial: Elabora muito bem proposta de intervenção, detalhada, relacionada ao tema e articulada à discussão desenvolvida no texto.
 
-A proposta é bem elaborada, detalhada, relacionada ao tema e articulada à discussão da ansiedade e da autonomia. O MEC é identificado como agente; a ação é realizar campanhas educativas; o ambiente escolar e os conteúdos sobre consumo consciente e reação ao FOMO especificam a ação; palestras e atividades interativas constituem meios; mitigar a ansiedade e intensificar a autonomia são finalidades explícitas. Trata-se de uma única iniciativa coerente com a dimensão educacional escolhida, respeitando os direitos humanos. Não é necessário exigir uma segunda proposta ou a solução de todos os aspectos da publicidade.
+A proposta reúne ação de arborização, agente definido, fiscalização nas prefeituras como meio de implementação e acompanhamento, finalidade sanitária e detalhamento do agente em aposto. Os elementos pertencem à mesma iniciativa e enfrentam a perda de vegetação e a exposição ao calor discutidas. Captação do calor admite aperfeiçoamento de precisão, sem impedir reconhecer a mitigação pretendida. Não é necessário exigir outra intervenção nem detalhamento de todos os elementos.
 
-P4: “o MEC - Ministério da Educação - deve realizar campanhas educativas nas escolas” — Identifica agente, ação propositiva e local de execução.
+P4: “o Ministério do Meio Ambiente - órgão responsável por fiscalizar e criar políticas públicas voltadas às questões ambientais -” — Define o agente e o detalha por uma explicação funcional.
 
-P4: “sobre o consumo consciente de publicidade e de como reagir corretamente durante uma "FOMO"” — Especifica o conteúdo das campanhas, vinculado à pressão emocional discutida.
+P4: “deve implantar medidas para, de forma eficiente, arborizar todos os bairros brasileiros” — Há intenção propositiva explícita e ação concreta, com abrangência definida.
 
-P4: “por meio de palestras diversificadas e atividades interativas” — Explicita os instrumentos de realização da ação educativa.
+P4: “por meio da fiscalização frequente dessas medidas nas prefeituras” — Apresenta acompanhamento fiscalizatório no âmbito municipal como instrumento da iniciativa.
 
-P4: “a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas” — Declara finalidades diretamente relacionadas ao problema desenvolvido.
+P4: “a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública.” — Explicita a finalidade sanitária que retoma a discussão.
 
-Próximo nível: Não há nível superior a 200 na matriz. Como consolidação, preservar a integração entre agente, ação, execução, especificação e finalidade; tornar mais concreta uma atividade interativa seria uma melhoria facultativa.
+Próximo nível: Não há nível superior a 200 na matriz. Como aperfeiçoamento opcional, substituir captação do calor por formulação que explicite o benefício térmico esperado da arborização.
 
-**Composição da intervenção (B):** Foi avaliada a iniciativa única do quarto parágrafo. Seus elementos pertencem à mesma proposta e são identificáveis literalmente. A ação educacional é compatível com o agente e com os impactos discutidos; não apresenta coerção discriminatória ou violação de direitos. A indicação do ambiente e do conteúdo detalha a proposta, sem exigir um plano operacional completo ou outra intervenção. Direitos humanos: respeitados.
+**Composição da intervenção (B):** Avalia-se a única iniciativa desenvolvida: arborização promovida pelo Ministério do Meio Ambiente, com fiscalização nas prefeituras e finalidade sanitária. Os cinco elementos são expressos e compatíveis. A ação enfrenta a perda de vegetação e o calor; não exige intervenção autônoma sobre dengue. A abrangência nacional, embora ampla, não torna a proposta internamente inviável. O conteúdo promove proteção ambiental e de saúde sem defender violação de direitos. Direitos humanos: respeitados.
 
-acao: P4: “deve realizar campanhas educativas nas escolas” — Propõe explicitamente uma iniciativa educacional voltada à relação dos estudantes com publicidade e consumo.
+acao: P4: “deve implantar medidas para, de forma eficiente, arborizar todos os bairros brasileiros” — Propõe arborização com abrangência nacional definida, indo além da constatação de ausência de políticas.
 
-agente: P4: “o MEC - Ministério da Educação -” — Identifica executor governamental pertinente ao âmbito educacional escolhido.
+agente: P4: “o Ministério do Meio Ambiente” — Identifica agente governamental reconhecível para promover as medidas ambientais.
 
-meio: P4: “por meio de palestras diversificadas e atividades interativas” — Explicita formas de execução das campanhas, compatíveis com o ambiente escolar.
+meio: P4: “por meio da fiscalização frequente dessas medidas nas prefeituras” — Define acompanhamento fiscalizatório no âmbito municipal como instrumento da mesma iniciativa.
 
-efeito: P4: “a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas” — Busca enfrentar o impacto emocional e ampliar a autonomia, retomando diretamente a discussão desenvolvida.
+efeito: P4: “a fim de, além de sanar problemas ambientais, melhorar significativamente a saúde pública.” — Explicita finalidade sanitária vinculada à mitigação ambiental.
 
-detalhamento: P4: “sobre o consumo consciente de publicidade e de como reagir corretamente durante uma "FOMO"” — Especifica os conteúdos das campanhas e os vincula à pressão consumista explicada no terceiro parágrafo. O local escolar também está expresso na ação.
+detalhamento: P4: “órgão responsável por fiscalizar e criar políticas públicas voltadas às questões ambientais” — O aposto explica uma atribuição funcional do agente e constitui detalhamento.
 
 ## D. Correção por parágrafo
 
 ### Parágrafo 1
 
-**A — Contextualização por analogia com um filme e apresentação da tese sobre ansiedade causada pela publicidade excessiva.:** A comparação conduz ao recorte brasileiro e estabelece a posição do texto. A formulação da tese é compreensível, mas construções de convencer, modo verbal e retomada do sujeito prejudicam sua precisão formal.
+**A — Introduzir o problema por uma perspectiva socioambiental, delimitar a saúde brasileira e anunciar os impactos que serão discutidos.:** A abertura contextualiza e posiciona a discussão. A oposição entre exploração e preservação alimenta a tese e o encaminhamento final. A organização entre efeitos diretos e indiretos permite antecipar a sequência argumentativa.
 
-P1: “Paralelamente, fora da ficção, o exagero da divulgação de publicidade no cotidiano da população brasileira é preocupante” — A transição liga a contextualização à tese temática.
+P1: “aquecimento global - criticado pelo Krenak - é o principal inimigo da saúde pública” — Expressa o posicionamento central sobre a relevância sanitária do problema.
 
-P1: “mesmo que não há necessidade útil” — A concessão apresenta desvio de modo verbal.
+P1: “o calor crescente afeta diretamente e indiretamente a população” — Anuncia a distinção que organiza o desenvolvimento.
 
-P1: “e que são afetados negativamente por essa exacerbação” — A leitura precisa reconstruir um sujeito humano plural que a formulação não apresenta adequadamente.
+**B — Contextualização por repertório, delimitação do problema sanitário e apresentação dos eixos da tese.:** Relaciona preservação, calor e saúde no Brasil e identifica um grupo vulnerável. A oposição extraída de Krenak sustenta o eixo da urbanização em detrimento da preservação. Os desenvolvimentos atendem à expectativa de discutir efeitos diretos e indiretos.
 
-**B — Introduz o tema por comparação com uma obra cinematográfica e apresenta o impacto emocional como tese.:** A aproximação entre publicidade contínua na obra e no cotidiano brasileiro é pertinente. A tese é identificável, mas a oração causal apresenta regência imprecisa, a concessiva emprega modo verbal inadequado e o encerramento não ajusta a concordância ao referente humano.
+P1: “o calor crescente afeta diretamente e indiretamente a população, em especial as parcelas mais vulneráveis, como os idosos.” — Delimita o problema e antecipa mortalidade e vulnerabilidade.
 
-P1: “No filme "O Show de Truman"” — Abre a contextualização por repertório cultural.
-
-P1: “tende a se tornar um fator ansiogênico para o público” — Define o impacto que será discutido.
-
-P1: “pois convencem a compra do produto divulgado, mesmo que não há necessidade útil” — Concentra problemas de construção do verbo 'convencer' e de modo verbal na concessiva.
+P1: “o interesse intenso de urbanização em detrimento da preservação ambiental e o aumento de doenças” — Apresenta os fatores retomados no desenvolvimento e na intervenção.
 
 ### Parágrafo 2
 
-**A — Desenvolvimento da exposição frequente a anúncios e de sua ligação com ansiedade, consumismo e gastos excessivos.:** O dado numérico tem função de dimensionar a exposição, e o gasto excessivo é uma consequência pertinente. A palavra negar orienta a afirmação em sentido contrário ao suporte oferecido; a última frase também precisa regularizar regência e coordenação. A atribuição da estatística não foi verificada.
+**A — Demonstrar a gravidade dos efeitos diretos do calor sobre a saúde, com destaque para a mortalidade de idosos.:** O dado quantitativo dá concretude ao impacto sanitário. A relação com a interpretação de urbanização dolorosa fica incompletamente explicada, porque a mortalidade comprova o impacto do calor, mas não basta para demonstrar a contribuição urbana específica. Há também os dois desvios de concordância apontados em C1.
 
-P2: “é indispensável negar que os anúncios atualmente são inevitáveis” — A afirmação nega uma característica que o dado subsequente não refuta.
+P2: “Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país” — Liga a leitura sobre urbanização ao aquecimento sem explicitar o elo causal específico.
 
-P2: “uma pessoa vê, estimavelmente, 3,5 propagandas por minuto” — A informação é usada como dimensão da recorrência publicitária, sem comprovação externa nesta avaliação.
+P2: “dos quais 80% são idosos” — A seleção do grupo vulnerável é relevante, mas a forma do relativo não concorda com pessoas.
 
-P2: “e consequentemente, podendo levar o indivíduo a gastar mais do que pode” — A consequência econômica é pertinente, mas sua ligação sintática com a oração anterior é truncada.
+P2: “Fica claro, portanto, a necessidade imediata” — O fecho reafirma a urgência com desvio de concordância do predicativo.
 
-**B — Mobiliza um dado de frequência publicitária e associa a exposição a consumismo e gastos excessivos.:** O dado é pertinente ao excesso de publicidade, sem verificação externa da atribuição. A consequência financeira concretiza o problema. Entretanto, 'negar' encaminha a abertura em sentido contrário ao restante do parágrafo, e a frase final mistura regência e coordenação de modo truncado.
+**B — Sustentação da gravidade dos efeitos diretos por referência teórica e dado de mortalidade.:** O dado concretiza a vulnerabilidade dos idosos. A ligação da urbanização com maior exposição térmica fica implícita demais para sustentar plenamente a atribuição causal. O fechamento reitera urgência em espaço que poderia esclarecer essa relação. Há dois desvios localizados de concordância.
 
-P2: “uma pessoa vê, estimavelmente, 3,5 propagandas por minuto” — Quantifica a exposição, embora a fonte e o número não tenham sido verificados.
+P2: “o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa.” — Introduz os custos da urbanização que o parágrafo busca ilustrar.
 
-P2: “é indispensável negar que os anúncios atualmente são inevitáveis” — A orientação de negar entra em conflito com a fundamentação posterior da exposição excessiva.
-
-P2: “podendo levar o indivíduo a gastar mais do que pode” — Apresenta consequência financeira pertinente à tese.
+P2: “Fica claro, portanto, a necessidade imediata de ações mitigadoras eficientes para garantir qualidade de saúde na sociedade.” — Reitera a urgência sem esclarecer o vínculo urbano com o calor; claro deve concordar com necessidade.
 
 ### Parágrafo 3
 
-**A — Discussão da pressão para consumir, com menção à proteção legal, explicação por FOMO e encaminhamento para a necessidade de intervenção.:** A explicação do desconforto por não possuir o produto desenvolve a tese. A passagem pela legislação não distingue intenção persuasiva de publicidade enganosa ou abusiva; as marcas Entretanto e Por conseguinte não representam com precisão as relações formuladas. Há ainda pontuação indevida entre o sujeito FOMO e o verbo descreve.
+**A — Acrescentar um impacto indireto na saúde, a dengue, relacionado a condições ambientais urbanas.:** A seleção da doença amplia o alcance da discussão. O percentual é temporalmente apresentado de modo incompatível com a projeção dos motivadores, e a explicação causal passa de fatores urbanos a impactos sem construir suficientemente o mecanismo da transmissão. O conector conclusivo que introduz o dado também não expressa sua função de fundamentação.
 
-P3: “publicidades enganosas e as publicidades abusivas são proibidas por lei” — O conhecimento jurídico é pertinente à proteção do consumidor, mas sua função no argumento seguinte precisa ser explicitada.
+P3: “os casos de dengue no planeta cresceram 37%” — O passado apresenta como consumada uma informação prospectiva do material fornecido.
 
-P3: “os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido” — O texto vai além de nomear FOMO e explicita uma pressão psicológica.
+P3: “a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar” — Nomeia condições ambientais e o vetor, mas precisa explicitar melhor a relação com o calor e a transmissão.
 
-P3: “aumentar a autonomia da audiência e diminuir a ansiedade do consumo” — O fechamento do desenvolvimento prepara as finalidades da proposta.
+**B — Discussão de efeitos indiretos pelo risco de dengue associado às condições ambientais.:** Amplia a discussão para uma doença transmitida por vetor e mantém o vínculo com a saúde brasileira. Aproxima impermeabilização, vegetação e proliferação sem explicar suficientemente a mediação do calor. A projeção é apresentada como acontecimento e Por conseguinte anuncia consequência onde se introduz fundamentação.
 
-**B — Introduz a proteção legal, explica a pressão consumista pelo FOMO e encaminha a necessidade de intervenção.:** A explicação pelo FOMO contribui para o argumento sobre autonomia e ansiedade. A entrada legal permanece pouco integrada, pois a finalidade de vender não contradiz por si só a proibição de anúncios enganosos e abusivos. Os operadores de oposição e consequência precisam refletir melhor as relações formuladas. Há ainda vírgula separando sujeito e verbo após o aposto explicativo.
+P3: “os casos de dengue no planeta cresceram 37%.” — O passado diverge do caráter projetivo do motivador II.
 
-P3: “publicidades enganosas e as publicidades abusivas são proibidas por lei” — Introduz um enquadramento legal cuja ligação com o mecanismo emocional poderia ser mais precisa.
-
-P3: “os anúncios são feitos para deixar a pessoa desconfortável de não ter o item exibido” — Explica o estímulo ao consumo por desconforto e sensação de exclusão.
-
-P3: “aumentar a autonomia da audiência e diminuir a ansiedade do consumo” — Prepara os objetivos retomados na conclusão.
+P3: “a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar” — Seleciona fatores, mas deixa incompleta a explicação da passagem da condição urbana ao risco de transmissão.
 
 ### Parágrafo 4
 
-**A — Conclusão com proposta de educação para o consumo e retomada do filme de abertura.:** A proposta reúne elementos suficientes e detalhamento ligado ao conteúdo das campanhas. As finalidades respondem ao desenvolvimento. Os ajustes de paralelismo e de desde da são formais e não invalidam a intervenção.
+**A — Concluir com uma proposta ambiental voltada à saúde e retomar o repertório de abertura.:** A proposta possui ação, agente, meio de acompanhamento, finalidade e detalhamento articulados. A retomada de Krenak fecha o percurso. A expressão relativa à captação do calor permite mais de uma leitura e pode ser substituída por uma descrição inequívoca do benefício térmico, sem invalidar a intervenção.
 
-P4: “deve realizar campanhas educativas nas escolas” — Há ação explícita e espaço de realização.
+P4: “arborizar todos os bairros brasileiros” — Enfrenta a perda de vegetação debatida no texto.
 
-P4: “por meio de palestras diversificadas e atividades interativas” — O modo de execução é identificável.
+P4: “oferecendo boa captação do calor” — A formulação não torna inequívoco se se refere à interceptação da radiação ou a outro benefício térmico das árvores.
 
-P4: “a fim de mitigar a ansiedade gerada ao ver quaisquer publicidades e de intensificar a autonomia das pessoas” — A proposta mantém o foco nos impactos psicológicos e na autonomia.
+P4: “o pensamento de segurança ambiental de Ailton Krenak pode ser praticado efetivamente” — Retoma a perspectiva inicial depois de apresentar uma aplicação concreta.
 
-**B — Conclui com intervenção educacional e retoma a referência cinematográfica.:** A proposta articula conteúdos, formas de execução e finalidades coerentes com a discussão. O retorno à obra fecha o percurso iniciado na introdução. A expressão temporal 'desde da' exige correção, mas não prejudica a identificação dos componentes da intervenção.
+**B — Conclusão propositiva com arborização e retomada do repertório inicial.:** Enfrenta a perda de vegetação e o calor com ação, agente, meio, finalidade e detalhamento identificáveis. A fiscalização se vincula à execução municipal e a finalidade retorna à saúde. Krenak fecha o percurso iniciado na introdução. Captação do calor pode ganhar precisão, sem invalidar a iniciativa.
 
-P4: “por meio de palestras diversificadas e atividades interativas” — Apresenta meios de execução compatíveis com campanhas escolares.
+P4: “arborizar todos os bairros brasileiros” — Responde ao eixo de preservação e urbanização anunciado no início.
 
-P4: “desde da formação escolar” — Há combinação inadequada de preposições na expressão temporal.
-
-P4: “situações de publicidade importunas encontradas em "O Show de Truman" podem ser dissolvidas” — A retomada da obra cria fechamento temático; sua formulação poderia ganhar precisão sem ser requisito adicional da proposta.
+P4: “Dessarte, o pensamento de segurança ambiental de Ailton Krenak pode ser praticado efetivamente.” — Associa a intervenção ao valor ambiental mobilizado na abertura.
 
 ## E. Problemas localizados
 
-### A · P1 · C1 · erro_avaliavel
+### A · P2 · C1 · erro_avaliavel
 
-Original: “pois convencem a compra do produto divulgado”
+Original: “Fica claro, portanto, a necessidade imediata de ações mitigadoras eficientes”
 
-Diagnóstico: A construção de convencer não identifica adequadamente o destinatário da persuasão e apresenta a compra como complemento direto. Para o sentido defendido, cabe convencer o público a comprar. Além disso, o plural do verbo não retoma de maneira regular o núcleo singular exagero ou publicidade da oração anterior.
+Diagnóstico: O sujeito posposto é a necessidade imediata, feminino singular. O predicativo claro deve concordar com esse núcleo.
 
-Impacto: A relação entre quem persuade, quem é persuadido e o ato de comprar precisa ser reconstruída pelo leitor.
+Impacto: Produz um desvio localizado de concordância nominal, sem impedir a compreensão da conclusão do parágrafo.
 
-Sugestão: Explicite publicidade como agente e público como destinatário, regularizando a construção verbal.
-
-### A · P1 · C1 · erro_avaliavel
-
-Original: “mesmo que não há necessidade útil”
-
-Diagnóstico: A concessão introduzida por mesmo que requer o subjuntivo no contexto, em lugar do presente do indicativo há.
-
-Impacto: O modo verbal não corresponde à relação concessiva formulada.
-
-Sugestão: Substitua há por haja.
-
-### A · P1 · C1 · erro_avaliavel
-
-Original: “as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação”
-
-Diagnóstico: O segundo segmento não apresenta sujeito compatível com afetados: propagandas é feminino plural e brasileiro é singular. A população afetada precisa ser expressa em uma construção concordante.
-
-Impacto: A formulação mistura o enunciado sobre a presença das propagandas com o enunciado sobre quem sofre seus efeitos.
-
-Sugestão: Explicite os brasileiros como sujeito da segunda afirmação.
+Sugestão: Flexionar o predicativo para o feminino.
 
 ### A · P2 · C1 · erro_avaliavel
 
-Original: “é indispensável negar que os anúncios atualmente são inevitáveis”
+Original: “120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos”
 
-Diagnóstico: Negar rejeita a inevitabilidade dos anúncios, enquanto o contexto apresenta sua frequência como sustentação da exposição intensa. A escolha lexical inverte a orientação semântica do tópico, sem evidência de que se trate de erro de transcrição.
+Diagnóstico: O pronome relativo dos quais está no masculino, mas o referente que pode ser composto por idosos é pessoas, feminino plural. A proximidade de anos não resolve a concordância, pois anos não podem ser idosos.
 
-Impacto: A leitura hesita entre uma defesa da possibilidade de evitar anúncios e a tese de sua presença constante. O diagnóstico de C1 incide sobre a palavra escolhida; o efeito de sustentação argumentativa é explicitado em C3.
+Impacto: A retomada exige que o leitor repare a concordância e identifique o referente pretendido.
 
-Sugestão: Se a intenção for manter a tese de exposição recorrente que aparece no conjunto, substitua negar por reconhecer.
-
-### A · P2 · C1 · erro_avaliavel
-
-Original: “público alvo”
-
-Diagnóstico: O composto público-alvo é grafado com hífen.
-
-Impacto: Há um desvio de convenção da escrita, sem prejuízo relevante de compreensão.
-
-Sugestão: Inclua o hífen no composto.
-
-### A · P2 · C1 · erro_avaliavel
-
-Original: “esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode”
-
-Diagnóstico: Acarretar deve receber o resultado como complemento, não a construção acarretar as pessoas a serem. A coordenação com e podendo também deixa a consequência sem uma construção sintática paralela à primeira oração.
-
-Impacto: Embora a relação publicidade-ansiedade-consumo seja recuperável, a formulação torna truncada a passagem para a consequência econômica.
-
-Sugestão: Empregue um verbo compatível com pessoa mais infinitivo e ligue a consequência por oração completa.
-
-### A · P3 · C1 · erro_avaliavel
-
-Original: “o termo popular inglês "FOMO" - medo de não fazer parte -, descreve”
-
-Diagnóstico: A vírgula após a intercalação separa o sujeito o termo popular inglês FOMO do predicado iniciado por descreve.
-
-Impacto: A pontuação interrompe indevidamente a relação sintática principal.
-
-Sugestão: Mantenha a explicação intercalada e retire a vírgula antes de descreve.
-
-### A · P4 · C1 · erro_avaliavel
-
-Original: “sobre o consumo consciente de publicidade e de como reagir corretamente”
-
-Diagnóstico: Os dois conteúdos da campanha não são coordenados com a mesma regência: a construção iniciada por sobre muda para de como.
-
-Impacto: O paralelismo dos complementos da ação educativa fica irregular.
-
-Sugestão: Retome sobre antes de como, mantendo os dois conteúdos propostos.
-
-### A · P4 · C1 · erro_avaliavel
-
-Original: “desde da formação escolar”
-
-Diagnóstico: Há acréscimo indevido de de depois da preposição desde.
-
-Impacto: A expressão temporal apresenta um desvio de regência, embora o marco inicial seja compreensível.
-
-Sugestão: Use desde a.
+Sugestão: Retomar pessoas no feminino ou separar a informação percentual em outra oração com referente explícito.
 
 ### A · P2 · C3 · erro_avaliavel
 
-Original: “é indispensável negar que os anúncios atualmente são inevitáveis”
+Original: “o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa. Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país”
 
-Diagnóstico: A afirmação de abertura nega a inevitabilidade, mas o dado de 3,5 propagandas por minuto oferece suporte à exposição frequente, sem demonstrar que ela possa ser evitada. O problema argumentativo é a incompatibilidade entre afirmação e fundamento; não se trata de outro desconto automático pela mesma palavra analisada em C1.
+Diagnóstico: A informação sobre mortalidade por calor, apresentada em seguida, sustenta a gravidade sanitária do aquecimento, mas não demonstra por si só como a urbanização participa dessa elevação e da exposição. Esse elo não é suficientemente explicado no conjunto.
 
-Impacto: O primeiro argumento começa com uma posição que não é sustentada pelo restante do parágrafo, diminuindo a consistência local do projeto.
+Impacto: A leitura de Milton Santos e a tese ambiental ficam conectadas ao dado mais por associação temática do que por uma demonstração causal completa.
 
-Sugestão: Alinhe o tópico ao dado efetivamente apresentado. Uma revisão possível é formular a presença recorrente dos anúncios, preservando a discussão do excesso.
+Sugestão: Substituir parte da formulação geral ou do fecho por uma explicação curta sobre substituição de áreas verdes por superfícies construídas e exposição ao calor. A explicação proposta é uma possibilidade de conteúdo do revisor.
 
 ### A · P3 · C3 · erro_avaliavel
 
-Original: “mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir”
+Original: “os casos de dengue no planeta cresceram 37%”
 
-Diagnóstico: Depois de mencionar a proibição de publicidade enganosa e abusiva, o texto apresenta a finalidade geral de estimular consumo, sem explicar a insuficiência da proteção ou distinguir persuasão legal de práticas proibidas. A lacuna foi constatada no parágrafo e no conjunto, sem afirmar que a informação jurídica seja falsa.
+Diagnóstico: O Texto II fornecido apresenta o percentual no contexto de projeção de aumento da transmissão. O verbo no passado transforma essa informação em crescimento já observado, sem que o material disponibilizado sustente essa mudança temporal.
 
-Impacto: O argumento sobre a lei não contribui com precisão para explicar por que a pressão de consumo persiste.
+Impacto: Reduz a precisão do apoio estatístico usado para demonstrar o impacto indireto do calor. O problema foi identificado por comparação com a entrada, sem verificação externa.
 
-Sugestão: Uma possibilidade de acréscimo argumentativo do revisor é distinguir proteção contra práticas ilícitas de pressão causada pela repetição de anúncios permitidos, substituindo a generalização atual.
+Sugestão: Manter o caráter prospectivo do dado e a atribuição à fonte apresentada.
+
+### A · P3 · C3 · erro_avaliavel
+
+Original: “Isso ocorre pois a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira.”
+
+Diagnóstico: A frase pretende explicar o crescimento da dengue, mas enuncia como explicação a facilidade de o vetor proliferar e a produção de impactos. Falta explicitar suficientemente como as condições climáticas e urbanas favorecem o vetor e a transmissão; a menção à impermeabilização não estabelece sozinha esse mecanismo.
+
+Impacto: O segundo eixo permanece relacionado ao tema, porém o leitor precisa completar uma relação causal importante para a defesa do ponto de vista.
+
+Sugestão: Substituir a referência genérica a impactos por um elo entre condições ambientais, criadouros, proliferação e transmissão. Tratar o mecanismo acrescentado como possibilidade de revisão, sem presumir que já foi demonstrado no original.
 
 ### A · P3 · C4 · erro_avaliavel
 
-Original: “publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir”
+Original: “Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.”
 
-Diagnóstico: Entretanto marca uma oposição entre proibir duas modalidades de anúncio e a intenção persuasiva da publicidade em geral. As duas proposições formuladas são compatíveis. Em C4, a inadequação é o valor relacional do conector; em C3, é a explicação ausente sobre o alcance da proteção.
+Diagnóstico: Por conseguinte marca consequência ou conclusão. A frase anterior afirma a necessidade de evidenciar os efeitos indiretos; o dado seguinte serve de apoio a essa avaliação, não constitui consequência dessa necessidade.
 
-Impacto: O leitor recebe uma oposição que o conteúdo dos segmentos não estabelece.
+Impacto: O operador sinaliza uma relação diferente da função argumentativa exercida pelo dado. Esta análise diz respeito à marca linguística da conexão, distinta do problema de precisão temporal examinado em C3.
 
-Sugestão: Reformule a segunda oração para explicitar o limite da proteção antes de manter uma oposição; se a ideia continuar sendo apenas a finalidade da publicidade, retire a adversativa.
+Sugestão: Apresentar o dado como apoio contextual, com um operador adequado à relação pretendida.
 
-### A · P3 · C4 · erro_avaliavel
+### A · P4 · C1 · ambiguidade
 
-Original: “Por conseguinte, o termo popular inglês "FOMO"”
+Original: “oferecendo boa captação do calor”
 
-Diagnóstico: Por conseguinte sinaliza uma consequência do período anterior, mas a introdução de FOMO funciona como explicação do mecanismo de pressão para consumir.
+Diagnóstico: A expressão pode sugerir interceptação da energia térmica pela vegetação, mas também pode ser lida como simples absorção ou retenção de calor. O contexto de mitigação permite compreender a intenção geral, sem determinar um mecanismo inequívoco.
 
-Impacto: A marca linguística atribui ao conceito uma relação conclusiva que o encadeamento não demonstra.
+Impacto: Diminui a precisão vocabular da explicação do benefício da arborização. A ambiguidade não foi tratada como erro gramatical comprovado nem como ausência de elemento da intervenção.
 
-Sugestão: Apresente a referência como explicação, em vez de consequência.
-
-### A · P4 · C5 · oportunidade_melhoria
-
-Original: “palestras diversificadas e atividades interativas”
-
-Diagnóstico: Os meios são válidos e o conteúdo das campanhas já fornece detalhamento suficiente. Exemplificar uma atividade seria apenas um refinamento facultativo, sem fundamentar perda de nível.
-
-Impacto: Um exemplo poderia tornar mais visualizável a execução da proposta, que já é compreensível.
-
-Sugestão: Se houver interesse em concretizar o meio, substitua o adjetivo genérico por um exemplo breve. O exemplo sugerido é conteúdo acrescentado pelo revisor.
-
-### B · P1 · C1 · erro_avaliavel
-
-Original: “pois convencem a compra do produto divulgado”
-
-Diagnóstico: A construção faz de 'a compra' o complemento de 'convencem', embora o sentido expresso exija alguém convencido a fazer algo. A seleção e a regência do verbo não representam adequadamente a relação entre anúncio, consumidor e compra.
-
-Impacto: A explicação da influência publicitária fica sintaticamente imprecisa.
-
-Sugestão: Substituir a construção por um verbo e complementos que identifiquem o público e a ação de comprar.
-
-### B · P1 · C1 · erro_avaliavel
-
-Original: “mesmo que não há necessidade útil”
-
-Diagnóstico: A construção concessiva com 'mesmo que' pede modo subjuntivo neste contexto, em lugar do indicativo 'há'.
-
-Impacto: Produz desvio de modo verbal em uma relação concessiva compreensível.
-
-Sugestão: Substituir 'há' por 'haja'.
-
-### B · P1 · C1 · erro_avaliavel
-
-Original: “as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação”
-
-Diagnóstico: O predicado 'são afetados' não concorda com os termos expressos: 'brasileiro' está no singular e 'propagandas' está no feminino. A referência às pessoas é recuperável pelo sentido, mas não dispensa o ajuste de concordância e de sujeito.
-
-Impacto: O leitor precisa reconstruir o sujeito humano que sofre os efeitos.
-
-Sugestão: Reformular a coordenação com um sujeito expresso e concordância adequada.
+Sugestão: Nomear diretamente o benefício térmico pretendido; a formulação sugerida é uma possibilidade do revisor.
 
 ### B · P2 · C1 · erro_avaliavel
 
-Original: “é indispensável negar que os anúncios atualmente são inevitáveis e que possuem intenção de instigar o público alvo”
+Original: “120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos”
 
-Diagnóstico: A escolha lexical 'negar' rejeita a inevitabilidade dos anúncios e sua intenção de instigar, enquanto o próprio parágrafo passa a fundamentar a exposição frequente e o estímulo ao consumismo. A inadequação decorre do contexto completo, não de uma alegação de erro de digitação.
+Diagnóstico: O relativo masculino dos quais deve concordar com pessoas, referente exigido pelo sentido. A proximidade de anos não permite interpretar que 80% dos anos são idosos.
 
-Impacto: A palavra orienta a abertura em sentido contrário ao desenvolvimento do argumento.
+Impacto: Há desajuste de concordância na retomada, embora o referente seja recuperável.
 
-Sugestão: Substituir a negação por uma formulação que reconheça a exposição e a intenção persuasiva sustentadas na sequência.
-
-### B · P2 · C1 · erro_avaliavel
-
-Original: “público alvo”
-
-Diagnóstico: O composto 'público-alvo' é grafado com hífen.
-
-Impacto: É um desvio localizado de convenção da escrita, sem prejuízo da compreensão.
-
-Sugestão: Inserir o hífen.
+Sugestão: Fazer o relativo concordar com pessoas.
 
 ### B · P2 · C1 · erro_avaliavel
 
-Original: “esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode”
+Original: “Fica claro, portanto, a necessidade imediata”
 
-Diagnóstico: A construção mistura a regência de 'acarretar' com 'levar alguém a'. Na continuação, o gerúndio 'podendo' é coordenado de forma truncada à predicação finita, e a vírgula após 'consequentemente' não resolve a ligação.
+Diagnóstico: O predicativo claro deve concordar com o sujeito feminino a necessidade imediata, ainda que esteja depois do verbo.
 
-Impacto: A cadeia de consequências é compreensível, mas sua expressão sintática exige reconstrução pelo leitor.
+Impacto: É um segundo desvio de concordância no conjunto de domínio formal bom.
 
-Sugestão: Usar 'levar ao consumismo' e uma continuação com verbo finito ou oração relativa.
+Sugestão: Substituir claro por clara.
 
-### B · P3 · C1 · erro_avaliavel
+### B · P2 · C3 · erro_avaliavel
 
-Original: “o termo popular inglês "FOMO" - medo de não fazer parte -, descreve”
+Original: “Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país: 120 mil pessoas faleceram”
 
-Diagnóstico: A vírgula depois do fechamento do aposto separa o sujeito 'o termo popular inglês FOMO' do verbo 'descreve', sem elemento que justifique essa separação.
+Diagnóstico: O dado demonstra a gravidade do calor, mas não explica como a urbanização, mencionada como modernização dolorosa na frase anterior, aumenta a exposição térmica. O elo também não é suficientemente esclarecido no conjunto.
 
-Impacto: Interrompe indevidamente a relação entre sujeito e predicado.
+Impacto: O exemplo fundamenta a consequência sanitária melhor do que o papel causal atribuído à urbanização.
 
-Sugestão: Retirar a vírgula após o aposto e manter sua delimitação consistente.
-
-### B · P4 · C1 · erro_avaliavel
-
-Original: “desde da formação escolar”
-
-Diagnóstico: A preposição 'desde' já introduz o marco temporal e não admite o acréscimo de 'de' nessa expressão.
-
-Impacto: Gera desvio de regência, embora o marco temporal permaneça claro.
-
-Sugestão: Substituir 'desde da' por 'desde a'.
+Sugestão: Substituir o fechamento genérico por um elo causal curto. Como possibilidade de conteúdo do revisor, relacionar retirada de árvores, perda de sombra e exposição térmica.
 
 ### B · P3 · C3 · erro_avaliavel
 
-Original: “publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir”
+Original: “os casos de dengue no planeta cresceram 37%.”
 
-Diagnóstico: A passagem introduz a proteção contra modalidades enganosas e abusivas, mas oferece como contraponto apenas a intenção de estimular o consumo. Essa finalidade, por si, não demonstra falha da proteção mencionada. Falta integrar a distinção entre publicidade permitida e publicidade proibida ao mecanismo emocional discutido. Não se está afirmando incorreção factual da referência à lei.
+Diagnóstico: O motivador II fornecido apresenta projeção, enquanto cresceram transforma o dado em fato passado consumado. A comparação é interna ao material fornecido, sem verificação externa da estatística.
 
-Impacto: A informação legal permanece parcialmente solta no projeto argumentativo e enfraquece a consistência da passagem para o FOMO.
+Impacto: Usa-se como confirmação observada uma informação que, na base apresentada, sustenta risco futuro.
 
-Sugestão: Substituir a oposição por uma formulação que delimite o alcance da discussão e conecte a exposição repetida à pressão emocional. O acréscimo conceitual da reformulação é uma possibilidade do revisor.
+Sugestão: Conservar o caráter projetivo e utilizar o dado como alerta.
+
+### B · P3 · C3 · erro_avaliavel
+
+Original: “Isso ocorre pois a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira.”
+
+Diagnóstico: A frase anuncia explicação para o aumento de dengue, mas enumera impermeabilização e facilidade de proliferação sem mostrar como calor e condição do solo favorecem a transmissão. A facilidade de proliferação integra o fenômeno a explicar.
+
+Impacto: A ligação entre urbanização, calor e doença transmitida por vetor fica parcialmente afirmada, em vez de explicada.
+
+Sugestão: Trocar a enumeração por cadeia causal curta. Como conteúdo possível do revisor, explicitar o favorecimento da proliferação pelo calor; se mantida a impermeabilização, explicar sua ligação com drenagem e criadouros.
 
 ### B · P3 · C4 · erro_avaliavel
 
-Original: “Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir”
+Original: “Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.”
 
-Diagnóstico: 'Entretanto' e 'mesmo com' sinalizam oposição e concessão entre a proteção legal e a intenção comercial. As proposições formuladas podem coexistir sem oposição. Em C4, o problema específico é a relação expressa pelos operadores; em C3, é a integração incompleta da informação legal ao argumento.
+Diagnóstico: Por conseguinte anuncia consequência da afirmação anterior, que declara a necessidade de evidenciar os efeitos indiretos. O dado fundamenta esse tópico e não é consequência dessa necessidade.
 
-Impacto: A marca linguística induz uma expectativa de contraste que a frase não sustenta.
+Impacto: A relação linguística marcada não corresponde à função da frase. Esse fundamento é distinto do problema de conteúdo da projeção avaliado em C3.
 
-Sugestão: Reformular a relação antes de escolher o conector, explicitando adição ou um contraste efetivamente fundamentado.
+Sugestão: Substituir a marca consecutiva por ligação de enquadramento da evidência; ajustar separadamente o caráter projetivo do dado.
 
-### B · P3 · C4 · erro_avaliavel
+### B · P3 · C1 · ambiguidade
 
-Original: “Por conseguinte, o termo popular inglês "FOMO" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo”
+Original: “um grande agravante para a manutenção da saúde pública.”
 
-Diagnóstico: O enunciado introduz um conceito para explicar a pressão consumista. A locução consecutiva 'Por conseguinte' apresenta essa explicação como resultado do enunciado anterior, sem que essa relação de consequência tenha sido construída.
+Diagnóstico: Agravante intensifica uma situação negativa, enquanto manutenção da saúde expressa algo desejável. No contexto, recupera-se a leitura de obstáculo à manutenção; não se trata de inversão inequívoca nem de fundamento autônomo para redução.
 
-Impacto: O vínculo entre as informações fica menos preciso, embora a explicação posterior seja recuperável.
+Impacto: O leitor precisa ajustar a relação lexical ao sentido negativo indicado pelo restante do parágrafo.
 
-Sugestão: Apresentar o FOMO como explicação do mecanismo discutido.
+Sugestão: Empregar um termo que expresse diretamente obstáculo à preservação da saúde.
 
 ### B · P4 · C5 · oportunidade_melhoria
 
-Original: “atividades interativas”
+Original: “oferecendo boa captação do calor”
 
-Diagnóstico: A proposta já apresenta detalhamento suficiente pelo local e pelo conteúdo das campanhas. Dar um exemplo de atividade tornaria sua execução mais visualizável, mas não constitui exigência adicional para a nota máxima.
+Diagnóstico: A expressão não nomeia com precisão o benefício térmico pretendido, mas a mitigação do calor e a ação de arborização já estão identificáveis. É aperfeiçoamento de formulação, sem invalidação de elemento.
 
-Impacto: É uma oportunidade de concretização, sem elemento obrigatório ausente.
+Impacto: Uma expressão direta tornaria mais claro o benefício da arborização.
 
-Sugestão: Se houver espaço, substituir a expressão genérica por uma atividade breve ligada ao consumo consciente; trata-se de sugestão de conteúdo do revisor.
+Sugestão: Substituir por referência ao sombreamento e à redução da exposição térmica, como possibilidade do revisor.
 
 ## F. O que eu poderia ter escrito melhor
 
 Alternativas dos avaliadores, preservando a intenção do autor. Não são trechos do original nem notas novas; não há recomendação automática de aumentar a extensão.
 
-**A, P1:** “pois convencem a compra do produto divulgado”
+**A, P2:** “Fica claro, portanto, a necessidade imediata de ações mitigadoras eficientes”
 
-Alternativa: “pois a publicidade convence o público a comprar o produto divulgado”
+Alternativa: “Fica clara, portanto, a necessidade imediata de ações mitigadoras eficientes”
 
-**A, P1:** “mesmo que não há necessidade útil”
+**A, P2:** “120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos”
 
-Alternativa: “mesmo que não haja necessidade útil”
+Alternativa: “120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos; 80% delas eram idosas”
 
-**A, P1:** “as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação”
+**A, P2:** “o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa. Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país”
 
-Alternativa: “as propagandas fazem parte da rotina do brasileiro há décadas e que os brasileiros são afetados negativamente por essa exacerbação”
+Alternativa: “A substituição de áreas verdes por superfícies construídas intensifica o calor urbano e amplia a exposição da população, tornando concreta a dimensão dolorosa dessa urbanização.”
 
-**A, P2:** “é indispensável negar que os anúncios atualmente são inevitáveis”
+**A, P3:** “os casos de dengue no planeta cresceram 37%”
 
-Alternativa: “é indispensável reconhecer que os anúncios atualmente são inevitáveis”
+Alternativa: “Segundo a Veja Saúde, projeta-se aumento de 37% nos casos de dengue no planeta.”
 
-**A, P2:** “público alvo”
+**A, P3:** “Isso ocorre pois a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira.”
 
-Alternativa: “público-alvo”
+Alternativa: “O calor, associado à presença de água parada em áreas urbanas, pode favorecer a proliferação do mosquito e ampliar o risco de transmissão da dengue.”
 
-**A, P2:** “esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode”
+**A, P3:** “Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.”
 
-Alternativa: “esse excesso de publicidade leva as pessoas ao consumismo por conta da ansiedade envolvida, o que, consequentemente, pode levá-las a gastar mais do que podem”
+Alternativa: “Nesse contexto, de acordo com a revista Veja Saúde, projeta-se aumento de 37% nos casos de dengue no planeta.”
 
-**A, P3:** “o termo popular inglês "FOMO" - medo de não fazer parte -, descreve”
+**A, P4:** “oferecendo boa captação do calor”
 
-Alternativa: “o termo popular inglês "FOMO" — medo de não fazer parte — descreve”
+Alternativa: “ampliando o sombreamento e reduzindo a exposição da população ao calor”
 
-**A, P4:** “sobre o consumo consciente de publicidade e de como reagir corretamente”
+**B, P2:** “120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos”
 
-Alternativa: “sobre o consumo consciente de publicidade e sobre como reagir corretamente”
+Alternativa: “120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, das quais 80% são idosos”
 
-**A, P4:** “desde da formação escolar”
+**B, P2:** “Fica claro, portanto, a necessidade imediata”
 
-Alternativa: “desde a formação escolar”
+Alternativa: “Fica clara, portanto, a necessidade imediata”
 
-**A, P2:** “é indispensável negar que os anúncios atualmente são inevitáveis”
+**B, P2:** “Essa ideia é sustentada pela consequência da elevação da temperatura média em todo país: 120 mil pessoas faleceram”
 
-Alternativa: “é indispensável reconhecer a presença recorrente dos anúncios no cotidiano”
+Alternativa: “A retirada de árvores reduz a sombra nas cidades e amplia a exposição ao calor, tornando a urbanização uma questão de saúde pública.”
 
-**A, P3:** “mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir”
+**B, P3:** “os casos de dengue no planeta cresceram 37%.”
 
-Alternativa: “Mesmo quando não são enganosos ou abusivos, anúncios repetidos podem intensificar a pressão para consumir.”
+Alternativa: “há projeção de aumento de 37% nos casos de dengue no planeta.”
 
-**A, P3:** “publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir”
+**B, P3:** “Isso ocorre pois a impermeabilização do solo - decorrente da falta de vegetação - e a facilidade do vetor Aedes Aegypti proliferar geram impactos severos à saúde brasileira.”
 
-Alternativa: “Entretanto, essa proteção não elimina a pressão decorrente da exposição repetida a anúncios.”
+Alternativa: “O calor favorece a proliferação do mosquito transmissor, ampliando o risco de dengue e os impactos sobre a saúde brasileira.”
 
-**A, P3:** “Por conseguinte, o termo popular inglês "FOMO"”
+**B, P3:** “Por conseguinte, de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.”
 
-Alternativa: “Essa pressão pode ser explicada pelo conceito de FOMO”
+Alternativa: “A esse respeito, de acordo com a revista Veja Saúde, há projeção de aumento de 37% nos casos de dengue no planeta.”
 
-**A, P4:** “palestras diversificadas e atividades interativas”
+**B, P3:** “um grande agravante para a manutenção da saúde pública.”
 
-Alternativa: “palestras e atividades de comparação crítica de anúncios”
+Alternativa: “um grande entrave à manutenção da saúde pública.”
 
-**B, P1:** “pois convencem a compra do produto divulgado”
+**B, P4:** “oferecendo boa captação do calor”
 
-Alternativa: “pois incentiva o público a comprar o produto divulgado”
-
-**B, P1:** “mesmo que não há necessidade útil”
-
-Alternativa: “mesmo que não haja necessidade útil”
-
-**B, P1:** “as propagandas fazem parte da rotina do brasileiro há décadas e que são afetados negativamente por essa exacerbação”
-
-Alternativa: “as propagandas fazem parte da rotina dos brasileiros há décadas, e essa exposição excessiva os afeta negativamente”
-
-**B, P2:** “é indispensável negar que os anúncios atualmente são inevitáveis e que possuem intenção de instigar o público alvo”
-
-Alternativa: “é necessário reconhecer a presença constante dos anúncios e sua intenção de estimular o público-alvo”
-
-**B, P2:** “público alvo”
-
-Alternativa: “público-alvo”
-
-**B, P2:** “esse excesso de publicidade acarreta as pessoas a serem consumistas, por conta da ansiedade envolvida, e consequentemente, podendo levar o indivíduo a gastar mais do que pode”
-
-Alternativa: “esse excesso de publicidade leva as pessoas ao consumismo, em razão da ansiedade envolvida, o que pode levá-las a gastar mais do que podem”
-
-**B, P3:** “o termo popular inglês "FOMO" - medo de não fazer parte -, descreve”
-
-Alternativa: “o termo popular inglês FOMO — medo de não fazer parte — descreve”
-
-**B, P4:** “desde da formação escolar”
-
-Alternativa: “desde a formação escolar”
-
-**B, P3:** “publicidades enganosas e as publicidades abusivas são proibidas por lei. Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir”
-
-Alternativa: “Além da discussão sobre anúncios enganosos ou abusivos, é necessário considerar a pressão emocional da exposição repetida: o receio de não pertencer pode levar o público a desejar o item anunciado.”
-
-**B, P3:** “Entretanto, mesmo com regulamentos protegendo a sociedade hodiernamente, as publicidades são feitas com intenção de fazer o usuário consumir”
-
-Alternativa: “Além da proteção contra publicidade enganosa e abusiva, é necessário discutir os efeitos emocionais da exposição publicitária constante.”
-
-**B, P3:** “Por conseguinte, o termo popular inglês "FOMO" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo”
-
-Alternativa: “Esse mecanismo pode ser explicado pelo FOMO, o medo de não fazer parte.”
-
-**B, P4:** “atividades interativas”
-
-Alternativa: “atividades de análise de anúncios e identificação de estratégias de persuasão”
+Alternativa: “ampliando o sombreamento e reduzindo a exposição ao calor”
 
 ## G. Repertório sociocultural
 
-### A · P1 · Filme O Show de Truman.
+### A · P1 · Perspectiva socioambiental atribuída a Ailton Krenak e à obra identificada na transcrição.
 
-“No filme "O Show de Truman", o protagonista vive em um espetáculo midiático e é transmitido a todo momento, vivendo em meio de publicidades implícitas e constantes em sua rotina.”
+“Na obra "A vida Não é útil", o autor indígena Ailton Krenak repreende a lógica capitalista que prioriza o desmatamento para acúmulo de recursos, enquanto defende a necessidade de preservação”
 
-Legitimidade: Referência cinematográfica identificada e apresentada como leitura de uma situação ficcional. A descrição não foi verificada externamente e não há fundamento para tratá-la como falsa.
+Legitimidade: Mobiliza uma obra e um pensador identificados como fundamento interpretativo da relação entre exploração e preservação. A paráfrase não foi conferida na obra; não se presume erro factual a partir dessa ausência de verificação.
 
-Pertinência: A presença constante de publicidade na rotina do protagonista é relacionada ao excesso de anúncios no cotidiano brasileiro.
+Pertinência: A oposição entre exploração ambiental e preservação é pertinente à discussão da vegetação, da urbanização e dos impactos do calor.
 
-Produtividade e integração: A analogia prepara a tese por meio da presença cotidiana da publicidade e é retomada no encerramento; não funciona apenas como nome de obra isolado.
-
-Verificação externa: nao_verificado; nenhuma consulta externa alegada.
-
-### A · P2 · Estatística atribuída a João Branco e à revista Provokers.
-
-“de acordo com o professor João Branco, em parceria com a revista Provokers, uma pessoa vê, estimavelmente, 3,5 propagandas por minuto”
-
-Legitimidade: O texto apresenta uma atribuição e um dado quantitativo, mas sua origem, metodologia e exatidão não foram verificadas. A ausência de consulta não permite afirmar falsidade.
-
-Pertinência: O dado trata diretamente da frequência de exposição a propagandas.
-
-Produtividade e integração: A estatística dimensiona o excesso mencionado, embora não demonstre, sozinha, a negação da inevitabilidade formulada no tópico nem uma causalidade clínica sobre ansiedade.
+Produtividade e integração: Fundamenta a leitura ambiental da tese e reaparece, após a ação de arborização, como perspectiva a ser praticada. Cumpre função no percurso argumentativo, embora o mecanismo climático possa ser mais explicado.
 
 Verificação externa: nao_verificado; nenhuma consulta externa alegada.
 
-### A · P3 · Conhecimento sobre proteção legal contra publicidade enganosa e abusiva.
+### A · P2 · Interpretação da urbanização como modernização dolorosa, atribuída a Milton Santos.
 
-“publicidades enganosas e as publicidades abusivas são proibidas por lei”
+“o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa”
 
-Legitimidade: Conhecimento de natureza jurídica empregado sem identificação de dispositivo. Não foi realizada consulta legal, e não se presume imprecisão factual por essa ausência.
+Legitimidade: Apresenta uma interpretação identificada com um geógrafo como apoio conceitual. A atribuição e sua formulação exata não foram verificadas externamente.
 
-Pertinência: O conhecimento se relaciona à proteção da população diante de práticas publicitárias.
+Pertinência: Relaciona-se ao eixo da urbanização e de seus custos sociais e ambientais.
 
-Produtividade e integração: Sua contribuição é limitada pela ausência de uma distinção entre a proibição de práticas específicas e a pressão gerada por publicidade voltada ao consumo em geral.
-
-Verificação externa: nao_verificado; nenhuma consulta externa alegada.
-
-### A · P3 · FOMO, empregado como medo de não fazer parte.
-
-“o termo popular inglês "FOMO" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo”
-
-Legitimidade: O texto mobiliza um conceito de circulação social para interpretar comportamento de consumo. A atribuição conceitual não foi pesquisada externamente; sua formulação é examinada pelo uso efetivo na redação, sem exigir fonte acadêmica não prevista na matriz.
-
-Pertinência: O medo de exclusão é relacionado à pressão para possuir o item anunciado e à ansiedade de consumo.
-
-Produtividade e integração: O período explica o conceito pelo desconforto de não ter o produto, contribuindo efetivamente para a tese e para a proposta de autonomia do consumidor.
+Produtividade e integração: Oferece uma chave para interpretar danos urbanos, mas sua exploração é parcial: as mortes por calor ilustram sofrimento sanitário sem esclarecer suficientemente a participação específica da urbanização.
 
 Verificação externa: nao_verificado; nenhuma consulta externa alegada.
 
-### B · P1 · Filme O Show de Truman.
+### A · P2 · Dados de estudo atribuído à Fiocruz e à UFBA sobre mortalidade associada a ondas de calor.
 
-“No filme "O Show de Truman", o protagonista vive em um espetáculo midiático e é transmitido a todo momento, vivendo em meio de publicidades implícitas e constantes em sua rotina.”
+“120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos, segundo estudo realizado pela Fiocruz e UFBA”
 
-Legitimidade: Obra cinematográfica usada como conhecimento cultural. A leitura apresentada é compatível com a analogia construída no próprio texto; não foi realizada verificação externa de detalhes da obra.
+Legitimidade: Os números de 120 mil e 80% aparecem no Texto III da entrada. A comparação com os motivadores é possível, mas não equivale a consulta ao estudo original.
 
-Pertinência: A exposição publicitária constante selecionada pelo autor se relaciona ao excesso de publicidade no cotidiano.
+Pertinência: É diretamente relacionado a ondas de calor, mortalidade no Brasil e vulnerabilidade de idosos.
 
-Produtividade e integração: Sustenta a comparação entre ficção e realidade na introdução e é retomada no encerramento. Sua principal função é caracterizar a onipresença dos anúncios, enquanto o mecanismo emocional ganha explicação mais específica pelo FOMO.
-
-Verificação externa: nao_verificado; nenhuma consulta externa alegada.
-
-### B · P2 · Dado de frequência publicitária atribuído a João Branco e à revista Provokers.
-
-“de acordo com o professor João Branco, em parceria com a revista Provokers, uma pessoa vê, estimavelmente, 3,5 propagandas por minuto”
-
-Legitimidade: Apresenta atribuição nominal de fonte, mas não há consulta externa ou documentação fornecida para confirmar a autoria, a caracterização da publicação, o número ou seu universo de aplicação. A ausência de verificação não demonstra falsidade.
-
-Pertinência: A frequência de exposição é pertinente ao recorte de publicidade excessiva.
-
-Produtividade e integração: Dimensiona a exposição e prepara a relação com consumismo e gastos excessivos. O número, isoladamente, não prova ansiedade, mas cumpre função de contextualização quantitativa dentro do desenvolvimento.
+Produtividade e integração: Dá dimensão concreta à gravidade sanitária e à necessidade de mitigação. Seu uso não comprova sozinho o mecanismo que liga urbanização e aquecimento.
 
 Verificação externa: nao_verificado; nenhuma consulta externa alegada.
 
-### B · P3 · Conhecimento sobre proteção legal contra publicidade enganosa e abusiva.
+### A · P3 · Percentual de aumento de dengue atribuído à Veja Saúde e presente no infográfico dos motivadores.
 
-“publicidades enganosas e as publicidades abusivas são proibidas por lei”
+“de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%”
 
-Legitimidade: Conhecimento de natureza jurídico-social apresentado de forma geral. Não se exige o número de uma lei para reconhecer sua função textual. O enunciado não foi verificado externamente.
+Legitimidade: O percentual e a fonte estão no material fornecido, mas o Texto II o apresenta no contexto de projeção. Não foi consultada a publicação original.
 
-Pertinência: Relaciona-se à proteção do público diante de práticas publicitárias.
+Pertinência: Contribui para o eixo de impactos indiretos do calor sobre a saúde.
 
-Produtividade e integração: Introduz o âmbito regulatório, mas sua articulação é limitada: o texto não demonstra como a intenção comercial posterior se contrapõe à proteção descrita ou se liga à pressão emocional.
+Produtividade e integração: Amplia a discussão para doença transmitida por vetor; sua contribuição é limitada pela transformação da projeção em fato passado e pela explicação causal incompleta.
 
 Verificação externa: nao_verificado; nenhuma consulta externa alegada.
 
-### B · P3 · FOMO como medo de não fazer parte e mecanismo de pressão para consumir.
+### B · P1 · Obra atribuída a Ailton Krenak e crítica à exploração ambiental para acúmulo de recursos.
 
-“o termo popular inglês "FOMO" - medo de não fazer parte -, descreve o motivo pelo qual existe pressão constante no consumo”
+“Na obra "A vida Não é útil", o autor indígena Ailton Krenak repreende a lógica capitalista que prioriza o desmatamento para acúmulo de recursos, enquanto defende a necessidade de preservação, visando a segurança ambiental.”
 
-Legitimidade: Conceito sociocultural explicado pelo próprio texto e reconhecível como conhecimento mobilizado; não depende de uma citação de autoridade. Não houve verificação externa da terminologia ou de sua história.
+Legitimidade: Reflexão literária e socioambiental identificada por autor e obra. A formulação é tratada como interpretação do candidato; fidelidade ao livro e ao título não foi conferida externamente.
 
-Pertinência: Relaciona receio de exclusão e consumo, respondendo ao recorte dos impactos emocionais da publicidade.
+Pertinência: A oposição entre desmatamento e preservação se relaciona ao eixo ambiental do calor e à proteção da saúde.
 
-Produtividade e integração: É aplicado ao desconforto de não possuir o item exibido e sustenta a defesa de mais autonomia diante dos anúncios. Assim, oferece uma explicação funcional para a tese.
+Produtividade e integração: Enquadra a tese contra urbanização em detrimento da preservação e é retomada na arborização de finalidade sanitária. Não se limita à menção do autor.
+
+Verificação externa: nao_verificado; nenhuma consulta externa alegada.
+
+### B · P2 · Urbanização como modernização dolorosa, atribuída a Milton Santos.
+
+“o geógrafo Milton Santos defende a urbanização atual como uma modernização dolorosa.”
+
+Legitimidade: Conhecimento geográfico e social apresentado como paráfrase. A atribuição não foi verificada externamente, o que não autoriza presumir erro.
+
+Pertinência: Permite interpretar custos sociais e sanitários da urbanização.
+
+Produtividade e integração: Enquadra os óbitos como custo urbano, com produtividade parcial porque não explicita como a urbanização aumenta a exposição térmica. Isso não apaga a contribuição do repertório de Krenak ao conjunto.
+
+Verificação externa: nao_verificado; nenhuma consulta externa alegada.
+
+### B · P2 · Mortalidade e vulnerabilidade etária em estudo atribuído à Fiocruz e UFBA.
+
+“120 mil pessoas faleceram por conta das ondas de calor nos últimos 20 anos, dos quais 80% são idosos, segundo estudo realizado pela Fiocruz e UFBA.”
+
+Legitimidade: Dado científico com instituições identificadas. Os números principais constam do motivador III; houve comparação interna com o material fornecido, sem consulta ao estudo original.
+
+Pertinência: Relaciona ondas de calor, mortes e população idosa no recorte brasileiro.
+
+Produtividade e integração: Dimensiona a gravidade e sustenta a vulnerabilidade dos idosos. Não comprova sozinho o papel causal da urbanização. É aproveitamento de motivador, e não repertório externo adicional.
+
+Verificação externa: nao_verificado; nenhuma consulta externa alegada.
+
+### B · P3 · Aumento de dengue atribuído à revista Veja Saúde.
+
+“de acordo com a revista Veja Saúde, os casos de dengue no planeta cresceram 37%.”
+
+Legitimidade: Informação de divulgação em saúde correspondente ao motivador II. Não houve consulta à publicação original.
+
+Pertinência: Serve ao eixo dos efeitos indiretos, embora a escala mundial precise ser aplicada ao argumento brasileiro.
+
+Produtividade e integração: Dimensiona o risco indireto, mas converte projeção em fato passado e precisa de ligação causal mais explícita ao calor.
 
 Verificação externa: nao_verificado; nenhuma consulta externa alegada.
 
 ## H. Plano de evolução
 
-1. **Regularizar sujeito, verbo e complementos nos parágrafos 1, 2 e 4.** (A). Exercício: Em 15 minutos, sublinhe o sujeito de cada oração, circule o verbo e reescreva os trechos com convencem a compra, são afetados, acarreta as pessoas e desde da. Em seguida, confira o modo verbal depois de mesmo que. Critério de sucesso: Cada verbo tem sujeito identificável e concordante; convencer e acarretar recebem complementos compatíveis; a concessão usa haja e a expressão temporal usa desde a.
+1. **Explicitar os elos causais dos parágrafos 2 e 3 e preservar a natureza temporal dos dados.** (A). Exercício: Reescrever esses dois parágrafos por substituição: trocar um fecho genérico por uma frase que ligue urbanização, calor e exposição ou transmissão; no terceiro, apresentar o percentual como projeção. Critério de sucesso: Cada exemplo apoia uma relação causal explicitada, e todo número mantém o caráter de observação ou projeção presente no material fornecido, sem ampliar as 30 linhas.
 
-2. **Alinhar afirmação, fundamento e relação lógica nos parágrafos 2 e 3.** (A). Exercício: Em 12 minutos, escreva à margem a afirmação defendida e o que o dado de exposição comprova. Depois, substitua a passagem sobre a lei por uma frase que distinga publicidade ilícita de pressão por repetição e escolha um conector explicativo para FOMO. Critério de sucesso: O dado sustenta a afirmação formulada; a menção à lei tem função explícita; nenhum conector indica oposição ou consequência entre proposições que não expressem essa relação.
+2. **Revisar a concordância em períodos com referentes distantes, especialmente no parágrafo 2.** (A). Exercício: Sublinhar o núcleo de cada sujeito e o antecedente de cada pronome relativo; em seguida, conferir gênero e número de seus predicativos e retomadas. Critério de sucesso: O predicativo concorda com necessidade e o percentual retoma pessoas de modo inequívoco, mantendo a fluidez do parágrafo.
 
-3. **Consolidar o emprego produtivo de repertório e a intervenção completa já demonstrados.** (A). Exercício: Em 8 minutos, identifique em uma frase como FOMO explica o impacto e marque, na conclusão existente, ação, agente, meio, efeito e conteúdo detalhado, sem acrescentar outra proposta. Critério de sucesso: A relação entre conceito, pressão pelo consumo e autonomia permanece explícita, e os elementos da intervenção continuam pertencendo à mesma iniciativa.
+3. **Ajustar a relação expressa pelo conector que introduz o dado de dengue no parágrafo 3.** (A). Exercício: Retirar provisoriamente o conector, escrever ao lado a relação efetiva entre as duas frases e selecionar uma ligação compatível com a função de apoio do dado. Critério de sucesso: O conector passa a expressar contextualização ou fundamentação, sem apresentar o dado como consequência da necessidade de evidenciar o problema.
 
 As três prioridades reproduzem a ordem proposta por A, completada por B/C quando necessário; não representam um novo julgamento de nota do coordenador.
 
 ## I. Auditoria de avaliação
 
-A e B coincidiram em todas as notas, mas não produziram pareceres idênticos. A destacou também em C3 o desencontro entre negar a inevitabilidade dos anúncios e usar como fundamento um dado de exposição frequente; B registrou essa escolha lexical em C1 e concentrou a justificativa de C3 na passagem sobre a proteção legal. Ambos identificaram a mesma dificuldade na relação entre proibição de modalidades abusivas/enganosas e intenção comercial. As observações foram preservadas, sem conversão em descontos fixos por ocorrência e sem acionamento indevido de C.
-
 A/B: diferença total 0; por competência C1=0, C2=0, C3=0, C4=0, C5=0; divergência de situação: False; discrepância: False.
 
 Maior divergência por competência: 0 ponto(s). Nenhuma divergência numérica nas competências avaliadas.
 
-**Situação A: normal.** O texto apresenta uma tese sobre os efeitos da publicidade excessiva, argumentos e uma conclusão propositiva. Não há evidência de fuga ao tema, predominância de outro tipo textual ou outra situação de zero global. As linhas físicas são desconhecidas e não foram estimadas.
+**Situação A: normal.** Há texto dissertativo-argumentativo legível na transcrição, relacionado à frase temática, com defesa de ponto de vista e proposta de intervenção. As 30 linhas manuscritas foram declaradas na entrada; não há evidência de motivo de anulação.
 
-P1: “o exagero da divulgação de publicidade no cotidiano da população brasileira é preocupante” — A afirmação explicita o problema temático e uma posição a ser defendida.
+P1: “o calor crescente afeta diretamente e indiretamente a população” — Apresenta uma afirmação temática que será defendida nos dois parágrafos de desenvolvimento.
 
-P4: “deve realizar campanhas educativas nas escolas” — A conclusão formula uma intervenção, em continuidade ao desenvolvimento argumentativo.
+P4: “Portanto, é imprescindível agir para mitigar o extremo calor no Brasil.” — A conclusão mantém o recorte temático e introduz uma ação propositiva.
 
-Limitações A: Linhas físicas: desconhecido. O texto é digital, e não se estimou a quantidade de linhas da folha original. Textos motivadores não fornecidos: não é possível verificar cópia ou dependência em relação a eles. Não houve consulta externa: as referências ao filme, à estatística, à proteção legal e a FOMO foram registradas como não verificadas. A avaliação considera a entrada congelada tal como fornecida; não há evidência para atribuir os desvios a artefatos de transcrição nem para examinar caligrafia.
+Limitações A: A análise foi feita sobre a transcrição congelada; ela não permite avaliar caligrafia ou translineação do manuscrito. As 30 linhas físicas são uma declaração registrada na entrada, não uma contagem da folha realizada pelo corretor. Não se inferiu excesso de linhas pelo tamanho do texto. As referências, os percentuais e as atribuições foram examinados com base no texto e nos motivadores fornecidos, sem consulta a obras, estudos ou páginas externas.
 
-**Situação B: normal.** O texto apresenta tese, desenvolvimento argumentativo e proposta de intervenção sobre os impactos da publicidade excessiva. Não há evidência de fuga temática, predominância de outro tipo textual ou motivo de anulação. A extensão física não foi informada e não é estimada pelo tamanho do arquivo.
+**Situação B: normal.** Há texto dissertativo-argumentativo completo, com defesa de ponto de vista, desenvolvimento e intervenção relacionados ao tema. As 30 linhas manuscritas são declaradas na entrada; não há evidência de situação de anulação.
 
-P1: “o exagero da divulgação de publicidade no cotidiano da população brasileira é preocupante” — Formula um ponto de vista diretamente relacionado ao tema.
+P1: “o calor crescente afeta diretamente e indiretamente a população” — A introdução apresenta o problema e um ponto de vista sobre seus efeitos.
 
-P4: “deve realizar campanhas educativas nas escolas” — A conclusão propõe uma ação para enfrentar o problema discutido.
+P4: “Portanto, é imprescindível agir para mitigar o extremo calor no Brasil.” — O fechamento encaminha solução coerente com a discussão e mantém o predomínio argumentativo.
 
-Limitações B: Linhas físicas: desconhecido. O texto digital não permite aferir extensão manuscrita, caligrafia ou translineação. Os textos motivadores não foram fornecidos; não é possível verificar cópia ou dependência deles, nem afirmar originalidade verificada. As referências culturais, o dado atribuído a João Branco/Provokers e a informação legal não foram consultados externamente; nenhuma falsidade factual foi presumida.
-
-Número de linhas físicas desconhecido: nenhuma contagem foi inferida do Markdown.
-
-Textos motivadores não fornecidos: cópia e dependência deles não foram verificadas.
+Limitações B: A avaliação usa a transcrição congelada e os motivadores fornecidos; não permite avaliar caligrafia, tamanho de letras ou distribuição na folha. As 30 linhas físicas são declaradas pelo autor, sem conferência da folha original. Não se inferiu excesso pelo tamanho do texto nem quantidade de linhas autorais após eventual cópia. Não houve pesquisa externa. As referências não foram verificadas nas fontes originais; a observação sobre projeção de dengue decorre apenas do motivador II fornecido.
 
 Independência de contexto é protocolar; os subagentes compartilham filesystem. Validação literal não prova que o diagnóstico linguístico é correto.
 
-SHA-256 da entrada: `8a6c7005437e9f57605f0cc4cbf739ffecb208ab3bd6a0c45d91cee36df6aa3a`.
+SHA-256 da entrada: `c65d3072ca0610ecdc8e714070c05c72e72a6414a0efb0ccd3caa27823a7c130`.
 
-[Entrada preservada](execucoes/20261102T162521077798Z/redacao.md) · [Decisão estruturada](execucoes/20261102T162521077798Z/arbitragem.json) · [Registro dos agentes](execucoes/20261102T162521077798Z/execucao-agentes.json)
+[Entrada preservada](execucoes/20261104T002602596165Z/redacao.md) · [Decisão estruturada](execucoes/20261104T002602596165Z/arbitragem.json) · [Registro dos agentes](execucoes/20261104T002602596165Z/execucao-agentes.json)
 
-[Corretor A](execucoes/20261102T162521077798Z/avaliacoes/A.json) · [Corretor B](execucoes/20261102T162521077798Z/avaliacoes/B.json)
+[Corretor A](execucoes/20261104T002602596165Z/avaliacoes/A.json) · [Corretor B](execucoes/20261104T002602596165Z/avaliacoes/B.json)
 
 Critérios: [Cartilha do Participante 2026](https://download.inep.gov.br/publicacoes/institucionais/avaliacoes_e_exames_da_educacao_basica/cartilha_enem_2026.pdf), pp. 6–7, 12–38; [FAQ do Inep](https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes/exame-nacional-do-ensino-medio-enem), cálculo da nota.
 
